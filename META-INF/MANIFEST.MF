@@ -1,0 +1,3954 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: WxlxAdS3gPYO9rjlP08VWLum9Do42TbpYqdF9WZFOek=
+
+Name: assets/eid.bin
+SHA-256-Digest: y65LgyuMI9k06ClGnE+azOsrwi4882MK6E++QfR1zcE=
+
+Name: assets/eid_ar.fnt
+SHA-256-Digest: flzuzKD3ikVwvaHyGO6T2V7SznGCPMhHRGOviqx4upg=
+
+Name: assets/eid_ar_plain.fnt
+SHA-256-Digest: ipNIHYOGLGKF9gzT1WuTei6e8Tnf45STME7UNrCH5FA=
+
+Name: assets/eid_arabic_02.png
+SHA-256-Digest: rXeCS5LRInRKgdj//rylZdbKR8t4E2jShpr60VpYUDk=
+
+Name: assets/eid_arabic_plain.png
+SHA-256-Digest: t7ezOrf4KLsWLgKIIz2OcYgw9Yk1gUUJX+l8JgUOpAY=
+
+Name: assets/eid_borderless.fnt
+SHA-256-Digest: ERMKfrofpG0pheOqaDG758IVvxIV/W193OBAdLcvxwY=
+
+Name: assets/eid_borderless_0.png
+SHA-256-Digest: enf3xe1rcRoNjy4b0LpPlTi4xfUGfducM/4kD2DBdQk=
+
+Name: assets/eid_cardspills.anm2
+SHA-256-Digest: FFwuZebhl4tNHHHTD9GzbZksnbYQR6MhefthOmJPfu0=
+
+Name: assets/eid_cardspills.png
+SHA-256-Digest: 8pEeBEtkgKWaVEV5EEdfMa1XGUNEiMV4uuOD9F2f5ZM=
+
+Name: assets/eid_cn_alt.fnt
+SHA-256-Digest: TVZY0rLF92zeOyYDXs3S9jO5DHEmDMqjJaJMuzLlz3Q=
+
+Name: assets/eid_cn_alt_0.png
+SHA-256-Digest: A3RePlgA2MPsudC+vsXtDIu5SYHKIaFTqrxV/rOeSY8=
+
+Name: assets/eid_cn_fix_0.png
+SHA-256-Digest: VwIGLmFZlCuC/zwbiRa3CJDQnXgBlaXiqWvrFELcc6M=
+
+Name: assets/eid_default.fnt
+SHA-256-Digest: 8IZetGK3amCFWL/BuZkdboJY/bNDrUI4CvvZwhBXE0E=
+
+Name: assets/eid_default_0.png
+SHA-256-Digest: Cjruxbs9wGnHI9ZO5KPVB3IcU7PAjdm+qJUOMZ9cJMo=
+
+Name: assets/eid_default_1.png
+SHA-256-Digest: NLAjCrbxvUdXnwbpjTd82hNYlqV/GrHRfvGHoLIX0/o=
+
+Name: assets/eid_inline_icons.anm2
+SHA-256-Digest: I+tdT3PP9JXi8Y1cQwcZVvhya4jtCcmz3z1GlCBe8bI=
+
+Name: assets/eid_inline_icons.png
+SHA-256-Digest: RZmeOofTnVbLJzHGAo7WP5Sw5Jt3xwgucqan03QgD4w=
+
+Name: assets/eid_korean_yoonwebdotum10_shadow.fnt
+SHA-256-Digest: hcOnbOkZTyiHNbI/JeNDipxgNteJVxY+X/msZIceegc=
+
+Name: assets/eid_korean_yoonwebdotum10_shadow_0.png
+SHA-256-Digest: jzs1mCu79H0ueTNy6UAclZ/fxSllFDPZmvKVLGDD7Xg=
+
+Name: assets/eid_player_icons.anm2
+SHA-256-Digest: nRsurzhlv8ZXiet3qrxH31MeXrria83HD83hpnCdNwo=
+
+Name: assets/eid_player_icons.png
+SHA-256-Digest: pDFALSyZZrepacvyKxbImC8ScOeumiKlZg1FX8dJgzg=
+
+Name: assets/eid_transform_icons.anm2
+SHA-256-Digest: +mqFABhJq9U794UhObJVsioc9wBxxWADd3hEEvqQoNk=
+
+Name: assets/eid_transform_icons.png
+SHA-256-Digest: XSgWv+FyxQOC0lMcztQorqdkdK6MxokRq9Ca8FY7uMA=
+
+Name: assets/eid_vi_vn.fnt
+SHA-256-Digest: 2l2eyulbCFpK14HsCajFovfAIxf16uVptYqf/bjUZSo=
+
+Name: assets/eid_vi_vn_0.png
+SHA-256-Digest: XXy6awRp+qOUul1vYAMsRAXiVeKfFm8I4iaHciFCqZY=
+
+Name: assets/eid_vi_vn_1.png
+SHA-256-Digest: 45XYLq4hNpEtp/gmy0a35IiIu4ayGMFKUfQxMVHqDsA=
+
+Name: assets/isaac.arm64
+SHA-256-Digest: IXvjSRX6U9Rd6g6B2p3yriC4clFbtQl3G9CMgvNqxmE=
+
+Name: assets/modport_gameref.bin
+SHA-256-Digest: HyNN+rdq6GPRic5cvWnGEra2+UMerXii1hLGmAthTSw=
+
+Name: assets/paddb-LICENSE.txt
+SHA-256-Digest: a42od/UYuuPiYbJhN1TMl+kW8gABxUmbTOpmgKxtHhs=
+
+Name: assets/paddb.txt
+SHA-256-Digest: RyelYoTY2D+VZiwB1fczDf5blf6uftuoAo0ME64VjeM=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design1(serious max).pn
+ g
+SHA-256-Digest: lLiAoG4uqRIWdE5LAz+WjtGv5QMBDU5Fweq54GxTb+c=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design2(Spyro).png
+SHA-256-Digest: 5vs+VL9RPb8zmg/6hxiznHwOzP6cmBhQvqnKue27hSU=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design3(Hesitant Hatter
+ ene).png
+SHA-256-Digest: qKqWD3d/+/aMILymJYdURfmBVhja3BuXR1bgqzQwYSg=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design4(TheSavageHybrid
+ ).png
+SHA-256-Digest: UWDBpdj5G62myiIS+HHGa1706zNXQbs3P7YkDuK0Ny4=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_abyss.png
+SHA-256-Digest: 2dm7ClZQ4FRkNXxUGALtAE4ThJw6K31I3xdBgg7YWSE=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_bw.png
+SHA-256-Digest: a4IikzkK++Qz0KbLCIk4ZFSYXiS9uubpxzPOSUWw//Q=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_copper.png
+SHA-256-Digest: SEJFZ0zlyCAwVWqKN+S4hJI/EP8Mu4C0WLZ+lWob2xc=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_dots.png
+SHA-256-Digest: duxnv3fo9/FDxxUPmdL+pxK2M1gxZfcsqjyhW14Af/M=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_etg.png
+SHA-256-Digest: PznJerYu/lUXqCEOYbzOdIhPdO4KD2DrECoUqbpALrg=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_flash.png
+SHA-256-Digest: rdJ2PEdx0gxVG+oY1ubhITQzXk94B3c1JaBsc1t7ydI=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_flip.png
+SHA-256-Digest: Mgn+riJ13jKsah2XOq0fmWmmlv14Ao4iUfHYSr8dztY=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_isaachearts.png
+SHA-256-Digest: sLCoTWojlb5fqIo6ENsKEvTudqy0YvsIcC+lRdRGdQ0=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_isaacheartsverti
+ cal.png
+SHA-256-Digest: UT01AYtcSoZf2Kml0rLYQVPVmoSjPk1c1zvkO4KgEcc=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_lilportal.png
+SHA-256-Digest: t1TMjC2F8Hnvit5P7w/4KJadxN6XgjO8Niy8r5mQoAk=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_magicmushroom.pn
+ g
+SHA-256-Digest: 0v7GOql8g6hCdAVOGZ7Nzu+HRzHAOQdx18kSbNJtBWI=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_minecraft.png
+SHA-256-Digest: FXdELo6kZaSa22twQ7KtVajma4ObrETjDuFZqQcL+wU=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_minecraftvertica
+ l.png
+SHA-256-Digest: 1nWo4qEtbNX/859JU74+DaT5utNk2LZBNNw5muCx7VA=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_planetarium.png
+SHA-256-Digest: h2kKPuEvTeZNWVVRWWji1I27zvOO8IhqUI4Pt7mpAgU=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_playdoughcookie.
+ png
+SHA-256-Digest: TOBVod5lCfmbfd35SwlboHyQsb6Lj2HHENeuanCmG+8=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_revelation.png
+SHA-256-Digest: 2/pC9rwDq2w+axRyEm94tvXDAg04tm2cKMs3O6Ecu/U=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_spintowin.png
+SHA-256-Digest: K0KpXKbShj0Kswl7IboYu3GSU5ekfC5FEfuX3Mx+e5M=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_terraria.png
+SHA-256-Digest: MAaR1wCR8DRvG4Y7tDuNxcf1j8l9fGXMd4uktGQQlJo=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_tmtrainer.png
+SHA-256-Digest: pW/vB4HsSOO9yJD4hYb/YycARHMpItrTadhlKvlR6OA=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_design_void.png
+SHA-256-Digest: P+ODqo3tuQShCpkHgdAztPdN5noM6g+nIxRulTgJLfI=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_notches.png
+SHA-256-Digest: D240CDjKbB1uqHnwoXyaG/fdrj9iVh4nJniVwtIxx4A=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_notches_paper.png
+SHA-256-Digest: 6aCjlChIb+FwxoBeovmj1LDEwAaIbjBVcoQVXUs9Mkw=
+
+Name: assets/port_bossbars/bosshp_bars/bossbar_notches_terraria.png
+SHA-256-Digest: TzoyL8OLAjVGreiuQQSxiFLPcIEq9w5qL/RWiyydxLQ=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/beast_bosshp_overlay.anm
+ 2
+SHA-256-Digest: euPjsOPbBRnEhyUblXlx49XggDQ7uXV8kRn0cJNjQAI=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/bossbar_beast.png
+SHA-256-Digest: ykf7JsphGwMXfEeetStsqkb+AiC0vnE9auKt3TZY7Ws=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/bossbar_colostomia.png
+SHA-256-Digest: TuTyJhT/lvwtSZOWNimNLvrKlsNXM3iiXvQKRUSzgT0=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/bossbar_colostomia_verti
+ cal.png
+SHA-256-Digest: Yq/bZ0PPbA0Gpbpt4MHIB7seRPEoGQmbV7QSB26Es1M=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/bossbar_darkesau.png
+SHA-256-Digest: VrVbl2rqkO9SDrtzQVj0Z18buO+t7parenW82hxyyrc=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/bossbar_delirium.png
+SHA-256-Digest: OgsJwJO1vRsjwvcl779aAN+S+pes5UxTRqkdUcIWAtU=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/bossbar_hush.png
+SHA-256-Digest: hY4hR1IpEFsHDXR4ja9W5V0Yk7lqmXYqzD7rC4T3VfY=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/bossbar_mega_satan.png
+SHA-256-Digest: 9GuGzckIyTlMgep51FSpqgqz+Z4lF/PhxUv3tiuMp/E=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/bossbar_mega_satan_phase
+ 2.png
+SHA-256-Digest: 7faaeeSWrjLb/k0F6YWJvXP1v5DX0bmJe6MoHsWg3vI=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/bossbar_mother.png
+SHA-256-Digest: 0dJMji6dgpveLlUthzVY3LSxHs/69tPUq5mc6h1nKKY=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/bossbar_overlay_beast.pn
+ g
+SHA-256-Digest: b+2NzafgabfWLeoqYmiFzJ7oX1NQIdEsd2VVxWYkAEQ=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/bossbar_overlay_mother.p
+ ng
+SHA-256-Digest: xUALQrZeLUaow1UrG5O/8VjavZSnpnHaAwW2Xo/GqrM=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/bossbar_steven.png
+SHA-256-Digest: Ng508IIVqTRAhxbwHIGHjdcLErmvAkRfsiTaR+Tm4TI=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/bossbar_ultra_greed.png
+SHA-256-Digest: T6YNlBP/1Q8EfR88HmfWwARpZ1vRWN973WOnO1GXnkQ=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/bossbar_ultra_greedier.p
+ ng
+SHA-256-Digest: KrMT8K0+bpMujD3R481lvycKu1tqa7G6/dVSbzqM1P4=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/colostomia_bosshp.anm2
+SHA-256-Digest: 7ll5+CQ+n3/velWvwhuRwqdLbqoLaqxtj/s9DXSPik8=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/delirium_bosshp.anm2
+SHA-256-Digest: RmgkIrrmnzS2TI/Z/MNTyb+V5ox/J/CwCD09AD1Nsq8=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/dogma_bar.png
+SHA-256-Digest: 3BztGdKUb/GSqMLxTb8puD2od8sFX2he/0CKVTbddEg=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/dogma_bosshp.anm2
+SHA-256-Digest: 1vqZjipYndTx1dDSU9uSvb1YjpgX3dVmSVO25aStA/4=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/port_bar__bossbar_beast_
+ _custom_bosshp.anm2
+SHA-256-Digest: iH4ANWiRAtkGDjDzmdIRCm/xPkd3PUSo69Rj9nMQkz8=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/port_bar__bossbar_colost
+ omia__colostomia_bosshp.anm2
+SHA-256-Digest: mYIN5bC6fXNksrlnOU1HFD2cgS/cUXiTHXmMJ45Dsjk=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/port_bar__bossbar_darkes
+ au__custom_bosshp.anm2
+SHA-256-Digest: DwOKyGKxVH6YMSEWERyV7peGneMyNlwBD+NhG2pBveE=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/port_bar__bossbar_deliri
+ um__delirium_bosshp.anm2
+SHA-256-Digest: VT65bPwPfGeA23WPTJBAf123eFg8m8cbJxkknyp9Q9s=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/port_bar__bossbar_hush__
+ custom_bosshp.anm2
+SHA-256-Digest: SNTrOeB76i8RPZ4QX93VQgUyjoFPtigr8bcULp+5y58=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/port_bar__bossbar_mega_s
+ atan__custom_bosshp.anm2
+SHA-256-Digest: se8Mfet8xVCW1jTBEYvU4N+bWswyIxAZ37aPvkmMoO4=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/port_bar__bossbar_mega_s
+ atan_phase2__custom_bosshp.anm2
+SHA-256-Digest: QKtbb+YvWqRQoUSJYe04oSR0C52mwX044TpgMSQvNjg=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/port_bar__bossbar_mother
+ __custom_bosshp.anm2
+SHA-256-Digest: LPRGdn13rFeCriragbsAjrJ+GIiLYTGzyxVAdd05Xeo=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/port_bar__bossbar_steven
+ __custom_bosshp.anm2
+SHA-256-Digest: JeCvZPLthKkFr9DuB9IWcGMIgAF+iHzVxJEUR09Wbi4=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/port_bar__bossbar_ultra_
+ greed__custom_bosshp.anm2
+SHA-256-Digest: 6Dv77kHj200emnfn/oa29xa0ztgzz61u3Z0jfRGBNl0=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/port_bar__bossbar_ultra_
+ greedier__custom_bosshp.anm2
+SHA-256-Digest: EqdUvyhpCTmn9J4EYKviAm9m4lct1r+xsBiI7iASVpE=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/port_bar__dogma_bar__dog
+ ma_bosshp.anm2
+SHA-256-Digest: uKrpxOgYirYtzCZHC/c/C0h28z18t8DnMpvReiFyyxI=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/port_barv__bossbar_colos
+ tomia_vertical__colostomia_bosshp.anm2
+SHA-256-Digest: YU3KBpqEB7QSq1edEwCTN0i2Ve/99CEeA9JY64FYzNI=
+
+Name: assets/port_bossbars/bosshp_bars/bosses/port_overlay__bossbar_ov
+ erlay_mother__default_overlay.anm2
+SHA-256-Digest: ccgzR1+PGNPV17HZHp+taiso58t2ao6mffEQnx3Yxew=
+
+Name: assets/port_bossbars/bosshp_bars/custom_bosshp.anm2
+SHA-256-Digest: LH4Pbix3xjK8DZoc7Cu4buMnVeC+Wkn34iKDBNmXe3E=
+
+Name: assets/port_bossbars/bosshp_bars/custom_bosshp_default.png
+SHA-256-Digest: Lwvzx/lsY9aBiTCiVk7NhL0tLtGKzTA7grYcs2AI5JA=
+
+Name: assets/port_bossbars/bosshp_bars/default_overlay.anm2
+SHA-256-Digest: iI+g30xeFUfLnpSBgbIstZo1PEHcbluIRNb7tCMcd94=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design1_serio
+ us_max___custom_bosshp.anm2
+SHA-256-Digest: Ye1UBUo4KluW8KUjSei1WWtreJlFtLE95uVwU4UQvxs=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design2_Spyro
+ ___custom_bosshp.anm2
+SHA-256-Digest: LgaUPG3itLtqKjHTCjdco158FkiowI5WFHtvvtQnaYI=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design3_Hesit
+ ant_Hatterene___custom_bosshp.anm2
+SHA-256-Digest: 4h35mZ2mWv9kJJ7mKQMK3FeTuMVdhkQpngp6LbQ6nSI=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design4_TheSa
+ vageHybrid___custom_bosshp.anm2
+SHA-256-Digest: AXPfvaR5BILhJq3l/YsMr7G+xc2QR2KoI2JnkkF1ijo=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design_abyss_
+ _custom_bosshp.anm2
+SHA-256-Digest: YODupKr8Nyi+8+ndbJGw57WivXd5PTFXlC1QEGCcvO8=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design_bw__cu
+ stom_bosshp.anm2
+SHA-256-Digest: YKfFnMAkxHPWMOwlQv4tO/jQTC6QrV7NBQ6Qisu/fAQ=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design_copper
+ __custom_bosshp.anm2
+SHA-256-Digest: XjDXI3EvAsOdawmX3iwUMYifEHUHHl6mayOiOi4mV5k=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design_dots__
+ custom_bosshp.anm2
+SHA-256-Digest: Lfa4bAGcfLoxyD+QPSFOMgZXgmoP9phCij0Tc1ZtnD0=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design_etg__c
+ ustom_bosshp.anm2
+SHA-256-Digest: rbZNn89ZneNWYEmYToTqcTm8hKO5SawSIzisitE82Wk=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design_flash_
+ _custom_bosshp.anm2
+SHA-256-Digest: 7GIfCtPqiMUMWFtaOKGZz2LZ8fe00L+yPGxNOJhvy1o=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design_flip__
+ custom_bosshp.anm2
+SHA-256-Digest: wfFibBycWW3cKoXGDEyRIG0vGTvTb/r1zUJpB5zTZUA=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design_isaach
+ earts__custom_bosshp.anm2
+SHA-256-Digest: NOdbECk4R/lmpU75k0z8Jux7fOG3tDY+2IRcp+ug3fY=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design_lilpor
+ tal__custom_bosshp.anm2
+SHA-256-Digest: 6B2puXaewgsusuAHR/3Bpm5o8OVk5urJTw2+WORVR4s=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design_magicm
+ ushroom__custom_bosshp.anm2
+SHA-256-Digest: OrvXR/IyyZBjQBY0b/SuturYBJXLSTTsoTdN0z92rkI=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design_minecr
+ aft__custom_bosshp.anm2
+SHA-256-Digest: 31hSCAGJD5HjWM8Y+w0+RTfEm5cbu2uWV6xIohxJ7eo=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design_planet
+ arium__custom_bosshp.anm2
+SHA-256-Digest: rW78j3wZJoWPcf2Hf7FqnW5PYRxN63ltA6Cp44IOv30=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design_playdo
+ ughcookie__custom_bosshp.anm2
+SHA-256-Digest: u7B5XhXcCOxuaJB276S+6e3Vmy4p4tFKuNd+1+CySds=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design_revela
+ tion__custom_bosshp.anm2
+SHA-256-Digest: smux50LxyuT3LfC8jTqVR3YPLTwIWimC/n8X2v9hups=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design_spinto
+ win__custom_bosshp.anm2
+SHA-256-Digest: axmg2F7ZJV88CTzMu9823qUGXOpbVJBAIL3GF9vq6rQ=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design_terrar
+ ia__custom_bosshp.anm2
+SHA-256-Digest: pl01zJL1oA09/NCbEaxAqYBYKJx128u1HiDfesysSVU=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design_tmtrai
+ ner__dogma_bosshp.anm2
+SHA-256-Digest: yH+rWVclcgCf5UQCEGbnpVHF5tQrlhdCntnxNe5WKug=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__bossbar_design_void__
+ custom_bosshp.anm2
+SHA-256-Digest: ReDXQz6KVllbdNt2SdqVNeCpZcPKL2AQZbZQZ1H2n9Q=
+
+Name: assets/port_bossbars/bosshp_bars/port_bar__custom_bosshp_default
+ __custom_bosshp.anm2
+SHA-256-Digest: ahNSterDtK4s814xgfdafml9jrX+SzNgbf4idj50AUs=
+
+Name: assets/port_bossbars/bosshp_bars/port_barv__bossbar_design_isaac
+ heartsvertical__custom_bosshp.anm2
+SHA-256-Digest: lU9J2gfyLDMvNNIrkALkjitxlofGi9PWU6ZSBsJlDbY=
+
+Name: assets/port_bossbars/bosshp_bars/port_barv__bossbar_design_minec
+ raftvertical__custom_bosshp.anm2
+SHA-256-Digest: c1eZg5LupDUHvicfWKtpFbpmkKsf8LHXHWGuS871uos=
+
+Name: assets/port_bossbars/bosshp_bars/port_notch__bossbar_notches__de
+ fault_overlay.anm2
+SHA-256-Digest: FC2ixhE3mMU02eS5WRqWkptTfKUX8KcLcHr/7J5QId8=
+
+Name: assets/port_bossbars/bosshp_bars/port_notch__bossbar_notches_pap
+ er__default_overlay.anm2
+SHA-256-Digest: K2h34KLUeGqqRya6WdX7UoyQZap6FXnhiLRr+kX6EPU=
+
+Name: assets/port_bossbars/bosshp_bars/port_notch__bossbar_notches_ter
+ raria__default_overlay.anm2
+SHA-256-Digest: Ety+66WLhczE1ka7QPIKuDYI//2n8IQ3EWMetK6tX1c=
+
+Name: assets/port_bossbars/bosshp_icons/agnry_faic.png
+SHA-256-Digest: DHeKATekylamxSRW5pd235dLS1JssKIqZ6FplStRZrk=
+
+Name: assets/port_bossbars/bosshp_icons/agnry_faic_miniboss.png
+SHA-256-Digest: Xzvynk34UsbkjFwjZW4qG/l0RuUmu9UFlFdpXYKs2tw=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/chimera_body.png
+SHA-256-Digest: 4QbkEbQ2VUsmwGQk6eyvgsqYMPqyihDf9UbBjmLPSN0=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/chimera_head.png
+SHA-256-Digest: 0uvOd7ee5ojqjkXI8VHc4QLYA0n0xp5TQkOvgQOb/hg=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/clog.png
+SHA-256-Digest: K60FcgMnrb5wAanE6MVo+wmdnAN5YdHhX5uFHmAgktc=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/clutch.png
+SHA-256-Digest: YjUhpyC834OmtNL28N/8oaO/qIXn9mz3x2OPdsdwSYU=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/clutch_clicketyclack.p
+ ng
+SHA-256-Digest: 3NnAMHobIP2ktp70zfK9ndoDa0WQvgQbO0yEiFdoYhE=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/colostomia.png
+SHA-256-Digest: KS5lmAUuyaabVdELDrQ1iT6vamMOobzf2OgsA52l1io=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/colostomia_phase2.png
+SHA-256-Digest: xza6vDHRVqnzuiCGJ/JJaFHPUdt92FHXTDFGXGGAjIA=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/great_gideon.png
+SHA-256-Digest: G8UFU7su2JYAEYar1IreLr21Ncv28QDBbGg+2Ogvqyc=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/hornfel.png
+SHA-256-Digest: GOEeGHqr9m7wjm/FiXUbakB7lWrANlwuiNtU8gXhTfU=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/hornfel_phase2.png
+SHA-256-Digest: 1Pb4iUKMJI3m4LdhiZD9RCZTX7ke6V45CPwyC7IAksM=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/horny_boys.png
+SHA-256-Digest: yEZpjOqaz2vTVfIjzqRgPtJMjFqiJ4cHJqFb+xpo0Ts=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/lil_blub.png
+SHA-256-Digest: kUv903UzaivUlQuKLLEr5cRkoxxvQNbcldXBQe8Trkc=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/lil_blub_dross.png
+SHA-256-Digest: bsyTgzmHR5VyHEcfYPYmvWNXtY6meA9+pbtYXLEo8d4=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/min_min.png
+SHA-256-Digest: kWSoiM1K/YA/N0qHicGeopsvLMXttra+ictPxW0IvaI=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/min_min_phase2.png
+SHA-256-Digest: qmt0nJD3cKhX5yTmtK903vClSFlFxt1XnxpSAIhwJas=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__chimera_bod
+ y__bosshp_icon_32px.anm2
+SHA-256-Digest: oJkZ5tbyR0QzoqA3bzhWDSW081feJqmqSSk2/I2mTH0=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__chimera_hea
+ d__bosshp_icon_32px.anm2
+SHA-256-Digest: +H/dksFiUNf6Yz6oE7nAClpHTPScw+s8ahh4PP6uHqs=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__clog__bossh
+ p_icon_32px.anm2
+SHA-256-Digest: sRpv14LG90H3Fb/0KZEbOTdDurJzUEttQ/iFMXuHLak=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__clutch__bos
+ shp_icon_32px.anm2
+SHA-256-Digest: a2P+t7XyKcmAHopqbfJaxqpfUt2EIbCHYptFEKXB51s=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__clutch_clic
+ ketyclack__bosshp_icon_32px.anm2
+SHA-256-Digest: bhi9d6w+ky7y1K6KWp0VQ97d+WPZSy9PC0cmyehjhg4=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__colostomia_
+ _bosshp_icon_32px.anm2
+SHA-256-Digest: NHZJ7znqWQ2+9JYQE2Czy10zSX4uTVgn35uuxBIvrEI=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__colostomia_
+ phase2__bosshp_icon_32px.anm2
+SHA-256-Digest: raz9FVFpC84XCyIUOTWDgS5SAACgPZUOCrd3mm2j4k8=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__great_gideo
+ n__bosshp_icon_32px.anm2
+SHA-256-Digest: G/WmDreK1toauoj4x5xNf85pTAMZCcvlJZ775kvHqLY=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__hornfel__bo
+ sshp_icon_32px.anm2
+SHA-256-Digest: WA48bJnby3pGdsCCSdtGE2gaGz8TQjFviQFYMTlnUxI=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__hornfel_pha
+ se2__bosshp_icon_32px.anm2
+SHA-256-Digest: VMB/nlu909epQy70jNjY10fyEHmCYAWzOBVLWDhFfdA=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__horny_boys_
+ _bosshp_icon_32px.anm2
+SHA-256-Digest: pZSJi/ecybt2g7fUF24Rq0wj11F8hHPAezNKKIwfT6U=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__lil_blub__b
+ osshp_icon_32px.anm2
+SHA-256-Digest: gtQ2tDWioCRTueP2Zyu6iHSQqPLuVAd98opRKNHWuSI=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__lil_blub_dr
+ oss__bosshp_icon_32px.anm2
+SHA-256-Digest: OTnaWEq5VWAlBlciEp3gbpeyLEWWmS2+BI9EfbbdLWI=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__min_min__bo
+ sshp_icon_32px.anm2
+SHA-256-Digest: fUfMSR9Dlm9Exv5LGKOD07vGJfOQvfXwaGbmrPbZaPE=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__min_min_pha
+ se2__bosshp_icon_32px.anm2
+SHA-256-Digest: 87NhgU9uD4UsImTLXJm/loXoD4V+ZihKSUPv6NKVDfg=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__rainmaker__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: 5lcbz+m1Uxuf+wIA8Y8J9WnYme1uoxfd03m/jPHhfek=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__rotgut_ball
+ s__bosshp_icon_32px.anm2
+SHA-256-Digest: uwyeg19OWNTj4cF5FwM8LAxNu/T8zdj4GGqhGsDJ9Ms=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__rotgut_magg
+ ot__bosshp_icon_32px.anm2
+SHA-256-Digest: h+f0pU9IetMUNKV9znUQ8vW97bLlN16gHuEQrbEpsAo=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__rotgut_mout
+ h__bosshp_icon_32px.anm2
+SHA-256-Digest: UYQbkaP69cPesBQV9bltm1vP+GIPq4n2PCRgqWG0Uyc=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__singe__boss
+ hp_icon_32px.anm2
+SHA-256-Digest: /nSoHx/IXeE1r5By0kP0nPkuJlNWuA5aktiHfPaz4Gg=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__siren__boss
+ hp_icon_32px.anm2
+SHA-256-Digest: gliVyF7QlrTI0oHQwiN4tPNgSlCODVT5t0fq1gvgmPs=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__the_heretic
+ __bosshp_icon_32px.anm2
+SHA-256-Digest: JdWmx6Yo/OHDDOapLEGPxh/mb+RZs/Mvil6UXPvACmw=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__the_scourge
+ __bosshp_icon_32px.anm2
+SHA-256-Digest: XEf/wGWDlE9C/R9tFp8db5IsZlMjUzMETpIAiIiEBBg=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__the_shell__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: VCLfoE8TyD6ta7773YX2RkvSkmx2k6f8UmQSw5t4v1w=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__the_shell_s
+ egment__bosshp_icon_32px.anm2
+SHA-256-Digest: NZSiyVWDxlv7uxgqkJTG8edGWxHd9ITCBPMJbosjvk8=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__the_shell_s
+ egment_exposed_butt___bosshp_icon_32px.anm2
+SHA-256-Digest: QwrO615+87dHg1cG0uz2CSQIsaMYGVFSvOg+A9myjbU=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__the_shell_s
+ egment_exposed_face___bosshp_icon_32px.anm2
+SHA-256-Digest: 1RsrJvPjCiCAxTAT3bEaGCW/tig1Uqrkc2VBuFqyFaI=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__the_visage_
+ heart__bosshp_icon_32px.anm2
+SHA-256-Digest: 11pfqrueWPSSbb6QgtO4yUolWMSUqHWgIUHv/C2Xy3c=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__the_visage_
+ heart_phase2__bosshp_icon_32px.anm2
+SHA-256-Digest: riK3febh8mm/2hJwQMouHz+V4HCRqkdDg4OaBJFh0d8=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__the_visage_
+ mask__bosshp_icon_32px.anm2
+SHA-256-Digest: wD0wh21gaDgSMpVuYsVzCa8DoiD9IbWj/PyFjmftalY=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__the_visage_
+ mask_phase2__bosshp_icon_32px.anm2
+SHA-256-Digest: jgAvmC/lYddsMDSmBbSYflyqn5n+4FZplOejKX/5RSU=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__tuff_twin__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: 8bmnQdhKJVrUaHb+U7OTowjoKK8McqJtHxFS97jxEi8=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__tuff_twin_e
+ xposed__bosshp_icon_32px.anm2
+SHA-256-Digest: KPAQJaNafNGEwx0Znb4GxOacfzcc64VtHVyO3YMld7E=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__tuff_twin_s
+ egment__bosshp_icon_32px.anm2
+SHA-256-Digest: rs8xCbqfI34zpPc8mFh8WpOPG0f9xZLMn1DiadpMfX4=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__tuff_twin_s
+ egment_butt__bosshp_icon_32px.anm2
+SHA-256-Digest: EVSJJMcw/6XNDGBkbQOfOY6/22SAVHFu49YY2ib13wc=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__tuff_twin_s
+ egment_exposed__bosshp_icon_32px.anm2
+SHA-256-Digest: 4F2QXSuxxfUJ7ib+pJ9HGJmOPpQGf4IScLA8rvkiXBQ=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__tuff_twin_s
+ egment_exposed_butt__bosshp_icon_32px.anm2
+SHA-256-Digest: dAwcDCiPil5FQtTQJmIb5WCwLwNSiWZ5Fnj/TnrNQxE=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__turdlet__bo
+ sshp_icon_32px.anm2
+SHA-256-Digest: ZXr/LR2UeAXIDvFSze4R5b68Dr3JBIKvCfHu+JkJCO4=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__wormwood__b
+ osshp_icon_32px.anm2
+SHA-256-Digest: e2mghU6IQKqQw4KGwGK6dUnzUsZ9Sd0zQCGLQBGW38k=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__wormwood_co
+ rpse__bosshp_icon_32px.anm2
+SHA-256-Digest: 4z5TQwM3gAI6vTXelP6Bb8MekFQFURCJyccwHm1RzvI=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/port_icon__wormwood_dr
+ oss__bosshp_icon_32px.anm2
+SHA-256-Digest: wC64Bpz1+b+87HH7fdfnk0cRNd+rTHgj+sClWpaiFaU=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/rainmaker.png
+SHA-256-Digest: uWO1CJS0+TLEWHzoqUzQ9c1F1xaaiBpHIRLx65py+eM=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/rotgut_balls.png
+SHA-256-Digest: HVsaik1VRIOustqdhW8autbgbxblqiBni1nuzjXsLtw=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/rotgut_maggot.png
+SHA-256-Digest: 39BBQGy2SCTJlFFLNxcprp2aBx8amJ/F6Pmb+wmCNzU=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/rotgut_mouth.png
+SHA-256-Digest: OMycbEIOE1REua29CaOfdB6BJOlIeF1JWh3F6b93DWw=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/singe.png
+SHA-256-Digest: l53C3gK3pYbgvBxHFj26d1qC6R/RkphJY6Aq93qAMeM=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/siren.png
+SHA-256-Digest: 5SktpfJf97FjKzt4OvTUJpWCIT00R71VsAxQzTxJF4k=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/the_heretic.png
+SHA-256-Digest: KAbQ6ftwJI/o8Nm1+CTMBjEKPBxG6LY53IWKBpf9tp0=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/the_scourge.png
+SHA-256-Digest: bpZSWUkWSffsmnY/X+NaPYXoIvZW2Wav7kMlcUV47f4=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/the_shell.png
+SHA-256-Digest: +r9C9sDSuwk2CP3zW1VPGHB757ljaIh0fYd00LQNMUs=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/the_shell_segment.png
+SHA-256-Digest: zjj8RAZce1vE7SKaV/tIa9tv3LzAj3jkUGhDye/T674=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/the_shell_segment_expo
+ sed(butt).png
+SHA-256-Digest: rPOnnfltZw45HWWErU4e8gvL0gR2lzxy0OjFETQk5g0=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/the_shell_segment_expo
+ sed(face).png
+SHA-256-Digest: lu/2AMQzeQIxFPugJQeaYsZnX+noO0stC8jlohlqI9s=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/the_visage_heart.png
+SHA-256-Digest: VWySym2oegs8ETUzPYoGKiRmUwzcaRfvwD5K1izwNLI=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/the_visage_heart_phase
+ 2.png
+SHA-256-Digest: FwMbX+UgfEaJ029qwWDZn9gIj3SN69/EYXCmFlbKXHc=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/the_visage_mask.png
+SHA-256-Digest: +qy68bA4CVLKr3dqu+Ju6k/we+hC9XSvpkXyBPpHiKw=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/the_visage_mask_phase2
+ .png
+SHA-256-Digest: nlDryqWESPetquQcbrKeN74bmKB6OeFmnGUzsfbOxM4=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/tuff_twin.png
+SHA-256-Digest: 9N7F2ajFQw0wbCKgk43ebFHB7SaAUBsG0SyP/ZeOUUM=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/tuff_twin_exposed.png
+SHA-256-Digest: NiwaTgjUgBR+4AnIpPDKbXzjFyQnYyIDSg2drfDeOAA=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/tuff_twin_segment.png
+SHA-256-Digest: U05G1YUK7C3VaIjTntsb4gxC237bQBWDpUXWJQA2df4=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/tuff_twin_segment_butt
+ .png
+SHA-256-Digest: EGvaGSv+P9wEj6Rd1eVKpK8zZFyDOp08bdJwp2vLQjo=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/tuff_twin_segment_expo
+ sed.png
+SHA-256-Digest: tQzrM9DwJgj/p3uVq9ETWKbeNVf7zaIPa08eC+iW/X0=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/tuff_twin_segment_expo
+ sed_butt.png
+SHA-256-Digest: BXFAmx6iF16YFV4lNtaYg5GtTQlUy5VTAG/piykCKQg=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/turdlet.png
+SHA-256-Digest: +/QLAi5A0VSgfcmYHYHlbPZUsWefps6xgP1YfysYyok=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/wormwood.png
+SHA-256-Digest: toH7O714pW0R8zfIr9VzARbhM1aWOY0J9G4CqXVZC9g=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/wormwood_corpse.png
+SHA-256-Digest: GjXKdI1QhUrGGyxX+AW5KUjEsDsCkSpRmCPKnOU2c6g=
+
+Name: assets/port_bossbars/bosshp_icons/altpath/wormwood_dross.png
+SHA-256-Digest: 3WmflFDGvFFyvfjuV8Lt3YgPT/Y+2tqwU/U2zDtKlX0=
+
+Name: assets/port_bossbars/bosshp_icons/boss.png
+SHA-256-Digest: SdL+4F5zKesR2mdt4YxGfTMpFtJpFF1JVAJTFE5ArLk=
+
+Name: assets/port_bossbars/bosshp_icons/bosshp_icon_32px.anm2
+SHA-256-Digest: ch1mGTkX6DaZWsEx2wIwQNqlQUi3ImAg6lcF6G1KHzE=
+
+Name: assets/port_bossbars/bosshp_icons/bosshp_icon_64px.anm2
+SHA-256-Digest: iSDsgchMnSRhTNy+Ork00KffFtvvn8dRgpFZMJovlxE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/baby_plum.png
+SHA-256-Digest: BFH2s/fG7SDydceKowtxbL86P4kcl+osuHQmLdaPJno=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/blighted_ovum.png
+SHA-256-Digest: 69Mbuiari7hNtbC7atfxO17OVnHbI+aro9o5nHNZ5Qs=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/dangle.png
+SHA-256-Digest: /LuNZK2O6fzXeKKxUMxL4+azXCePqF5ZHoUYmtzCA1A=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/dingle.png
+SHA-256-Digest: p3PB0WCeq7JIS4SeNe7OYWfr0XHnm2ORMIUiFS0Hfl4=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/dingle_black.png
+SHA-256-Digest: u5JVRKatlMKvIp6qk3vfrwmTAXle70d7bXdEgb+qHsM=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/dingle_red.png
+SHA-256-Digest: NsftP4YrpHnLM5gdN9X8O9ZjJyY9FzaPWAj1crR6Jz4=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/duke_of_flies.png
+SHA-256-Digest: n7yvtSJwhL5NVOiBqcA0NoJHt7SnEmUjrInmyrkVopc=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/duke_of_flies_green.p
+ ng
+SHA-256-Digest: Eo+soFDgmaFEa8YEpHmgvM3a9xtulExbaj2m2q9oOXg=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/duke_of_flies_orange.
+ png
+SHA-256-Digest: WIIPO3eEwKkoinsVdhzqfzFyRuqVZKdCdxhlERlB7pU=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/gemini_contusion.png
+SHA-256-Digest: RPbbnHUWsJaCv3hEMJlB8U3J90o4ke/oWKDc1UOhg94=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/gemini_contusion_blue
+ .png
+SHA-256-Digest: m2E4KLNOffkwjHNL089c2KNhyApXyLC20uZchYGofG8=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/gemini_contusion_gree
+ n.png
+SHA-256-Digest: MMyh+MyKBob4IzU25D01tGod1Z5mrT6KzEyBw1rayY4=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/gemini_suture.png
+SHA-256-Digest: mFTxANMIQqt3nJhXU7SIwOcnDkDNZLq4BsI6CuuP4Mk=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/gemini_suture_angry.p
+ ng
+SHA-256-Digest: v3MqhEZ6wqrrhZYXajjLCx1xXLe31WJ8pdH6O0EOTwQ=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/gemini_suture_angry_b
+ lue.png
+SHA-256-Digest: v3MqhEZ6wqrrhZYXajjLCx1xXLe31WJ8pdH6O0EOTwQ=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/gemini_suture_angry_g
+ reen.png
+SHA-256-Digest: v3MqhEZ6wqrrhZYXajjLCx1xXLe31WJ8pdH6O0EOTwQ=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/gemini_suture_blue.pn
+ g
+SHA-256-Digest: irWs9PBsRpjVHdHcw+fVo60kgQQ4ohM+XwfCPqMA1SQ=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/gemini_suture_green.p
+ ng
+SHA-256-Digest: N9ba3FFzDlbU/iz8dj2o7HKHRJHgxItlurugYe6wFlE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/gurgling.png
+SHA-256-Digest: w+mEe1lr5bS8E/mabBOnOHAxWYMVb8ouuLYcSqFePDc=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/gurgling_black.png
+SHA-256-Digest: cGhZRJqwQjhpFKo+EoPiY91TW7ZbFxUGZqWnvLwdZvk=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/gurgling_yellow.png
+SHA-256-Digest: InheSCWfO9w2CD5bg7C6QIGoACSeV2XN+doztikduNE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/larry jr.png
+SHA-256-Digest: zXGZ981KOD73pIR3m2UQH2I64WBa6Sb6LgrW+5o7dEU=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/larry jr_blue.png
+SHA-256-Digest: gp+904cS/iYJ9F61FT1VPxFoqTfxARat5JuouhPkffo=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/larry jr_green.png
+SHA-256-Digest: 3rw3SCUWOaKdtv1omrEODjaRarVv/jCM2qw+Rjpf+/M=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/larry jr_segment.png
+SHA-256-Digest: XUa1s/Cix//3B02Cw2n4SvYV7mGaqdP7S1X8PodGhw0=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/larry jr_segment_blue
+ .png
+SHA-256-Digest: kVLSgucEuyPptcV9cBMVRK8geOG4a1I/xzB4k9sfTlk=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/larry jr_segment_gree
+ n.png
+SHA-256-Digest: 3h9VakeXHhyx3EP6imN1EzGpAPuGqOSRMW47F6118yI=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/little_horn.png
+SHA-256-Digest: xtbKxmfTEitQWnN/ES1+Zd231zRxH3wMZUIvzw0BfMk=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/little_horn_black.png
+SHA-256-Digest: duoj2LhBZOYOTmHEVwj+s+Y91lFkD+KWYCFtlhCQyww=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/little_horn_orange.pn
+ g
+SHA-256-Digest: E5708eqzACkc0kgxtyz1h3ZD1aJfmxSnKQy6QNJRnxA=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/monstro.png
+SHA-256-Digest: NatXDpqB/D8NcH56aF5R9OIXX9meJBoA6WMbwniVH9M=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/monstro_grey.png
+SHA-256-Digest: i0JJdA84jiH8sJoB9u6Avl4wLsVqsnM/Vv+dFJVe4sg=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/monstro_red.png
+SHA-256-Digest: DEaVcRhPrwqT9OJugyZDarr7Hpx8rFk95z9caY2tVkQ=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/pin.png
+SHA-256-Digest: UociZfyNsUeIKokMgY2++z3xufaZGhGFQLP7IW/9PEI=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/pin_grey.png
+SHA-256-Digest: BFb5Bl/Ugmk1YyzHNOKUt26f7gmuxdRlpgQWyv1hrBc=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__baby_plum_
+ _bosshp_icon_32px.anm2
+SHA-256-Digest: IBTjbVNbMaTorA7DYY+koF7LXZY84su2AHj7iA6dTXw=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__blighted_o
+ vum__bosshp_icon_32px.anm2
+SHA-256-Digest: LGnOPRbhkcykZxKys6s3GKXb3i6G0I2YHdQhRrfwGLI=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__dangle__bo
+ sshp_icon_32px.anm2
+SHA-256-Digest: BWgP16bT8YRDX/nc7O7Hh+h3JAgkF3nFJpcId79mhns=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__dingle__bo
+ sshp_icon_32px.anm2
+SHA-256-Digest: PU0NgfqgFbf87llkilwjZ6b8+SqfsRJKfjoD3FtsIqQ=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__dingle_bla
+ ck__bosshp_icon_32px.anm2
+SHA-256-Digest: wSx9pdcfnHyhjiBgkGJAVe3iSl9e3NaMceEg/fPVhks=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__dingle_red
+ __bosshp_icon_32px.anm2
+SHA-256-Digest: bg3WBkDaitwq+bb0MxGtn0YBWRqT1zdnqBEgfCDEAPw=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__duke_of_fl
+ ies__bosshp_icon_32px.anm2
+SHA-256-Digest: fFdOnHLKeMJnhuF5I7/KEVDKEMpSBVZeOqXWeni6V/s=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__duke_of_fl
+ ies_green__bosshp_icon_32px.anm2
+SHA-256-Digest: CD0BdNIBGEOBwiFQeh4ELcV1gVkNN/xi1Av5+gVKFsk=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__duke_of_fl
+ ies_orange__bosshp_icon_32px.anm2
+SHA-256-Digest: xm7wjPNRHA6+KFaa4pHYJVQhUDCLuJO9JIUhIM+q+D0=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__gemini_con
+ tusion__bosshp_icon_32px.anm2
+SHA-256-Digest: Tg4t6VC11UI/u3yK8WKsInp6SyJ6KI7S+apHIUVn2Vc=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__gemini_con
+ tusion_blue__bosshp_icon_32px.anm2
+SHA-256-Digest: slf8uYD+gDJ36vqBxCuqWkSPJqqGcOPm4FukFSHnisk=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__gemini_con
+ tusion_green__bosshp_icon_32px.anm2
+SHA-256-Digest: dffxAvjs5puNteGbCPm45n3XCakasySrli8JPdFurdg=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__gemini_sut
+ ure__bosshp_icon_32px.anm2
+SHA-256-Digest: GlwCy9wX5RLCpO6XsoZYKJqS+A8YSs92zY/WKU3AD/M=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__gemini_sut
+ ure_angry__bosshp_icon_32px.anm2
+SHA-256-Digest: QTXS/Oim3YCE54alk0feVztX6b5StSsdx9huN9+KX9Y=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__gemini_sut
+ ure_angry_blue__bosshp_icon_32px.anm2
+SHA-256-Digest: ulnuUhFoMQR0UsalkoSMSvJy53ui/FHq70Ry5glwuS4=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__gemini_sut
+ ure_angry_green__bosshp_icon_32px.anm2
+SHA-256-Digest: r4QUIpPxgbMUAzJhQqJdCrp3aMlh9etoJLppJ5wteH8=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__gemini_sut
+ ure_blue__bosshp_icon_32px.anm2
+SHA-256-Digest: zyas15Z5jgWzZTQHDWa64Eannaz7pnV2/dM5tfwc7wA=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__gemini_sut
+ ure_green__bosshp_icon_32px.anm2
+SHA-256-Digest: OnNL4pe3q0G9vYscQf4btTDUll01THvsi4W9le0eYo0=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__gurgling__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: SDcJbFeE8BGFakuQsAq6tOr41shJ5KygCOWQnv1vup4=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__gurgling_b
+ lack__bosshp_icon_32px.anm2
+SHA-256-Digest: avBjaeoU5qpVR3jAnyq7hoOFTJ2FubtHh4nSJqplkdM=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__gurgling_y
+ ellow__bosshp_icon_32px.anm2
+SHA-256-Digest: xCs4LdDOg7MjNy9aTpFwXSJEKuuHMb1QADNeJsfCQ1o=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__larry_jr__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: W3MtNXzDlNnf1z2xBN77CbafnQq5vqeGmvxcxz6Ku/M=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__larry_jr_b
+ lue__bosshp_icon_32px.anm2
+SHA-256-Digest: xAcBrZuUwX7Gml/SPShYHO7QLojC/ABsJGGeNI5XOAc=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__larry_jr_g
+ reen__bosshp_icon_32px.anm2
+SHA-256-Digest: oTe0HAE4LN2iByu25bTSFGSswjmiwe8blf3ft+1veMU=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__larry_jr_s
+ egment__bosshp_icon_32px.anm2
+SHA-256-Digest: 4/gUS3PhN3d4KmNzNti66tR42mvo+mKUR/HouIuFwvg=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__larry_jr_s
+ egment_blue__bosshp_icon_32px.anm2
+SHA-256-Digest: VZ3cK8Fsk4qg/3ytgb4QLsj+LEQOLDi2WKImWhUIjFI=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__larry_jr_s
+ egment_green__bosshp_icon_32px.anm2
+SHA-256-Digest: jTFmfKiKBUn3xpTw6hleE6GXE2EUkEtdHMZpT7T46H4=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__little_hor
+ n__bosshp_icon_32px.anm2
+SHA-256-Digest: HtUDd60qpeg/flkf+lt5J+GeUMqzqHkX47fqDuW3z3s=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__little_hor
+ n_black__bosshp_icon_32px.anm2
+SHA-256-Digest: blcjcW1V26Wk30Yk28Gd0LGnfry+Wk1KpDFU9431Rb0=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__little_hor
+ n_orange__bosshp_icon_32px.anm2
+SHA-256-Digest: ebXMpl0b2w6enQkIS0+AGD2IRgO/pKJCBYcxDm7EC7A=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__monstro__b
+ osshp_icon_32px.anm2
+SHA-256-Digest: YcmZeogjiZAattO7bDXq0pr+8AVWP9KyhcQUqsQ4uig=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__monstro_gr
+ ey__bosshp_icon_32px.anm2
+SHA-256-Digest: NbnzsQz95uCjkMBCcEJmPsrFGTuHdwO1WUGBnEOpsTw=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__monstro_re
+ d__bosshp_icon_32px.anm2
+SHA-256-Digest: vRLBDIsgBLu+pTgEskNwj8NgdTblDObzaAz+X7tBVb4=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__pin__bossh
+ p_icon_32px.anm2
+SHA-256-Digest: PgEGyMS6uoL1D+FCogsEo32TqQniP0BMXOfcSf/iVxI=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__pin_grey__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: R7ImbBWtMe3eQz2X/t5vqfEK/zV08jN1TtjqvSUnNEQ=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__ragman__bo
+ sshp_icon_32px.anm2
+SHA-256-Digest: VnNNTXnoE0CQnnDrHT37xG7wH3uoXkzmn/NX3v4P2JI=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__ragman_bla
+ ck__bosshp_icon_32px.anm2
+SHA-256-Digest: m5yzhUOCsSgU4HXrQMdSsKyck4Wx1UiThKeY06eKWyQ=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__ragman_red
+ __bosshp_icon_32px.anm2
+SHA-256-Digest: dzupqAhkuLgw/SmsBU+ros+yosfDKiS2gAlHIbFy80M=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__steven_big
+ __bosshp_icon_32px.anm2
+SHA-256-Digest: RNmN05HRbbi73LORxOAQQi0JbF6XF9Me6xRdDIcftZs=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__steven_sma
+ ll__bosshp_icon_32px.anm2
+SHA-256-Digest: JioeWy40XswCPwEVKeAP55OcDaFATYkKlX0awlBzbxM=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__steven_sma
+ ll_angry__bosshp_icon_32px.anm2
+SHA-256-Digest: pokob+cy2K3Dyeic1BzGsDThNIunNMpi5uN6CCl0oow=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__the_fallen
+ __bosshp_icon_32px.anm2
+SHA-256-Digest: U4aB9quOWVq7O30KSeeBFTzUysng0eVftGX+79T193Y=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__the_haunt_
+ _bosshp_icon_32px.anm2
+SHA-256-Digest: 4OwTicdrL1kcQ4eR3HRGj6xYhCDXTkKRgHeGo5prPoE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__the_haunt_
+ black__bosshp_icon_32px.anm2
+SHA-256-Digest: sHVTUCoVY2ZqZc6TXuNJnVWL0EKgxSD7HOORuzFGFsE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__the_haunt_
+ phase2__bosshp_icon_32px.anm2
+SHA-256-Digest: MMqWd5g5fjdy+lgfrb9gHc0jkUxcYLvCcE6/icBAzgc=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__the_haunt_
+ phase2_black__bosshp_icon_32px.anm2
+SHA-256-Digest: yNgUuXYGvaSHoL0ELYDtGwtiSqWuTdtK4Xh3nEKrops=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__the_haunt_
+ phase2_pink__bosshp_icon_32px.anm2
+SHA-256-Digest: 54pLRxzCA56Hr7w3nFGcM0ps+1wS1SOEVdB0pDt0E6o=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__the_haunt_
+ pink__bosshp_icon_32px.anm2
+SHA-256-Digest: VcQSxHq4cZAm+x1Px5i7YH1WTH6ZjXsJcKeyzMgJYFU=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__turdling__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: fhKc9uQHhxKZZinomvt061eZ4YbtMiya7RulFmEKpmk=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__widow__bos
+ shp_icon_32px.anm2
+SHA-256-Digest: Cc3UVdz8VT0S1R8AvJHQm64VPSlStrzOqiQNqo4gqmw=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__widow_blac
+ k__bosshp_icon_32px.anm2
+SHA-256-Digest: 7kVUHme1oydwPfIgQ1ARRl7dy9GThoYdUJkSBSnkGaQ=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/port_icon__widow_pink
+ __bosshp_icon_32px.anm2
+SHA-256-Digest: /5a1epNXNlOiDC1lKIC+Fz+57pSSudaQ6l0dC4WveoM=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/ragman.png
+SHA-256-Digest: MYnfaofZlFTKh/3+XV9l/DSriUyWgQhzru3K4J+cS4s=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/ragman_black.png
+SHA-256-Digest: G/L0gggxJmnnwX7EPnUuX7Tc19B6y94jrDCZIrL6o1I=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/ragman_red.png
+SHA-256-Digest: T5mOTLwPS37+sswUvUQUGhwgPuOR8Gah74kcp+g+sLs=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/steven_big.png
+SHA-256-Digest: cGZXe8PxY7/AIDv5UeRSJIAflZwnNZJ7VNrgNmoF13s=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/steven_small.png
+SHA-256-Digest: Fj5eHX/ES0KjzUQB2Snifj49/XNNJmhzp7yyTvRubHM=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/steven_small_angry.pn
+ g
+SHA-256-Digest: r5B4yZQq8qs5CXHYnFgKxuK4DV/W4AHHNBWwyPMJE2s=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/the_fallen.png
+SHA-256-Digest: ixwTaOIFFB7pt665nv/MkKsNqs6DtnEtQHj6fGNP62c=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/the_haunt.png
+SHA-256-Digest: H/3t0hXgIkNp7gxXeOxWPzN+bmM0l1OhPc4EkQsl23M=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/the_haunt_black.png
+SHA-256-Digest: gntOFv8KkClY+TvOQQuem7bZ27M/SPHMWqUzGTNf070=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/the_haunt_phase2.png
+SHA-256-Digest: 1OcoO2baQRmQj20Jd9+zaNwHI0zbmZ8QpwsolRdKXI0=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/the_haunt_phase2_blac
+ k.png
+SHA-256-Digest: P7dBNDmbjBlgq357IgMd28zy1B2nR1msuAOWoZBPVAA=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/the_haunt_phase2_pink
+ .png
+SHA-256-Digest: vtnH4cDdc8xbjSzqm14sWiCu48F754rgxI00HIRelXc=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/the_haunt_pink.png
+SHA-256-Digest: Rc94Z9cpG+o3u70DrUi2NVZYZZJ3rRj7MEXJf94IwoY=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/turdling.png
+SHA-256-Digest: QNDbi0FwwtgsZ8EeXWXlh5TIDyU8O6fA6LM0FufjHRE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/widow.png
+SHA-256-Digest: X7X8tf4f3IMDQc2iImZvlOlYwZdyYggopPI4r3ycnCo=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/widow_black.png
+SHA-256-Digest: VmhlW8xXYWcL/B7iBLVfKX4Fkiuj5X+p56Bb8V1nWuE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter1/widow_pink.png
+SHA-256-Digest: qJAi/T3QpzE8KumsEzHHh4TRIcznqqMl/isQ+WR0dDo=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/big_horn.png
+SHA-256-Digest: DaX5XPmf7xLQyp9kBCKnkqzaxCqsVCk70+r3+bA4KG8=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/bumbino.png
+SHA-256-Digest: CVIpB5TBFlP2oKbIUE6HxWePCbUswIS7PaUY/yFcRuw=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/carrion_queen.png
+SHA-256-Digest: EdJytOl+ziztQVHAErcnWw/ZHG8tTSxkdrwJ2MA4Q50=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/carrion_queen_pink.pn
+ g
+SHA-256-Digest: pgHKNPw7J1MGqOsYEebzZ7fViDNlzAIaYbK2bTD2xTU=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/chad.png
+SHA-256-Digest: DtxSSoiEIAUS3sTgrpe25Jm3LQHS0t0cWenimpNq8Io=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/chub.png
+SHA-256-Digest: PsHZwk4Od+ZEjbnMuzJFwpY7najo+2l26/GCitom+8Y=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/chub_blue.png
+SHA-256-Digest: VMyFH2CHu3D6eksGFw2gaRqcCzKss9dReUXjCaMAaOg=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/chub_orange.png
+SHA-256-Digest: 9k1mYI4gYeZSHl+vhYd//iRgfqU+q2BN+7+dr9mUTjU=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/dark_one.png
+SHA-256-Digest: oFSIBZETu0sbkSoYtpYkgMdzFtdwayTWJ0naFiDvRlE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/fistula_large.png
+SHA-256-Digest: NWpxig/J3khLza+su9ybWngw1+Ehgza/6IynQQLcF/E=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/fistula_large_grey.pn
+ g
+SHA-256-Digest: 68ivFnYZIGnKiYgut2PWqzoT37Ct7M5vQ1A3/19QgSk=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/fistula_medium.png
+SHA-256-Digest: onga8acjzIEq8xQWwMvTnxL2doMNr6o2JlyzGVs4t/8=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/fistula_medium_grey.p
+ ng
+SHA-256-Digest: C4UtSAJLhCJjs2tUSnVTBvMTvgvJ9lf9rLLZ3UeVLV8=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/fistula_small.png
+SHA-256-Digest: aupyJztPi463NaRH4C9/hNkngFaoXQwbOT+M1JeCzFE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/fistula_small_grey.pn
+ g
+SHA-256-Digest: qdltdUYGx57RPU9Jv3+mxIoeMdW/TE1UQK37Tn33NDI=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/gurdy.png
+SHA-256-Digest: +tIUDogtGzff0Qj3zz5Wv0NTKP9m1KGHHDV1ffxtsSI=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/gurdy_green.png
+SHA-256-Digest: 3EEI18Imu7OyjMjT9SYIGpuwAIdSJftHX5mZScZ1V5I=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/gurdy_jr.png
+SHA-256-Digest: T5uClT0RHHyuNbCHkkMLrtpPq806KOTizPfbyGkMV7U=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/gurdy_jr_blue.png
+SHA-256-Digest: nSZV89wTwGvJHFpYzkA/Www97RY2DEcVYTRIqBHK2Fw=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/gurdy_jr_yellow.png
+SHA-256-Digest: 4tJksd21YGIWoGauR6g3duc6dA+sWKY3hSpHzPlJXbo=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/mega_fatty.png
+SHA-256-Digest: BeAxnj9aPpsqOzVIVbwZJ1+WOicgrGWHUloKE9dAd1E=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/mega_fatty_brown.png
+SHA-256-Digest: s/dJ6656HL8cWEdpIZe7X+MqeEkgGkBqFHvzSiYOQcE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/mega_fatty_red.png
+SHA-256-Digest: sOw6xXwVJaIzRuZPe0hdFOZjKzsJOq6VgPmDmUYyBwo=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/mega_maw.png
+SHA-256-Digest: kldRo6mqNFIA32RjjCyjwuyxn/7/KfBqGpOiPodfcIc=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/mega_maw_black.png
+SHA-256-Digest: w+dTfWd+yv1Etf+DTaLugIie7bBKFd4NT0pY09R+4To=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/mega_maw_red.png
+SHA-256-Digest: IdXx4r6dy1fZJHr/gbnST0Vms5Om1vpEsz30+7QbzTo=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/peep.png
+SHA-256-Digest: kIUbacW6dNdmtbTrVq8+zb2RMnG9qrLdkdUDa1XAEFg=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/peep_cyan.png
+SHA-256-Digest: wpuPkN1lKLTlVw7GYghngnhX8j9Sikdj/EUWLpbW7/w=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/peep_no_eyes.png
+SHA-256-Digest: lifXjsNjGtRn8Lj1D1Z7O3phzfrSzoz5sqyGnSqHVMA=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/peep_no_eyes_cyan.png
+SHA-256-Digest: k6IiqJPBEARd0k4RmKs48O76n2cIk3m+diRGt1O4n7I=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/peep_no_eyes_yellow.p
+ ng
+SHA-256-Digest: SVqX07epmbnQAPyd7X1a3fT4IouNNso4LGsVNZYxZHQ=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/peep_one_eye.png
+SHA-256-Digest: uzTQ5SlGJnpHgbNTOT6j7lIBvrSbYlmadmelxYsQCeU=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/peep_one_eye_yellow.p
+ ng
+SHA-256-Digest: 3O+5GyHUvbDboavnJd0HeFZHp41PIxG+g50g1KII888=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/peep_yellow.png
+SHA-256-Digest: flvptQw7mDds/ObKax0Fgc5UM3OzPOfqHGTdrrwWeHE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/polycephalus.png
+SHA-256-Digest: e5IlfcqHAywY+g5jRtOPxQh2c6F9JNbvwGNVNsWWm4M=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/polycephalus_pink.png
+SHA-256-Digest: DD3DhEBYhqGE2j3MkVe7HruwoDc4GPAFghj627c4qNg=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/polycephalus_red.png
+SHA-256-Digest: KoFoPo/Qwjj8cNNALSRQR1amOJi5fXOgG04oO8PvsZQ=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__big_horn__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: /1EtwQdtTS3EQHentiZ/Ygu2UyhX9UPnPjjCKCBYmAs=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__bumbino__b
+ osshp_icon_32px.anm2
+SHA-256-Digest: LvXQc9yl8DAXqvyB655m1RbubZrE0BI3OAcCyaO0wYM=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__carrion_qu
+ een__bosshp_icon_32px.anm2
+SHA-256-Digest: xYFLHubnP3RMtccN3kArblzLDgSON2rKLg0ooUayOK8=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__carrion_qu
+ een_pink__bosshp_icon_32px.anm2
+SHA-256-Digest: o8wUTUbET+3fEl5qWER1R3govMoCgxmNrmKqiyEGkVs=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__chad__boss
+ hp_icon_32px.anm2
+SHA-256-Digest: 48R0na+6s+inHD5G/4s9mkLi0lf6cHuayhcJBRzfJ7A=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__chub__boss
+ hp_icon_32px.anm2
+SHA-256-Digest: 3LJHOGoTYwrmfvB26tw6zQE1tJEce+yXIPhjFWnkim8=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__chub_blue_
+ _bosshp_icon_32px.anm2
+SHA-256-Digest: tcES4yu5kHhq2qCwhAlN0Hv2MhYVCdZokjFIRXP1k8M=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__chub_orang
+ e__bosshp_icon_32px.anm2
+SHA-256-Digest: +ddb4UKsD2mnlS5fw1t9ZUskp+lyt0E4rA955t3BVhs=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__dark_one__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: kHqpADrfCPBQBl2p+pyeZVq5ItVLg/5psrRAifQfkBk=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__fistula_la
+ rge__bosshp_icon_32px.anm2
+SHA-256-Digest: Md/i41BmUaRB5gqzdUUqN7ZYheC0f1j8eIsgXtzr9jQ=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__fistula_la
+ rge_grey__bosshp_icon_32px.anm2
+SHA-256-Digest: cZgKjgUQN+ubau7tWjnPw964XpZrZ8t7pF6F7/8/JF0=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__fistula_me
+ dium__bosshp_icon_32px.anm2
+SHA-256-Digest: SVvDIZxaRrsqjiuT1PBHSM7rU1t8YvtjKX1/e3vJX2s=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__fistula_me
+ dium_grey__bosshp_icon_32px.anm2
+SHA-256-Digest: zPqXJYRic5bwOrzpOpLvgWkrQvZEKkWkvFcsu7EdPao=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__fistula_sm
+ all__bosshp_icon_32px.anm2
+SHA-256-Digest: PtAmHID5Kp4rX50EB/l384zVuUhDvPaYqqdsP1DoQEc=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__gurdy__bos
+ shp_icon_32px.anm2
+SHA-256-Digest: LDN9fctOjsTumNXcMt3PdotGLYIVlxT56pQPZLb5SxQ=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__gurdy_gree
+ n__bosshp_icon_32px.anm2
+SHA-256-Digest: 2G7ObUuaxVcNYZ7oN35nzVmH3uG4kowVVVArwjh7RRY=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__gurdy_jr__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: 6tRIgsu5CzGv3hzjx8YsmHCaiOHtgH3Ger7AlE/kUug=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__gurdy_jr_b
+ lue__bosshp_icon_32px.anm2
+SHA-256-Digest: imOvfbd6ngqrTBhA2BB0ERb1NheYULyLtnt/uBIzmRo=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__gurdy_jr_y
+ ellow__bosshp_icon_32px.anm2
+SHA-256-Digest: nnrLmNLm6deEHSANcSFH+4NePOtCcFr79oWlmZYXQVk=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__mega_fatty
+ __bosshp_icon_32px.anm2
+SHA-256-Digest: 7qia65BuGRarIQXOQ1s4La+d+a25q0cb8iz8HRw8JF4=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__mega_fatty
+ _brown__bosshp_icon_32px.anm2
+SHA-256-Digest: D01SeqYGYLhxfcM8436adaudlzvgl14tAgQpV7sTNfE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__mega_fatty
+ _red__bosshp_icon_32px.anm2
+SHA-256-Digest: gSp8XwimnxtEHYRO/bYulleMxe4cbHvuqxApjlKM3po=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__mega_maw__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: 5IGhS0fYC0FC8M0Jpi4MZpFChNT6iIoCxfUurdQf4W0=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__mega_maw_b
+ lack__bosshp_icon_32px.anm2
+SHA-256-Digest: CDdZZc15lWZifJu/+eF6nX9E01WoP9NSARUk2Skkexo=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__mega_maw_r
+ ed__bosshp_icon_32px.anm2
+SHA-256-Digest: Atu0+vGclYxBMrjAmH47gkS9iyaxdfHpWfSw7rBRXWw=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__peep__boss
+ hp_icon_32px.anm2
+SHA-256-Digest: QBX1HAkX83ItrEuSyilFt2FEhJqzGtTucw0TRFN96X4=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__peep_cyan_
+ _bosshp_icon_32px.anm2
+SHA-256-Digest: q+QCLNj7uj0uJ03OhmplFNJAg9gz03h6dGHLNwQO8X8=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__peep_no_ey
+ es__bosshp_icon_32px.anm2
+SHA-256-Digest: 1oi4Q5cGya6RhrbDi1VyNGFiDhuBbm/hvsL8p3pie5A=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__peep_no_ey
+ es_cyan__bosshp_icon_32px.anm2
+SHA-256-Digest: BvmDqe2u5QBkapo3kobqPA+7S68vPuuI5bWgIXjgBxw=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__peep_no_ey
+ es_yellow__bosshp_icon_32px.anm2
+SHA-256-Digest: vMCkK26ArwwBXIYWLyfdCeRDON/AW1HpXv6daBTQXyw=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__peep_one_e
+ ye__bosshp_icon_32px.anm2
+SHA-256-Digest: ZI2j9qvMYJzABnMuo8aBbzNvZ8GOWthrKuWfrDSA+Mc=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__peep_one_e
+ ye_yellow__bosshp_icon_32px.anm2
+SHA-256-Digest: x9WZxlpnqVvzsrISo6gN291/ChcX1huep4AK0S9NRrU=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__peep_yello
+ w__bosshp_icon_32px.anm2
+SHA-256-Digest: HYQpZfsBMSv5xWgmgQx4RPQORPeepxujqPr30pOIC+4=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__polycephal
+ us__bosshp_icon_32px.anm2
+SHA-256-Digest: gKNAHKsxcRxBSM1qnnzIzrxKMFBfWXIazFGIp+gkuqU=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__polycephal
+ us_pink__bosshp_icon_32px.anm2
+SHA-256-Digest: Zx7SU1gzHqNsLUrikjHl91+myFUc6CyHIi6B38UM7x8=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__polycephal
+ us_red__bosshp_icon_32px.anm2
+SHA-256-Digest: 8Y/zcaniiJ5Us+5CvJn49M8PAfQwxlWh6dICwwCbNek=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__rag_mega__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: NDDeWTsxE/YtIIncoWgAU4k+wD5jmFwN+dNX4A5CdPk=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__the_forsak
+ en__bosshp_icon_32px.anm2
+SHA-256-Digest: VG09FApiSu+kGy0G0yyq4TiHo0tSTyr03SC5jLq8NEY=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__the_forsak
+ en_black__bosshp_icon_32px.anm2
+SHA-256-Digest: lpNiMxcf/ll/YAEWs0HCi8kgY2Ef6bz/I+2jRB/JRmw=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__the_frail_
+ _bosshp_icon_32px.anm2
+SHA-256-Digest: YrsfY2HWlYjo/626MJgrLhdNxBP8b4+ih5SSc2a0rSY=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__the_frail_
+ phase2__bosshp_icon_32px.anm2
+SHA-256-Digest: OLVZfwTFUXGtUDlwunr/b+evDHzeGWIOisSNcIXAhcs=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__the_frail_
+ phase2_black__bosshp_icon_32px.anm2
+SHA-256-Digest: 7S1K7FA7+W3t6Qd0eONFtH/qJYCmXJINm9XQWORkTss=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__the_hollow
+ __bosshp_icon_32px.anm2
+SHA-256-Digest: Uc+D+A945OBGtSkneVdye2C/nG7K4lbdZBQpCxLnVSc=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__the_hollow
+ _black__bosshp_icon_32px.anm2
+SHA-256-Digest: 34VAUc9e2x+m2Bgic0i9dOXSHL2x31jvRSqAy80JRhE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__the_hollow
+ _green__bosshp_icon_32px.anm2
+SHA-256-Digest: Zbg8sFGXfKNhMc6GID1IfQv4EmUeqKHmBCGe8PWa0+Q=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__the_hollow
+ _segment__bosshp_icon_32px.anm2
+SHA-256-Digest: PmfOmfEfB0EDNuzdRVpxjCQTmmvm9IZj89clptuUlYY=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__the_hollow
+ _segment_black__bosshp_icon_32px.anm2
+SHA-256-Digest: OK5y08u4KW/zMqFD9+99XPnhUSPKb36e6LPRzRuWc/4=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__the_hollow
+ _segment_green__bosshp_icon_32px.anm2
+SHA-256-Digest: aOGAIX/8SMAnZ7aZ97WVGigZY+4VjP2ghUOSKLIiuhc=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__the_hollow
+ _segment_yellow__bosshp_icon_32px.anm2
+SHA-256-Digest: yQoQctVv0X2s06gftepTjWyzqYnJ5AgkhVsGEHOdEpc=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__the_hollow
+ _yellow__bosshp_icon_32px.anm2
+SHA-256-Digest: GWg+Wm2btQ87dmyK39wLNQLkwrzlJ17dnC0xaCY1SVs=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__the_husk__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: E4WA2vP1Ma9uDHcq+DAXgdKOgo42FqkLFRjDm0V8RLk=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__the_husk_b
+ lack__bosshp_icon_32px.anm2
+SHA-256-Digest: 6uFtrx2VRgzQ9j+AOqc6qyh5srEbehVSyCVZ5Iiz7JQ=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__the_husk_r
+ ed__bosshp_icon_32px.anm2
+SHA-256-Digest: Y0KV7V/giSxe//MfvUE2X5jRw9HCQIGBme1N/hmJSLM=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__the_stain_
+ _bosshp_icon_32px.anm2
+SHA-256-Digest: t0HYOZQsq6mVG/7aH9Ad03lfTm5lvkPVlbnZpVLPAeU=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__the_stain_
+ grey__bosshp_icon_32px.anm2
+SHA-256-Digest: oYrdBkV9tNCGDkWnOuuJ8SFF6jlv7Y2lwqwUB3nBJAw=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/port_icon__the_wretch
+ ed__bosshp_icon_32px.anm2
+SHA-256-Digest: 8dmH1qq5LlLIXGUDPj8WpbWZY1zcE5nlAQjRGvufn70=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/rag_mega.png
+SHA-256-Digest: 6o3WOMRzo1STBWC+UhJGp5LpuozNrhBbWb3d2qzjPVA=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/the_forsaken.png
+SHA-256-Digest: gNPXQOEk6iynQMmTEXI6c9oZYufq/kQhklxvmesiqzo=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/the_forsaken_black.pn
+ g
+SHA-256-Digest: 1OScKRDSych6SToVhV45YxAQCnmcDkuZmZnLlabqM6E=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/the_frail.png
+SHA-256-Digest: w2gTo6AOCMV+XOwmvvrXwSHjG7Xm02eRsICAU1eT5Eo=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/the_frail_phase2.png
+SHA-256-Digest: cpWfpoeq3ilCySOTCSSXm8H1VZ1nKBh5jvmZ7fnuAnE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/the_frail_phase2_blac
+ k.png
+SHA-256-Digest: y09z9XwilC3pLJGH3h1GTMNmNCcf/IsGftve3OlYb50=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/the_hollow.png
+SHA-256-Digest: i9CtLxD1C04mCqcG8GAIEf2KCtMZELujaCI2YQQ7nUI=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/the_hollow_black.png
+SHA-256-Digest: p8TUcpT7g4WJ0Cd7uQpjjXlGDMMlpryhDNSnaQbfpOw=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/the_hollow_green.png
+SHA-256-Digest: /TZXQHGvZhp7wnSvi3bAB/90R8e3OqMkNdWHKGi8b3s=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/the_hollow_segment.pn
+ g
+SHA-256-Digest: hwbSQA8+gRdlbOGSmenP7DjKYXd8TZKZNPC34wooNks=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/the_hollow_segment_bl
+ ack.png
+SHA-256-Digest: bHXL/s9i0yFPIW/CwgTs/+Cj8Dw1WzMH+ara3TzRxis=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/the_hollow_segment_gr
+ een.png
+SHA-256-Digest: 9o4t0rwBO5WGpQdU5EmR9s/tYC6Do29cZv0gQlmj+6I=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/the_hollow_segment_ye
+ llow.png
+SHA-256-Digest: ppBQRlq5V3RkEovF8v4zuHrzqtDEE9kvxhW1JsYAifM=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/the_hollow_yellow.png
+SHA-256-Digest: 2ORyTIdtPbgh/D1eOcqmCKZmOaB0NC26u/7m2Wj90rE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/the_husk.png
+SHA-256-Digest: EliwEg36pvTbMqoFWo2EKf/PT3WBdrdVzBCaveWiYCE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/the_husk_black.png
+SHA-256-Digest: /4l5JrU+7ICaanSFGA8CKRimednP1GCjSozS68qOGwA=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/the_husk_red.png
+SHA-256-Digest: mHiWZt1Y0TQhJxbeu4atOuk8AmKYNTL/mYFRFIWm7Bw=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/the_stain.png
+SHA-256-Digest: ZN6LT+5rzrMxvWV4xfvn1/zRddUm13cSggdoRuLQCQg=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/the_stain_grey.png
+SHA-256-Digest: SGXjTEgyFkmUY45EkcMEOY0+Cb3j8reHyATHn5k14YE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter2/the_wretched.png
+SHA-256-Digest: rJph/VGuYnwJp8J+6dtuJW20GQAJvhkkkvLLGn8I8J0=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/brownie.png
+SHA-256-Digest: DMdXpliXgV0/0CXBZoIK1JfD0PobMhB7CAxHq3oawiw=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/brownie_black.png
+SHA-256-Digest: M6h15tYPvfQ0wVDFL6TX0hiBzgPtOQN0PaetzAdwqcM=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/gish.png
+SHA-256-Digest: P/OofbRZOdF7t4BBXeEytIOgcs52Lv6hiBR0lTaSyGk=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/heart_of_infamy.png
+SHA-256-Digest: jtlcfxO5gZIrXzpzm3t2LAGKX7mMxgCgWCfeYNS8l9E=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/heart_of_infamy_black
+ .png
+SHA-256-Digest: OaraLY3kPm1HOJd2N2f4xH6nQHRUOiUbA0XQ0YqnJ1c=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/loki.png
+SHA-256-Digest: aKiW4j0dyUNdDKy/AbuStTygSFX9ipUNmmu6sxR9gnY=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/mask_of_infamy.png
+SHA-256-Digest: J59bzSy+axw5f3YfEFvnwLT/BU34axAapxumkD5+Xw4=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/mask_of_infamy_black.
+ png
+SHA-256-Digest: GgI6NJuk5CBK7iuNWlQ6QL8uD0NfRY5aIiMfzJKME1U=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/mask_of_infamy_phase2
+ .png
+SHA-256-Digest: McfZynnWwqJW1xzBuuPmPrfoesfeTw0Oxm0S6w0h6Nk=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/mask_of_infamy_phase2
+ _black.png
+SHA-256-Digest: ad6fX6O3DHDoheaXYi4jLygBke4F79iqryQ4WdZMHPQ=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/monstro_two.png
+SHA-256-Digest: 9N6Mdc/adALyqjuvCLcKxNoJu3iuW0G4wRIo/vdDZBY=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/monstro_two_red.png
+SHA-256-Digest: +A0gel9cgSP9xlIZxBvQzfF1UUGKMqxY5p9ALNJ/sX0=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__brownie__b
+ osshp_icon_32px.anm2
+SHA-256-Digest: 1sBUwBHPYkW/s71+2zY5HKUxjN3JHD+fZmwOzHwKHWk=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__brownie_bl
+ ack__bosshp_icon_32px.anm2
+SHA-256-Digest: yjZD1hTD+GtaHVX/B1G77rcdw5qFxBa0tKLQ9y1EGBM=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__gish__boss
+ hp_icon_32px.anm2
+SHA-256-Digest: IIwpbJL98SM28JbOBEXM8+9YMMkP7BklVEr43XuXITQ=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__heart_of_i
+ nfamy__bosshp_icon_32px.anm2
+SHA-256-Digest: plhmGBJwR/rFwAyTtxD0m87QDYCNaxq+9kcF8U2KzOk=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__heart_of_i
+ nfamy_black__bosshp_icon_32px.anm2
+SHA-256-Digest: d3SFDSF1mHZPEBSD9hwtc+qetvQPDZukKzwr8DtoMFQ=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__loki__boss
+ hp_icon_32px.anm2
+SHA-256-Digest: JUHBP6ZVRg8O3CkqXJZr2mSnznprVDfE1nNBlIf1XXk=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__mask_of_in
+ famy__bosshp_icon_32px.anm2
+SHA-256-Digest: Vr6SFpIEiR4Z51BHC6oXJGf10F0Lw332FX1gpYFMPHI=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__mask_of_in
+ famy_black__bosshp_icon_32px.anm2
+SHA-256-Digest: u31j+1P5sYtdAJw1C3YW/USgxBpCxtwbC7sxIXoxo5M=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__mask_of_in
+ famy_phase2__bosshp_icon_32px.anm2
+SHA-256-Digest: 0eCo99l+RZ32AQdHEyK5Y5RGF6HgFptt7MQjooNnTeQ=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__mask_of_in
+ famy_phase2_black__bosshp_icon_32px.anm2
+SHA-256-Digest: 7zCR7TJx83d2lPd5kzFCP8UWqbXWXNmdqni69xG6eho=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__monstro_tw
+ o__bosshp_icon_32px.anm2
+SHA-256-Digest: 6XqhhzX7i0DWCjxhAp+DuDtmOKxSkeQk3Nedj2vdd80=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__monstro_tw
+ o_red__bosshp_icon_32px.anm2
+SHA-256-Digest: jTL8DE5p/tvuAqpaLlsxwapgOLdoff/zIAvQU+rAPLs=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__reap_creep
+ __bosshp_icon_32px.anm2
+SHA-256-Digest: wHjwDblvM/KPeDcaXovxoVNbuniRdekP+hhgK8xQ2FA=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__reap_creep
+ _phase2__bosshp_icon_32px.anm2
+SHA-256-Digest: HY22MCiB4SKsR2Dc+71LigAdWA4aWG+fUKV6XXkFo9E=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__reap_creep
+ _phase3__bosshp_icon_32px.anm2
+SHA-256-Digest: pdCDGkcka0VZWfhAljARS2l7S3+OJKe1GzDHNdcQoiI=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__sisters_vi
+ s__bosshp_icon_32px.anm2
+SHA-256-Digest: ecF6wJFcfEvlmju3z9NmBYh1J132cCulH5DtGIfw3mU=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__the_advers
+ ary__bosshp_icon_32px.anm2
+SHA-256-Digest: jemcm1Ko6tWj6E3UpHDsXf5c1Dh3H95c8cVZkOGQIvw=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__the_bloat_
+ _bosshp_icon_32px.anm2
+SHA-256-Digest: tsJwG9Dyp/VNlcWlzdx9KNxQJMDKqSurRcSyKuNP4S0=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__the_bloat_
+ green__bosshp_icon_32px.anm2
+SHA-256-Digest: +EGzWPMvPovC7+0vkE49eDnFE4L9JFU5wMF7h5cG82w=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__the_cage__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: gQnRCon44UFufeBpO1YDH/oKRYoCNJykEjPKh13paNg=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__the_cage_g
+ reen__bosshp_icon_32px.anm2
+SHA-256-Digest: PKkXI3TGkoYpK5Em6XwF4foY9DpLZS0mh8pAK7ODAH0=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__the_cage_p
+ ink__bosshp_icon_32px.anm2
+SHA-256-Digest: 4epHtqkp3RR9MuaB7dCStfOS5cvNchgP0wP3dQCr6yU=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__the_gate__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: s5Zm0RpJUGBJ5tIAnLM9tVfyFWJYmXUxiislE56TDW8=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__the_gate_b
+ lack__bosshp_icon_32px.anm2
+SHA-256-Digest: udk1fZfjMr2D+AKV6h68PFaCUAo1MRndqxPiF/Hv+yg=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__the_gate_r
+ ed__bosshp_icon_32px.anm2
+SHA-256-Digest: GrMMQKAHdVd6nTeaRwpAQPtyqlfnB+mVhYJwMnNFROw=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/port_icon__the_pile__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: s/NeosrA2fErJXRaMsQQfN0rbkc0sr0TcWnjO5ELW0E=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/reap_creep.png
+SHA-256-Digest: lJSz6C3F1RPsyWCrm/Ae0YzoptiEhLIDbQu9aO6DqrI=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/reap_creep_phase2.png
+SHA-256-Digest: Bc944/qlXI1zLifgTydOCcuCXXc/+HQ0wRG22pANHZM=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/reap_creep_phase3.png
+SHA-256-Digest: bzE6ftFsuTaBpyrgvAiAmSgk981Zj0qK1+od4Va2oA4=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/sisters_vis.png
+SHA-256-Digest: SyGjNSsjUEmhTVFrXFu8VTvL68vzIlyUrXU2u7ldmKM=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/the_adversary.png
+SHA-256-Digest: H5bLwhFirSP4kPZqt2UIkvTI7nJvH3uLAexkeBtJfdI=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/the_bloat.png
+SHA-256-Digest: faXOHd/0tav2QV762FzKu5MkHLiCkv2Td94s1RReWu4=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/the_bloat_green.png
+SHA-256-Digest: Bh+t0iR4eRgcdzKi9Oq5TeKDHGZLZ3y8VSBn/y0YA88=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/the_cage.png
+SHA-256-Digest: WyJPJV0GBtBM2o8bqfqpRP1/4ofZ75sKsT+hNTXj84g=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/the_cage_green.png
+SHA-256-Digest: m0BUURVsn39JUPH2xo+xIX10obmxzZt+QoEhwkHyOVA=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/the_cage_pink.png
+SHA-256-Digest: QROerHcAURXx3s81eN+GVM5igkpBsNixxJ+pBx8jkks=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/the_gate.png
+SHA-256-Digest: XQTmvNC8Qq7aERXrWE0iDrMguBeI2iTdSaO/jKMHV9g=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/the_gate_black.png
+SHA-256-Digest: /vwImZMdrfEMhiuNZyYoPjaocp7Y7Oq8j8nCEMQ5AeM=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/the_gate_red.png
+SHA-256-Digest: coNZMQImaN9sVRt9rMN7kYXnkIt+Eji+PZoEGMl3dbA=
+
+Name: assets/port_bossbars/bosshp_icons/chapter3/the_pile.png
+SHA-256-Digest: HCON4M0Hj9JnQLjjiMLb5qLNKVoILKWHiez8NTsk87E=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/blastocyst_large.png
+SHA-256-Digest: Uhj0hvlP+GEeaPzdfE/NXyeKyGZ2yLbibKLz7GsB+8g=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/blastocyst_medium.png
+SHA-256-Digest: qp19XBIxbYzeZ/URi+N4C0/oAt4yML0PZAYMaFkc+Fo=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/blastocyst_small.png
+SHA-256-Digest: MNOS8+jbmZUegwczfqC/ZuuDkxxLQUJNjXUflw/uTGg=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/daddy_long_legs.png
+SHA-256-Digest: EJwHLA3uMVIet0ajrbPQmAwFJTwFEX3iOlWf0KgSFQU=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/lokii.png
+SHA-256-Digest: cAIJkGj1OBFPLDUinq4ZtTzliMoIJrjKIKVI70E9dj8=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/lokii_2.png
+SHA-256-Digest: 7WilUCOftHP8EipWfigKGFHhgHcJNHSxudQUiLlq3VM=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/mama_gurdy.png
+SHA-256-Digest: /3r2ybvWMrCiWKSLsVYQhgmFxf2cSYcGZ6LTqaiTGcE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/mr_fred.png
+SHA-256-Digest: OfTM2kLoAj0CS9Sa6oMEi3D62vKq78cb0/HvEv2rMKk=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/port_icon__blastocyst
+ _large__bosshp_icon_32px.anm2
+SHA-256-Digest: tEuRfAxFrUCT+7opS+OsCbAfQ1MKe+VAx870Jo/mEIc=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/port_icon__blastocyst
+ _medium__bosshp_icon_32px.anm2
+SHA-256-Digest: 41fNWKc3nCrd/eCTCivIgXpCG+Cxvxt+KCJhZBY4+iY=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/port_icon__blastocyst
+ _small__bosshp_icon_32px.anm2
+SHA-256-Digest: zegtbRctpKr/afCV//Ynq86LvuRcOv6d0OW3+u/c+Gg=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/port_icon__daddy_long
+ _legs__bosshp_icon_32px.anm2
+SHA-256-Digest: t/FY9h6p/yD8BtdbQGiCEHucC18wAQjE/raAT+SaVPg=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/port_icon__lokii_2__b
+ osshp_icon_32px.anm2
+SHA-256-Digest: ijP4+jMiuwEGEsCDVZTVA8Wax+GgPxoLkbKH6i6Nqoo=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/port_icon__lokii__bos
+ shp_icon_32px.anm2
+SHA-256-Digest: rSxaG08CPM2ypOL8JXTKpisjSFLidse4fV4rPqZZ/ag=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/port_icon__mama_gurdy
+ __bosshp_icon_32px.anm2
+SHA-256-Digest: UEspitx/1h11YxIQR4cppXAeqdLXXJu76JHQUq4mQ70=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/port_icon__mr_fred__b
+ osshp_icon_32px.anm2
+SHA-256-Digest: Xyrpx8x9bN1gJBNRq3cZuP1ANolBCBZqSEbt6ni8Eqo=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/port_icon__scolex__bo
+ sshp_icon_32px.anm2
+SHA-256-Digest: h42rTI6tWuVldFzZzTrDr7a/s1HqfaIucTSj6AD1cN4=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/port_icon__teratoma_l
+ arge__bosshp_icon_32px.anm2
+SHA-256-Digest: ZOWDNqBQjgkG8QosPDAH0QCcfSbTMsRtKXxDngIOljU=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/port_icon__teratoma_m
+ edium__bosshp_icon_32px.anm2
+SHA-256-Digest: xwZIFN4rHBaIbFqty5jFtW972icGXKBM/x2gWW5xxwg=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/port_icon__teratoma_s
+ mall__bosshp_icon_32px.anm2
+SHA-256-Digest: Uyt8LJvfykJj17pe6JhJa5yl20Ti3lUSAhbtZ5fFHUE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/port_icon__the_matria
+ rch__bosshp_icon_32px.anm2
+SHA-256-Digest: Vr1kiMmWn7vFtwF7g/K3oYlKQ9Tbh3lKEo3MiuhYZsk=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/port_icon__triachnid_
+ _bosshp_icon_32px.anm2
+SHA-256-Digest: g07bLR3VnSrdqKvoQbKD42FvPti+zP6QUupsNUJHRIQ=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/scolex.png
+SHA-256-Digest: Epjmq5pXV0It1htzLJGnIVlYC5M2C1eHLCdMrmmD8d4=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/teratoma_large.png
+SHA-256-Digest: WTNkOT9rPlJCwMYlvGfqMIVaK9F/nGubsaIdMcRUZWA=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/teratoma_medium.png
+SHA-256-Digest: arycxxM3afsAnKxGgZ+YKJYN5Kht9YfXlvpuCJNXmuw=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/teratoma_small.png
+SHA-256-Digest: hmTbH/ekSIkC1dJJ0WtIiiQKvMwy4niDH0Zgohaa2AY=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/the_matriarch.png
+SHA-256-Digest: /3X9foV421u8DYyJJV3lMCaXkqsFnkeEiW9UOO9SfiE=
+
+Name: assets/port_bossbars/bosshp_icons/chapter4/triachnid.png
+SHA-256-Digest: 5cLNuqRw19LdbzLI7HnEJwU+qlYmwgzBYNcI2gW8tzU=
+
+Name: assets/port_bossbars/bosshp_icons/final/beast.png
+SHA-256-Digest: Vkqr+uJ1MyZTvRHsFqWdwFpdUoEDf24MissWDrjRdes=
+
+Name: assets/port_bossbars/bosshp_icons/final/blue_baby.png
+SHA-256-Digest: mPgDi7miaDyJDJrFT9Of+i79btLy79V7ZPSxU1qgAIk=
+
+Name: assets/port_bossbars/bosshp_icons/final/blue_baby_phase2.png
+SHA-256-Digest: OgmM2TPor++JCP0E3qHXaZk8EjdyKsgBFd/AtUMfaTQ=
+
+Name: assets/port_bossbars/bosshp_icons/final/blue_baby_phase3.png
+SHA-256-Digest: f/bvdw27k//s7CKMyzs2cC3AGveTzrrRX804mMEa0+w=
+
+Name: assets/port_bossbars/bosshp_icons/final/delirium.png
+SHA-256-Digest: OXeyf7pTSVMNRKYzWcov+3oiwjQ6cFmI+9woB9sdpY8=
+
+Name: assets/port_bossbars/bosshp_icons/final/dogma.png
+SHA-256-Digest: kQFXWO3vPMD9n1J8xWtGkNaN5uwTEZc9dAbs07jChTg=
+
+Name: assets/port_bossbars/bosshp_icons/final/dogma_icon.anm2
+SHA-256-Digest: /zhr6zA9uKXBamTJkRrBumD2U3omO2/ER6IBcOKJ6TU=
+
+Name: assets/port_bossbars/bosshp_icons/final/dogma_icon_64.anm2
+SHA-256-Digest: U3+marb9mwECQzXgxPgWcYxUDFjUrHKz7iTKjmrbp80=
+
+Name: assets/port_bossbars/bosshp_icons/final/dogma_phase2.png
+SHA-256-Digest: EedO+pC5C0v1R06dHBLaVW003cYsQ24BO3wRd2jyYkU=
+
+Name: assets/port_bossbars/bosshp_icons/final/dogma_tv.png
+SHA-256-Digest: a6ZCXTpw2mM9RmjdFUnJYa1r+tTU3M722FjhiTxmfCk=
+
+Name: assets/port_bossbars/bosshp_icons/final/hush.png
+SHA-256-Digest: bRjT1D/7yaYPeBUwR+7u8vzgKRjtoqZ/PgUibawvxH8=
+
+Name: assets/port_bossbars/bosshp_icons/final/hush_baby.png
+SHA-256-Digest: l5eey5e6xH+/OfmTpWzf0JLTn62aHpUIXIWbh7XDjRM=
+
+Name: assets/port_bossbars/bosshp_icons/final/hush_phase1.png
+SHA-256-Digest: tVKRFXa+v36dsxxlmj6QRoJ7x1/t+hPKiD2+YjIAIjI=
+
+Name: assets/port_bossbars/bosshp_icons/final/isaac.png
+SHA-256-Digest: z+oP+/wuM8cqUO+U2lkX7EzyufHFw/T6D3ZRLPaZwAQ=
+
+Name: assets/port_bossbars/bosshp_icons/final/isaac_phase2.png
+SHA-256-Digest: 1svmZIr/wY0nJTI0664Mow8L+19F3NVc4UjhQVKQgzg=
+
+Name: assets/port_bossbars/bosshp_icons/final/isaac_phase3.png
+SHA-256-Digest: JOM6OjEUzVXYEKQ6jPK6gO0f6jkbBwCqsxRt9Tts8jg=
+
+Name: assets/port_bossbars/bosshp_icons/final/it_lives.png
+SHA-256-Digest: Q+Q1nC1h+yJhfWZEl7Mbsxyj73sAVWhgacf2ZXTTUyU=
+
+Name: assets/port_bossbars/bosshp_icons/final/mausoleum_mom.png
+SHA-256-Digest: zS8/YctyrC1NeCrUryPTI1XCZnfYtGxByPMEqDGKejg=
+
+Name: assets/port_bossbars/bosshp_icons/final/mega_satan.png
+SHA-256-Digest: 5GjeMmup7FeUiniwtSQtyYj8g+zM66ZOKQEV9Nxbg70=
+
+Name: assets/port_bossbars/bosshp_icons/final/mega_satan_lefthand.png
+SHA-256-Digest: XnUYzOJzrREf7m5yv3UmyNotw6ASUbNFzhVpS3nPGEc=
+
+Name: assets/port_bossbars/bosshp_icons/final/mega_satan_phase2.png
+SHA-256-Digest: 9lUx79A9jxB0bp/09Hw+XGLlhERjeyL9q1dYO/JMa24=
+
+Name: assets/port_bossbars/bosshp_icons/final/mega_satan_righthand.png
+SHA-256-Digest: OyOSbjmdSWgKMJsqZVudap1GFQG7WomoVs/mAg87VTQ=
+
+Name: assets/port_bossbars/bosshp_icons/final/mom.png
+SHA-256-Digest: 1xWvPV1hQ59OpHeI4vgaFJEQVKpECEkUDP29G0LsFZA=
+
+Name: assets/port_bossbars/bosshp_icons/final/mom_blue.png
+SHA-256-Digest: ZaZgKLho0wdjppZKX5zECtiEkhbD/QlLppHwy/3CiOE=
+
+Name: assets/port_bossbars/bosshp_icons/final/mom_red.png
+SHA-256-Digest: Vnq5tZiuPbgSipMnxd4sINCdTE0KK0mCMWyuIXVknhk=
+
+Name: assets/port_bossbars/bosshp_icons/final/moms_heart.png
+SHA-256-Digest: 03IWevz08VY3hRF3CRt7sU6OPbJ4OkgjpuR9IldKZk8=
+
+Name: assets/port_bossbars/bosshp_icons/final/mother.png
+SHA-256-Digest: JP+aaoGCgCOv/qWZKz3MhpPLzZi6k/Dg6FqMspRjH+s=
+
+Name: assets/port_bossbars/bosshp_icons/final/mother_phase2.png
+SHA-256-Digest: LHLj2wYkI+Vk7F66OuiO1c6q1ozaimDKQr7nHp2sh7s=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__beast__bosshp
+ _icon_32px.anm2
+SHA-256-Digest: ZDBDF2QnQJMQ8f0pRIKYx3tdrlA8F2Pa2rTQ1q+Zo1c=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__blue_baby__bo
+ sshp_icon_32px.anm2
+SHA-256-Digest: t/jdKzNm+wYrpizC1t+QlZCLAsbwwaoS4ofB0WMzOno=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__blue_baby_pha
+ se2__bosshp_icon_32px.anm2
+SHA-256-Digest: BkjAdjHjc0NgcJNnUJ6pwHK3xRYQmnzEQhWoCD0V5uo=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__blue_baby_pha
+ se3__bosshp_icon_32px.anm2
+SHA-256-Digest: WBRq0KLFiy8KesN7ofAi7VlVFt13SaXNmpG76EedS00=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__delirium__bos
+ shp_icon_32px.anm2
+SHA-256-Digest: 1mCe2CC1+UInR/KSdUJVMwa0DCtXEiLguIoqrvLl3RE=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__dogma_phase2_
+ _dogma_icon_64.anm2
+SHA-256-Digest: OJ2odOFr0JQ5anqC9iBLamCxTX2Cv7C0V1EuhhKxyNY=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__dogma_tv__dog
+ ma_icon.anm2
+SHA-256-Digest: Hm5Pep1ngRN1SaJGPVy613g0sCOqgwiEDTB8z7HpjPU=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__hush__bosshp_
+ icon_32px.anm2
+SHA-256-Digest: F3KMQQzSF3gi02AcCj5cd1ugQ+O5tBfl1X74XpuiaAE=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__hush_baby__bo
+ sshp_icon_32px.anm2
+SHA-256-Digest: 075M/AlqV5cXLTFeD0yNhPTvV8FS2559p+j1gvmlR/8=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__hush_phase1__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: bPx8SloIvyWkzUFQMIBeP/eFGKgmCzwMWG7V6gAAp0w=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__isaac__bosshp
+ _icon_32px.anm2
+SHA-256-Digest: F4fS8v2PSgW1nQG7rlE7z+KsXnhw/Io8wD8oqMbi1jM=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__isaac_phase2_
+ _bosshp_icon_32px.anm2
+SHA-256-Digest: kf3xfM/K2isTXVCziPncG99WZrasKP+IjZTSOvwtq9A=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__isaac_phase3_
+ _bosshp_icon_32px.anm2
+SHA-256-Digest: cBOUn4wPvdLbcCkrl66ujwe5lOKJT6vfL7E7jQFEA8A=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__it_lives__bos
+ shp_icon_32px.anm2
+SHA-256-Digest: PwU0fuzCYZVgn0ACEWqpmfd1fub/e3SUVDvL0JjJnIA=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__mausoleum_mom
+ __bosshp_icon_32px.anm2
+SHA-256-Digest: Mrc+VTGVXtLhCcJtlj+mauX3ivMZzGOq1qGLbQaw5gE=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__mega_satan__b
+ osshp_icon_64px.anm2
+SHA-256-Digest: qmieYqmbyx9lE8S9fyCQFWlPwghg/RlTXeYFZsEjGWs=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__mega_satan_le
+ fthand__bosshp_icon_32px.anm2
+SHA-256-Digest: kOgxHO4xMPPyO28iVk1LR3jPBtCKaizafK49rTvWQDs=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__mega_satan_ph
+ ase2__bosshp_icon_64px.anm2
+SHA-256-Digest: yjl2K4vuWEv/nPqYlIsS8MsKu8KFxrv8oPqJzVZpZq8=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__mega_satan_ri
+ ghthand__bosshp_icon_32px.anm2
+SHA-256-Digest: WM3eMeIPgL9bc8nstpBMb2uf2JEiu0GhPPoNQX/fR/Q=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__mom__bosshp_i
+ con_32px.anm2
+SHA-256-Digest: 0rOcxnsAWpGfFdJb+QwbNe9XfUZfa8OFl9Zk76fRWsc=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__mom_blue__bos
+ shp_icon_32px.anm2
+SHA-256-Digest: TaO8X+1r+4YRWOIv/PCvtknfZjKHBLLpXIz1EPXky4w=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__mom_red__boss
+ hp_icon_32px.anm2
+SHA-256-Digest: k8SoU26VN4cjxvK+X06lWmF+ZvCZvFVT+kZGdTavrJk=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__moms_heart__b
+ osshp_icon_32px.anm2
+SHA-256-Digest: 4f/aTYkMLqhwd/uQDpexz05y3JsToNC9zNoQ4qtpmGQ=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__mother__bossh
+ p_icon_32px.anm2
+SHA-256-Digest: Sr+Z+9gwx7v+fOByTcNby7FE/gQEX1msyAQkwgwNSCk=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__mother_phase2
+ __bosshp_icon_32px.anm2
+SHA-256-Digest: x4co5b8E/xedCb0NQxtK88bh2IzgkcfAAv/P7Ok4MJ0=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__satan__bosshp
+ _icon_32px.anm2
+SHA-256-Digest: oFutIUpjJY7nQp0RGZmB+mpdBQP0Ms9PTri4RaUBemo=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__satan_phase2_
+ _bosshp_icon_32px.anm2
+SHA-256-Digest: 33KOula9LQ46EzybmP+VlD5io0L9qS2xmsx1ExFRBqI=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__the_lamb__bos
+ shp_icon_32px.anm2
+SHA-256-Digest: 3nNxTvwy3fwbiBPjIH7BXh1toyW27Te9l5Qvf0rRWx8=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__the_lamb_body
+ __bosshp_icon_32px.anm2
+SHA-256-Digest: 4XAxAJG6Pj5Ku7h5Xbp8ecImgP+mFkbE84IW7YSS5xU=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__ultra_death__
+ bosshp_icon_64px.anm2
+SHA-256-Digest: ovIu2lxRCIr35YnUXLLK87jm99DFfNceSI76kUEyrNw=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__ultra_famine_
+ _bosshp_icon_64px.anm2
+SHA-256-Digest: 445DwSYzKyb3e3+5hcTa2vOMc4Ihx3NB06CUpz9O6os=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__ultra_greed__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: 1eE8J4gty76soHQsHs/h0ZHevH2kQ3/sipQqPsuXWjc=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__ultra_greedie
+ r__bosshp_icon_32px.anm2
+SHA-256-Digest: qcQsBDzW1yrlfkaKpcrXGmffO2e7bdPFa8a4gLmJQAE=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__ultra_pestile
+ nce__bosshp_icon_64px.anm2
+SHA-256-Digest: n+7LdKeZmD7YfrgLj4a9O72sxd+WSG5ZSsLmLV64DiQ=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__ultra_pestile
+ nce_phase2__bosshp_icon_64px.anm2
+SHA-256-Digest: Os2vD6cHAhmhCl7itEfe15AUpygzKwWmm17AJQ9XPeo=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__ultra_war__bo
+ sshp_icon_64px.anm2
+SHA-256-Digest: yNEMNv8cQjxjfCJW+LUGuh+7t8klJxCNzYu9hZ5IkTE=
+
+Name: assets/port_bossbars/bosshp_icons/final/port_icon__ultra_war_pha
+ se2__bosshp_icon_64px.anm2
+SHA-256-Digest: z5FJx4h93pBCKzXeMsBPL01OUc3aiZ143MCXaYxnMpI=
+
+Name: assets/port_bossbars/bosshp_icons/final/satan.png
+SHA-256-Digest: xTLvNyLFpBHXV9NN8N0m2pW3BKcPpa0CzruNcJvcE7A=
+
+Name: assets/port_bossbars/bosshp_icons/final/satan_phase2.png
+SHA-256-Digest: meQtQpzwTWvRyGVuberuyMY+ZWubMk+ocy5b0D/eRGw=
+
+Name: assets/port_bossbars/bosshp_icons/final/the_lamb.png
+SHA-256-Digest: Dg74LiY06K9UZ7NDJqEwWUe9w2v7+RuGylEoq1cR6bw=
+
+Name: assets/port_bossbars/bosshp_icons/final/the_lamb_body.png
+SHA-256-Digest: GGrYaZT83irQxMySwJtQt+5eFVep0Lo4mN377twSXGg=
+
+Name: assets/port_bossbars/bosshp_icons/final/ultra_death.png
+SHA-256-Digest: cQjg77kiEoMRjeeoTdbvnPDYgOQLpuui461QBOMBiMs=
+
+Name: assets/port_bossbars/bosshp_icons/final/ultra_famine.png
+SHA-256-Digest: 2DYW/S1MEzewjopxNZWBGgpsvdN4y/17yb30NBbbVsU=
+
+Name: assets/port_bossbars/bosshp_icons/final/ultra_greed.png
+SHA-256-Digest: qvgJT2goBwzk6PjHF0s8PcQ7A5C5sQU4iDJeUpBudRU=
+
+Name: assets/port_bossbars/bosshp_icons/final/ultra_greedier.png
+SHA-256-Digest: egUK7/k1YesJDyigbyiaD30qkxGHU1iaoyACpUFyaBs=
+
+Name: assets/port_bossbars/bosshp_icons/final/ultra_pestilence.png
+SHA-256-Digest: HrmxN7vnzwRXzzSu7vS4Rxq9JYPT8Dx/4iwT2SF6yKw=
+
+Name: assets/port_bossbars/bosshp_icons/final/ultra_pestilence_phase2.
+ png
+SHA-256-Digest: 7wVDZe/zkIb2ya+8rIRfputN7J1XF64hOo9OTz0itiI=
+
+Name: assets/port_bossbars/bosshp_icons/final/ultra_war.png
+SHA-256-Digest: 56duoTrIAOkKXK7CEqBdhnQsk0QpQB+JPI0AfgGOwyA=
+
+Name: assets/port_bossbars/bosshp_icons/final/ultra_war_phase2.png
+SHA-256-Digest: g+BPwV86sp+kek/AGLrzJOiCwNfuA8wNdWrwgUcbbdI=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/conquest.png
+SHA-256-Digest: kSgK7MqniemoJwmViYJT8MbCbZV8G4hHJdq3VsLFjCg=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/death.png
+SHA-256-Digest: TrZ/ndlXw64u2pXqEHXJeHhTm6xs9YvqFNIeDtuh+sA=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/death_black.png
+SHA-256-Digest: d1ZA0qs1iH+ij8pTJ/0UjzNNPkNT/CdmRnYiUhWyZBk=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/death_horse.png
+SHA-256-Digest: bEiCegZzoMC4qMU6LsbfaZM4vyM4xF6h4MGOiviLTQ0=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/death_horse_black.png
+SHA-256-Digest: MEaFb6mf6O48HoUp3oFsq2SRY4XOy2tOAgxda2WztQA=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/famine.png
+SHA-256-Digest: lxR76nv7Ps2uLxeLgp+r1aA9DpdEqM7QfJ0CZ0OP7iI=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/famine_blue.png
+SHA-256-Digest: /6eIRVLPOs5R5hLRV+fs2GXdmIlSwEAIqlwmEoL8im0=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/headless_horsemen_bod
+ y.png
+SHA-256-Digest: 7VwCj5xyRkIp3OIN4l8RY+9nMRzuI0nHKqARi0O1YqE=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/headless_horsemen_hea
+ d.png
+SHA-256-Digest: M75jH9YLy+hMwBIddst3Rn38pykahT7wrgoj5bJkjKc=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/pestilence.png
+SHA-256-Digest: 3dMF5WDKAPuycmVievLu5Kn2q1xS6rXkGSQW7awNYtY=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/pestilence_grey.png
+SHA-256-Digest: FQvmAMZrhBLwpRbpSUbJa9TniCJAzlZK6o8Pdeqv7no=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/pestilence_phase2.png
+SHA-256-Digest: o5lU36MkSeQhwSL6VWU7zoBSNIdW++sMMrhSL//+BDk=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/pestilence_phase2_gre
+ y.png
+SHA-256-Digest: 1IBthd4cRT1xulrmfF93Gu4pj+8HbcivTZUTrx0/uAg=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/port_icon__conquest__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: acuscsEXPlM7YZ5dWroeNE4GUE4FI1I/wHu/YBqDGxw=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/port_icon__death__bos
+ shp_icon_32px.anm2
+SHA-256-Digest: ElHcFCbmSoAXmY3cBjp/elq6cr0FDY+1Jap7mKx3/ck=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/port_icon__death_blac
+ k__bosshp_icon_32px.anm2
+SHA-256-Digest: xQxYl3TR3voAGuQUHvlj9QqxJ1au6Hka/cFsV+/qWjY=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/port_icon__death_hors
+ e__bosshp_icon_32px.anm2
+SHA-256-Digest: YeJFovQyOs7UMkCAQE6Jj0HlApEvWFbQbvEWZvrKxyQ=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/port_icon__death_hors
+ e_black__bosshp_icon_32px.anm2
+SHA-256-Digest: M2tmqoFbkgFhpTBOi47UADg3lKOHSJWqnLszi6l0+Xk=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/port_icon__famine__bo
+ sshp_icon_32px.anm2
+SHA-256-Digest: ic8YXoJlPUlQFV5iMPjCWPC51wALeyiGDbqcmeTu0E0=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/port_icon__famine_blu
+ e__bosshp_icon_32px.anm2
+SHA-256-Digest: xsvMO7q0TOzkeTNlRxxnuLzwmtjGCczrTdiUA/Kd7x4=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/port_icon__headless_h
+ orsemen_body__bosshp_icon_32px.anm2
+SHA-256-Digest: tjEOvFWIeTUFnP35nfxS1OM6bBuxT7Wh8OLG+/RD1oU=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/port_icon__headless_h
+ orsemen_head__bosshp_icon_32px.anm2
+SHA-256-Digest: O4l7wDpriSbmcdPjmslEcaioB4czmpyYrT490pF9AC4=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/port_icon__pestilence
+ __bosshp_icon_32px.anm2
+SHA-256-Digest: /egx8GEzG7mv2E8AUNtjdvVluGgo/ctSeYuMraxN/rY=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/port_icon__pestilence
+ _grey__bosshp_icon_32px.anm2
+SHA-256-Digest: b1yaysFzjljfh0I5XUUVTWsuDBQIOb6M/CzyTFYb0Mc=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/port_icon__pestilence
+ _phase2__bosshp_icon_32px.anm2
+SHA-256-Digest: EKtcFEHE//n8xthabjvbsWlatSjZ3N/WlyRzzq04u3w=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/port_icon__pestilence
+ _phase2_grey__bosshp_icon_32px.anm2
+SHA-256-Digest: bdgOBWglv5zkyDJ5Az4459bWkgGAexoX1J350wDC8O8=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/port_icon__war__bossh
+ p_icon_32px.anm2
+SHA-256-Digest: /2nnABo+eYR44qzFog4i5GofrpyazJSVWRgZbdGRSS8=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/port_icon__war_grey__
+ bosshp_icon_32px.anm2
+SHA-256-Digest: UZ1TLB70zewNvwQE+0gCxGVARmTLhedZJUR4R2+15+w=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/port_icon__war_phase2
+ __bosshp_icon_32px.anm2
+SHA-256-Digest: VhUop+SaBko7877RQHgrQbO1nsabyahGV7IuFK8vcAc=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/port_icon__war_phase2
+ _grey__bosshp_icon_32px.anm2
+SHA-256-Digest: WoOje6Tv8ZP7B2UXyVoOn+h0e7ttsn5V0/X7dN23Cuk=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/war.png
+SHA-256-Digest: g+NaBFkkEqxROQX22eng5A9tT8ynn5GbV/5aOEMgWrw=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/war_grey.png
+SHA-256-Digest: 8637RutbaNnGwU9SIYu+aGATqa2LukyRxfHslGrhVRo=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/war_phase2.png
+SHA-256-Digest: cuTf1IXa+IXEM3/0SibHy23PN+rwH+pCknCttUyi7Rg=
+
+Name: assets/port_bossbars/bosshp_icons/horsemen/war_phase2_grey.png
+SHA-256-Digest: 4vB2K2l8rYk2LmbTmEeIB+4rj++3ofMJGzH7SIWoFCc=
+
+Name: assets/port_bossbars/bosshp_icons/miniboss.png
+SHA-256-Digest: +6KB5IsgUJFd0UbHdMwHSMLBJavRqsXmxOOJOxo9N5M=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/dark_esau.png
+SHA-256-Digest: KaoRyQd68ulPjU8sG9pcioNUfnZteGC7l3edsEnH8nk=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/envy_large.png
+SHA-256-Digest: CvN7lvJnFig1SjIBhS4VmVYQ9Ww8FgoQRlwOAT9oYY8=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/envy_medium.png
+SHA-256-Digest: sH9p4pzHG9NU7cXdopBi9KweQ+giu4asGyZ/ssmh0p0=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/envy_small.png
+SHA-256-Digest: 6TkjSlUyKXZyS9V8rb1RDmJA3Tm6ddUw5WhHaQ/2fq0=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/fallen_gabriel.png
+SHA-256-Digest: C4LJ9eRFvCGApQlyOKZu2Sd5gIMYppr3+6eS6fG6h5c=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/fallen_uriel.png
+SHA-256-Digest: 2lbZctmDcAH4F5SfCMalcMutBFJ2nknlt1Jj8ElbJpw=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/gabriel.png
+SHA-256-Digest: 5WbJQsrSStoSmwM2SsmUpxdb1nRpll3jPahVWMIzz/U=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/gluttony.png
+SHA-256-Digest: tThsmidqP2qpTxgoxHhavBCMqs3qzboQlCrVLmpudus=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/greed.png
+SHA-256-Digest: naoO2UugNbkoI8SlSKra7rKaXKMpNX2A/7i8wXkT0Qg=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/krampus.png
+SHA-256-Digest: Hfb2yNUBrifFSrh+MYKiAY1Iq1LZ2gZfqis61wgUkRg=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/lust.png
+SHA-256-Digest: 55p25I5zutKwzh2yqNE/gP6yOIXRV8j5VXOVArS7heg=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__dark_esa
+ u__bosshp_icon_32px.anm2
+SHA-256-Digest: EHLrQQfanBPlVBP+hadq1x6FQjZj0Wbrs1pJHJcqxUE=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__envy_lar
+ ge__bosshp_icon_32px.anm2
+SHA-256-Digest: OCqexN1KNkAapb6uTaWRLTWX2y2wcq9pEsYgbWWZ9L0=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__envy_med
+ ium__bosshp_icon_32px.anm2
+SHA-256-Digest: A7qwZIqUqlIrmk5zy+cwItebxqPQERdeecF2RRRv+bc=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__envy_sma
+ ll__bosshp_icon_32px.anm2
+SHA-256-Digest: hZLQgdXDthWiesXvRkUesCvUhjHrnTpY1FGMWFQKjWw=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__fallen_g
+ abriel__bosshp_icon_32px.anm2
+SHA-256-Digest: cH33E6uCF1bcwncuM1JYBJGeCgrsutHlNzvm9NXjwXY=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__fallen_u
+ riel__bosshp_icon_32px.anm2
+SHA-256-Digest: QfvNRK9xLFyJRJ7i/JjYnKfn4eUgSapLV4o+aLimKCE=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__gabriel_
+ _bosshp_icon_32px.anm2
+SHA-256-Digest: 6N8z9a7PYvScVS1Y/5a+MiNdLDdxODcWTWwXQiZJngs=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__gluttony
+ __bosshp_icon_32px.anm2
+SHA-256-Digest: FJRtlrlv8GpnKv8ECFMUjHyxJTq8Ipqp0vFIovWSPPE=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__greed__b
+ osshp_icon_32px.anm2
+SHA-256-Digest: guOrCDk8/P9GdB59jvnSMTqZ7vLJ0eKDSfMDlySZThs=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__krampus_
+ _bosshp_icon_32px.anm2
+SHA-256-Digest: xCSzJk4JzcPc9p3Zbq2M1bZAbgWelZdDXhkU+D4rGbQ=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__lust__bo
+ sshp_icon_32px.anm2
+SHA-256-Digest: RvA7H/9RZX3qUG0/SMZsAk45odJEG9zHVdfdMUOihvk=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__pride__b
+ osshp_icon_32px.anm2
+SHA-256-Digest: 6f7GJKa6ydy+cxv5S5Cz3+Ku4HuhMql6EbW2iPyJhOE=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__sloth__b
+ osshp_icon_32px.anm2
+SHA-256-Digest: /kmWGDEqPHLBmCfkxZlFNe5GWtG5GW64NGpXucxNbNI=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__super_en
+ vy_large__bosshp_icon_32px.anm2
+SHA-256-Digest: EOl18J4EgG8F/5grM+bfGUqUuM3YcpRbFwKdE4p6JVw=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__super_en
+ vy_medium__bosshp_icon_32px.anm2
+SHA-256-Digest: s18JT1geRbKwbEhf/rYN7fI2pPizJdy7xX8jjHlIMbU=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__super_en
+ vy_small__bosshp_icon_32px.anm2
+SHA-256-Digest: ywiqlX1e5+E/2wBL0vOeie4MDSmbWBwC9eqm2O1bEQA=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__super_en
+ vy_tiny__bosshp_icon_32px.anm2
+SHA-256-Digest: pdZG8Y2y42Y107DuTq7w41WKCOJK0Ty6D9E3B4BRywQ=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__super_gl
+ uttony__bosshp_icon_32px.anm2
+SHA-256-Digest: q27n0q96ER+GMqVqCEUyxwC8/bdLivQfiwNpKktqiZQ=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__super_gr
+ eed__bosshp_icon_32px.anm2
+SHA-256-Digest: L9jSx02L2tB8P7TOqOIW1nnXxqayuLmk5E+9lBkieuQ=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__super_lu
+ st__bosshp_icon_32px.anm2
+SHA-256-Digest: mi3l1b4PzSZ5JOlNsiieDdIIc3j0FVRRVboEOvO3/kI=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__super_pr
+ ide__bosshp_icon_32px.anm2
+SHA-256-Digest: 8Y+wgw/MktY0THD2zt6YV6UiVZqxPtYMBKDuN2tgd7A=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__super_sl
+ oth__bosshp_icon_32px.anm2
+SHA-256-Digest: DasVTw2N/C1sOFHrcGA3+SpX9uTr3SQBfd48TGfp4ow=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__super_wr
+ ath__bosshp_icon_32px.anm2
+SHA-256-Digest: Wyfkkz0BH+Tz+PhSdPM9rbJcOrXr12sF0YgNKAIWAW8=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__ultra_pr
+ ide_ed__bosshp_icon_32px.anm2
+SHA-256-Digest: P51NuLAxgrkYhvY+mbo3nPEd6o8YFxJIS+UOCOsloO8=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__ultra_pr
+ ide_florian__bosshp_icon_32px.anm2
+SHA-256-Digest: nt1Cn+eKDCtq1ajYKMPzlIYqzrUuPLUE1SyCzIgAmZ8=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__uriel__b
+ osshp_icon_32px.anm2
+SHA-256-Digest: 2gCeUTEOmlmfRXs3JwsVdOy17D3vS2f7Vy0KcSkxahg=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/port_icon__wrath__b
+ osshp_icon_32px.anm2
+SHA-256-Digest: tMXfrTKulaOlIBI3zjl5/6iSTnAXmUn88D10GFNKmZI=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/pride.png
+SHA-256-Digest: D3m/BSH+qffHBwdsYPDV35PHsOR6a0lCWO0cUMXZg60=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/sloth.png
+SHA-256-Digest: XIqz3/gL8qADWgiLQuo5p6lEAW0IVaoDSrTFPwUtflw=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/super_envy_large.pn
+ g
+SHA-256-Digest: 9WTgR28bCm2BszLS5UUghKZ2dsL5qWgKVFFcVixP618=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/super_envy_medium.p
+ ng
+SHA-256-Digest: XYyLZBRH19j6TvL50/gkHyiIxdU9NKv0rbyfsM53wIw=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/super_envy_small.pn
+ g
+SHA-256-Digest: hJwVNu1V+DudxJCme1tyes4YvJ9e7eFzbHcDyAe47oE=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/super_envy_tiny.png
+SHA-256-Digest: J0Ouj8/SojvV98SZ+2e2ZO6CZ4IzJw58zaM+0Mk6ayI=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/super_gluttony.png
+SHA-256-Digest: TGDMXx9BM4EOIzasF3EXp74hfv+fdtl7wRaE+yR9PjQ=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/super_greed.png
+SHA-256-Digest: 7RTqYiUwpRodNW9an/OhuVFUD/WC6OLnvz26Zdjxjgc=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/super_lust.png
+SHA-256-Digest: VUUege/XJRYLCn4OGqX+ljoSw+M/puB6r7cwSgN1xEc=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/super_pride.png
+SHA-256-Digest: 4t8xFSn8mZVJZoINFWtpzlIglh1XbWFRg09h5L157zo=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/super_sloth.png
+SHA-256-Digest: fQwO+dV59RvgSq1vMVQlPigQTJq5iIVhjb899Xcdn2M=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/super_wrath.png
+SHA-256-Digest: MbrsTyN9T3idFu00wefvzOF7oVN9xJ5AQsBGmlfjVBA=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/ultra_pride_ed.png
+SHA-256-Digest: XkpfDdj1NWQbmXBccy/5aNMrpYMD4MvF8tcEi9ydlME=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/ultra_pride_florian
+ .png
+SHA-256-Digest: S3BsURJD9qmIUWhsGkfmn/PDjT0ExdrOAU8ZleqLc5k=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/uriel.png
+SHA-256-Digest: vpkQnCRP9meZhnHFoncAdQmdA9vXSONnSZIjqCeXnpI=
+
+Name: assets/port_bossbars/bosshp_icons/minibosses/wrath.png
+SHA-256-Digest: Ud+UXli1uFnc7ZgrZe4BGyIuTkmKQZZSwGUVgzGhNfQ=
+
+Name: assets/port_bossbars/bosshp_icons/port_icon__agnry_faic__bosshp_
+ icon_32px.anm2
+SHA-256-Digest: OeQNl6KCIXeVQZOqzy3bJZvyU0WkuI4kBIl0684gVHU=
+
+Name: assets/port_bossbars/bosshp_icons/port_icon__boss__bosshp_icon_3
+ 2px.anm2
+SHA-256-Digest: zBVR3UBnl3o+NQdLnOGKWGQIz+pa2gGEz12iKovq0WY=
+
+Name: assets/port_bossbars/bosshp_icons/statuseffect_icon.anm2
+SHA-256-Digest: lY6rUGzJl6J8uEw4MXKEaKWeVCBI/9yKeFMlqiNJ2ZY=
+
+Name: assets/port_bossbars/bosshp_icons/statuseffect_icons.png
+SHA-256-Digest: W3BBoUe01URip4sz6ALcaiV81U7QDgjRZkB64MVl8I8=
+
+Name: assets/port_bossbars/bosshp_icons/unused/cadavra.png
+SHA-256-Digest: hNKnWetXZ2mH4olFQ8Fuo8m6tq8I8d/IGqqLGo+s2Jc=
+
+Name: assets/port_bossbars/bosshp_icons/unused/port_icon__cadavra__bos
+ shp_icon_32px.anm2
+SHA-256-Digest: 6GQkfEM3EBbCfPRLUW8u/3sz86Rndb1li84kgih2O00=
+
+Name: assets/port_bossbars/bosshp_icons/unused/port_icon__raglich__bos
+ shp_icon_32px.anm2
+SHA-256-Digest: zZLh/iOb6BZQx6HgVMQ0mJKFnERReAQgcDksB2aQ7qI=
+
+Name: assets/port_bossbars/bosshp_icons/unused/port_icon__skinless_hus
+ h__bosshp_icon_32px.anm2
+SHA-256-Digest: SjKuOzpsArPWxYNYDsg2zpUa9OiejfYGYY41ePR8LZg=
+
+Name: assets/port_bossbars/bosshp_icons/unused/raglich.png
+SHA-256-Digest: dEwGXP/rZqiOVuYTJEqG0g5CBk7VSRO9GhLVq5DIAZs=
+
+Name: assets/port_bossbars/bosshp_icons/unused/skinless_hush.png
+SHA-256-Digest: ZD64BCcVncMhQO1O+aMc7HGHDCZMT/Tb9T8pSrZxD4k=
+
+Name: assets/port_completion_widget.png
+SHA-256-Digest: J1baP7wSrzEAWLZ0/sMPevxnFuM27gXd6uW7ekYpl1w=
+
+Name: assets/port_completion_widget_pause.png
+SHA-256-Digest: i+2Y4UbvftSKU/d6s4/asJJhlE2q5ZkF5GsENAFnDWg=
+
+Name: assets/port_credits.anm2
+SHA-256-Digest: uwm+H2QYHC4+13mxI9p54Zl4OTJ/hbhZ0zOW2BUdW7o=
+
+Name: assets/port_credits.png
+SHA-256-Digest: +MVz8MXKDp867R8ydwqUwy5Q7V/xTvKRCemUqv/5igE=
+
+Name: assets/port_credits_de.anm2
+SHA-256-Digest: h6FcE0x8cAYnujflDVCsvnO2DX1EveWZioLH1Pg9AjA=
+
+Name: assets/port_credits_de.png
+SHA-256-Digest: +rZ5Oy5oJ4JquzqUiLCd70TmXOEpnsjmD5jL/Bo1hZs=
+
+Name: assets/port_credits_es.anm2
+SHA-256-Digest: up17dzJzLp4k7kgViW0TMRers/tbAJE2oY1q6A0Syug=
+
+Name: assets/port_credits_es.png
+SHA-256-Digest: AqB17ZL+o0jUthTrw7JKBP8DXWgSLzljkKnsx9N9mFs=
+
+Name: assets/port_credits_jp.anm2
+SHA-256-Digest: BW/26goIzuP5R+RKnQX2JYnYM36A4WOI+tH/CFUIJb8=
+
+Name: assets/port_credits_jp.png
+SHA-256-Digest: iCu3Pec8BzBibpIs/SAz2Ivku38eKGavP4xJsrUgKKw=
+
+Name: assets/port_credits_kr.anm2
+SHA-256-Digest: 2wX4N/tL5yK+dyndgZI3T8LvtpmUbRUEK78JqNbP/c8=
+
+Name: assets/port_credits_kr.png
+SHA-256-Digest: loFlWN2tnzqTxDYyWUTcVLjULgQXNUcQLt3ObvLTMjA=
+
+Name: assets/port_credits_ru.anm2
+SHA-256-Digest: 0d0Le5HZZFTORiL4p/xcUtZKfhFhcFhklfRC51VJwvU=
+
+Name: assets/port_credits_ru.png
+SHA-256-Digest: EnnO+ZvXI89JqEn4J6YGxZl8q6CsC/hs2xAVm8TLOLU=
+
+Name: assets/port_credits_zh.anm2
+SHA-256-Digest: kgaW/N6QqeNno+SkqrLA7x3JXJTF8zlmn5FCINdmxjY=
+
+Name: assets/port_credits_zh.png
+SHA-256-Digest: qm3YePlJc0y9PWzKr/8aqKkVGJVmGfJX9GV9iWMwU1U=
+
+Name: assets/port_enemy_icons.anm2
+SHA-256-Digest: ZFKdOX4bi17HZp1NcFa1/MF1LmibL8LRgln6f4t1q8Y=
+
+Name: assets/port_enemy_icons.png
+SHA-256-Digest: VSW8MhQqfGMMLgg9gEfCzfFK4dYFuER6uUfhjS+vzX0=
+
+Name: assets/port_enemy_pulse.anm2
+SHA-256-Digest: /Qs8dqm7MauEUTkflQ5B6ViIRDdRz2i5q9mb6uDyQFo=
+
+Name: assets/port_enemy_pulse.png
+SHA-256-Digest: z3os86qpVwkarRVqsHSfzdKWzCA8SWgB+ahf8aj98C4=
+
+Name: assets/port_guide_de.anm2
+SHA-256-Digest: MU2IQqOpCWEca6jZJlUnvmWnIOMiqCqH1Svdx+07Kn0=
+
+Name: assets/port_guide_de.png
+SHA-256-Digest: iWPzW9czOw8LxRkiFW7mC1OdvYeGRrPjqtcOOCMN/3E=
+
+Name: assets/port_guide_de_ps.anm2
+SHA-256-Digest: GMNosmez+iTmbySoRWAEazThBoFgPq8I3xHjde/udvs=
+
+Name: assets/port_guide_de_ps.png
+SHA-256-Digest: 0ale7oWtZMIUiODAyTTLMok7V3jEI7VoK22w/AldXHI=
+
+Name: assets/port_guide_de_switch.anm2
+SHA-256-Digest: D/sgjX/SmDCKQlEaW0t30VHsNd+kGnrAJN3gSzJ8RnE=
+
+Name: assets/port_guide_de_switch.png
+SHA-256-Digest: 153vWFcSKpBi8X4RV1meJxg7T6n7xFDye+AtRzDyKUg=
+
+Name: assets/port_guide_en.anm2
+SHA-256-Digest: S365edQXzHpTnBmoB1vHA8PeH/w+3qgMfH09LU8kgeg=
+
+Name: assets/port_guide_en.png
+SHA-256-Digest: zSh7bR9c1WVBKB1v1iZ9gXWXM65W4rOUVjTIqMysfn8=
+
+Name: assets/port_guide_en_ps.anm2
+SHA-256-Digest: pFpWQgNt2Tvs/auAmj6cBowQDNb+C9L+o71UNZQ/RPw=
+
+Name: assets/port_guide_en_ps.png
+SHA-256-Digest: 73BWiesoIZfcWR+y2rMxSRNZgBwwEXjCK2mQngrV9mA=
+
+Name: assets/port_guide_en_switch.anm2
+SHA-256-Digest: 3PzOCTPUoiD3F/kWGSxnF1CLrdz/fI0nCLvyXIXlFos=
+
+Name: assets/port_guide_en_switch.png
+SHA-256-Digest: T9wkIhGwcUG1/+JlIxYyEm47PRYGr6Q0WYasmHsVzBk=
+
+Name: assets/port_guide_es.anm2
+SHA-256-Digest: XFc2Yu5Uurc4TEtiwnzqXF7Q1dtdy3RsdfZllgiq7nE=
+
+Name: assets/port_guide_es.png
+SHA-256-Digest: yKweRL4zpHSQntqwNNyipXrpUffNCbqx+EDG3AqWtEk=
+
+Name: assets/port_guide_es_ps.anm2
+SHA-256-Digest: Jru6wxDgoxnHQKV5kVdyOmr8Cxm3+j+Z5jXV8v6DAi8=
+
+Name: assets/port_guide_es_ps.png
+SHA-256-Digest: 7OFJ/ilizWL++UIlFGtM/pJgQD9mvOWVQiQsTMq2cCQ=
+
+Name: assets/port_guide_es_switch.anm2
+SHA-256-Digest: bsClWG6Ih9ET9sPSg4knot6NeHsP3EiMJ3omqMJNJIU=
+
+Name: assets/port_guide_es_switch.png
+SHA-256-Digest: BZSVvHW2WntILNaSFWK/9w2cPGjFMmoa3ft369TOZlA=
+
+Name: assets/port_guide_jp.anm2
+SHA-256-Digest: pWg4HcQtu1thGflir99uIdHXMSIqtvzYvmCIcfjOglo=
+
+Name: assets/port_guide_jp.png
+SHA-256-Digest: 0eM5xvOGaejy3OkOcq3kOoNxjN4ANzCiH+85svokCLA=
+
+Name: assets/port_guide_jp_ps.anm2
+SHA-256-Digest: C8fwzN0V+jxxCG4vPt2Lr9Jj0fXtPF5ZFjvff5lzfLc=
+
+Name: assets/port_guide_jp_ps.png
+SHA-256-Digest: TeNsnnn/dsb0aYrTldzrE21j2Ys790m2UNj1jfNjx7c=
+
+Name: assets/port_guide_jp_switch.anm2
+SHA-256-Digest: BkZq5knXl5TwjPr+FldtjDuKE1L6X0N3KcUbKBbQKMA=
+
+Name: assets/port_guide_jp_switch.png
+SHA-256-Digest: vT+0RVTQB54w6sH5Ho/m2WOjUm9KxPny15EBPDMFs/k=
+
+Name: assets/port_guide_kr.anm2
+SHA-256-Digest: jdEXmbZ3zS41d5CeHp98mFxQ73kINr8rgNWl1PE97c4=
+
+Name: assets/port_guide_kr.png
+SHA-256-Digest: o47X23eWTo00U0CK9Y/wKgO2OGjwOL2EekJAmu2yPWw=
+
+Name: assets/port_guide_kr_ps.anm2
+SHA-256-Digest: dSRLisGawJkT2ROGJ74rP54PFNv9jr/82hq7UYapx/0=
+
+Name: assets/port_guide_kr_ps.png
+SHA-256-Digest: pvWyh61eeeLgnuVKcDq5xf4XFR7EgrxgpWCIIMq30nY=
+
+Name: assets/port_guide_kr_switch.anm2
+SHA-256-Digest: qVSSDKcY6FmaktKXrZEq+60cP9fUTmwalgoUaHqNpvg=
+
+Name: assets/port_guide_kr_switch.png
+SHA-256-Digest: BwqjRVLNbtyzz+oVat28k982uKkQEXkZw8dfauxKzH4=
+
+Name: assets/port_guide_ru.anm2
+SHA-256-Digest: bfpXMvTOU4Bf/XfQkNN4kTrGZeFl0df3H706xSQGTn0=
+
+Name: assets/port_guide_ru.png
+SHA-256-Digest: Lxe0L+3lc0dR/YVWGllXCPiEfV3ZmqWdltluE0PVaUU=
+
+Name: assets/port_guide_ru_ps.anm2
+SHA-256-Digest: ikZKY8mnGWSqrMtWN7EuMQ+pIuCclCHGJDQn8tDFF0E=
+
+Name: assets/port_guide_ru_ps.png
+SHA-256-Digest: cQQPxZIdTF7HzakwYXk2/2643SGM4Qr2tUUWui1XBN4=
+
+Name: assets/port_guide_ru_switch.anm2
+SHA-256-Digest: IHmxAemQyEU7XfhHfSDu3gytwKbVbfOxAnAAS7tBinI=
+
+Name: assets/port_guide_ru_switch.png
+SHA-256-Digest: /2Njf/A0onfmiZLykzSJiiRFmYCxLz6p82znLf+HvZI=
+
+Name: assets/port_guide_zh.anm2
+SHA-256-Digest: 7Cmcvm+kz2XGfrv8GPU5xxWn5LtLNGL0Vhc/vQrXxfQ=
+
+Name: assets/port_guide_zh.png
+SHA-256-Digest: Lvg+9Jrypccbk92vFaPYuswmJDj826I/PN6BUUhaD0U=
+
+Name: assets/port_guide_zh_ps.anm2
+SHA-256-Digest: red8BCYUaCSfF+WYjJJqQbH+FvxN/CuwZmWKEsBXcCk=
+
+Name: assets/port_guide_zh_ps.png
+SHA-256-Digest: oGB8otNuoGEu3RlF+ouQo+PcDRARswzM9+etxtV+zSE=
+
+Name: assets/port_guide_zh_switch.anm2
+SHA-256-Digest: 1Oa2EP+r26BYJt42UAwrpHme9QBRHn21Pqbezhpr3Z4=
+
+Name: assets/port_guide_zh_switch.png
+SHA-256-Digest: YxGRjzTy+imug6UbZ0RxzGU2tLNhs1eo7gMtUWotpDU=
+
+Name: assets/port_itemspawn_title_de.anm2
+SHA-256-Digest: kzV3iJUzPEypyOd4Vl/24XVt+KwWMCHfxmpzAGgDuxE=
+
+Name: assets/port_itemspawn_title_de.png
+SHA-256-Digest: ayjHS6hFcGywSsShn9HLaRwTEMoWdZ1KJzQzDrb4hOY=
+
+Name: assets/port_itemspawn_title_en.anm2
+SHA-256-Digest: KxEokP7I8vqUubT7Jyl3aV1Mr6hy2NqWpVX4IqzhThA=
+
+Name: assets/port_itemspawn_title_en.png
+SHA-256-Digest: Pzh2eXttsUfjx2J//qBahkWZuoAqxU37olTVShlAQCU=
+
+Name: assets/port_itemspawn_title_es.anm2
+SHA-256-Digest: iTyvxg0pCuDnVnsDcRYzSSIqe/AnO+4gpdYSeTloZpU=
+
+Name: assets/port_itemspawn_title_es.png
+SHA-256-Digest: 4meuER3uRdexlx4we7/cytIlOe5WXPClgBsAmiKY7LQ=
+
+Name: assets/port_itemspawn_title_jp.anm2
+SHA-256-Digest: lW2UrL1ju9NAe+qQFyD9Ws1UfDWBrCs1AFM8JwEx5lA=
+
+Name: assets/port_itemspawn_title_jp.png
+SHA-256-Digest: /yaSOeBTRMcNU05Bk4xr9LInadLzWbBVWdqhWD5qAlU=
+
+Name: assets/port_itemspawn_title_kr.anm2
+SHA-256-Digest: Ur45wlqYFSzKvL3fuYLAvcKx6eKZTv+F5IQ88cRWXsU=
+
+Name: assets/port_itemspawn_title_kr.png
+SHA-256-Digest: eyEW7mv36Zz/Fz45R1P7s/QJXqOvXwrv09TsvuIfXQE=
+
+Name: assets/port_itemspawn_title_ru.anm2
+SHA-256-Digest: lZ8vozIXKDuaEv9WGWIoTjTdE2k7PViXrkvPNy/OpNo=
+
+Name: assets/port_itemspawn_title_ru.png
+SHA-256-Digest: i8rcI9gJ+wIKV+mcXYeKzQhcLpvHw4NnqALWBREnExY=
+
+Name: assets/port_itemspawn_title_zh.anm2
+SHA-256-Digest: CX4DYs12NxxtsfrDxpD6eJmqL53zJBDx9UnfFsr0hIE=
+
+Name: assets/port_itemspawn_title_zh.png
+SHA-256-Digest: /aoErcBIS8wdmk0joYSf+wNyyjej5ZjyvFvNuadzeys=
+
+Name: assets/port_marked_button.anm2
+SHA-256-Digest: kaxBeD0YZ+8sPK9CIj8ncJqPVFQvbRoO/tHvwbWi/+c=
+
+Name: assets/port_menufont10.fnt
+SHA-256-Digest: GA5zBDGWeieRDrjuw4N5IshZw0HMtFwDm1YvC9m4aMY=
+
+Name: assets/port_menufont10_0.png
+SHA-256-Digest: H1p8wtM5dPEJzJyI3xfWvoYpqT83lMWcKwOvYrkuBUI=
+
+Name: assets/port_menufont16bold.fnt
+SHA-256-Digest: HGPtRScg6U8V+jjImn1rhp+fYLMvWyFsWC0Ikb7d3P8=
+
+Name: assets/port_menufont16bold_0.png
+SHA-256-Digest: nOzqHwqAJeTRss/oBuUes0Qox2G6upTI0z9Y9dnMAKY=
+
+Name: assets/port_menufont20bold.fnt
+SHA-256-Digest: 9OyoubT9SthhLw/CPmDluD4TLzJW/wZo5q8jz91ztnc=
+
+Name: assets/port_menufont20bold_0.png
+SHA-256-Digest: SEubR7abz/o+qSwStz9RmLoSICvYd35JD76mR4gOvJo=
+
+Name: assets/port_mods_menu_de.anm2
+SHA-256-Digest: Cy/9mYyaEgV5v+aTnmeL4aeATZdzNiveRB8kHr9TA+o=
+
+Name: assets/port_mods_menu_en.anm2
+SHA-256-Digest: 6nSJv7norLFBFbGbn1b4YG0Z1tsaI9dfaT7dd6aEMO4=
+
+Name: assets/port_mods_menu_es.anm2
+SHA-256-Digest: sPj4r76DDAs8/FhnhlZWOrzj/utZxaPfyDMEh/gvFcM=
+
+Name: assets/port_mods_menu_jp.anm2
+SHA-256-Digest: oo9bvGHE/TyrC6fRPWIyzQixjtx02rrLdKh/r5l+6Wo=
+
+Name: assets/port_mods_menu_kr.anm2
+SHA-256-Digest: oFqeql6WPu3zYRKDzui3/X6bOrCAKJBOn8yPpKVg17o=
+
+Name: assets/port_mods_menu_ru.anm2
+SHA-256-Digest: RZZTmKHTZan/CuRKrqVk1R6PzO6Pki8OOmCNZx+x62w=
+
+Name: assets/port_mods_menu_zh.anm2
+SHA-256-Digest: ON4+pH4z236qNHX4QKRyT6vn/Rz2tKttt2ABh5N6nuo=
+
+Name: assets/port_mods_page_de.png
+SHA-256-Digest: IcIQVNmN5/2q53dIRhKKbzfzyQyHtDFclQgNYX2++Kg=
+
+Name: assets/port_mods_page_en.png
+SHA-256-Digest: AQOnQbj8IBZx5rsXfd7PEP70ILfNEjOvTJSffVU4sc0=
+
+Name: assets/port_mods_page_es.png
+SHA-256-Digest: sAYNNZwYR0BQH1kKBS9qtZ1v3FxYaMoX9W5K3MvUytI=
+
+Name: assets/port_mods_page_jp.png
+SHA-256-Digest: Xp3ZSe28i9YQdViA+uHKYlBNONyIyt/Um3LmeUKIu30=
+
+Name: assets/port_mods_page_kr.png
+SHA-256-Digest: 3/mJwaIaI/ngzilm8HUsiQaolLh06ehF4HkA8iDTV4Y=
+
+Name: assets/port_mods_page_ru.png
+SHA-256-Digest: 2OZIpD2T0N+KfS3vhXfllJV7bNYIqeiNDLkh5ZlQHoA=
+
+Name: assets/port_mods_page_zh.png
+SHA-256-Digest: YA3fXVKAcyT9IoFv6NMmcAgBqduMH3Sb1WZOKqhlf/U=
+
+Name: assets/port_mods_paper_de.png
+SHA-256-Digest: Nsgu98gDTzIoFlNrZ98UZg2g70vXo7nJqpA9hVXjxuU=
+
+Name: assets/port_mods_paper_en.png
+SHA-256-Digest: PME80s4Oq/D24Gx12V6aXErzKxbKUk5jTgSwiwBHk4c=
+
+Name: assets/port_mods_paper_es.png
+SHA-256-Digest: tY9tsFv8ujlqtA2iBJ9XolgymV0GkA3K6tNObnLxDN4=
+
+Name: assets/port_mods_paper_jp.png
+SHA-256-Digest: 1uTSjKFxxa0xwyXJiHcK0Y+lHp/SfdtVLvTrY1jOFbc=
+
+Name: assets/port_mods_paper_kr.png
+SHA-256-Digest: G3eLzkGiKy8DdOccyERJamwnoSDSaFHGtszuMhTPwf8=
+
+Name: assets/port_mods_paper_ru.png
+SHA-256-Digest: kcty2Uex+BxSKpKpEA0arnQlUx45D3RM+fzwzgJwKK4=
+
+Name: assets/port_mods_paper_zh.png
+SHA-256-Digest: pPRS6moifjMYrHlZLlDvrQ0uinW3BTDNjDaUVHKX2jU=
+
+Name: assets/port_mods_popup.anm2
+SHA-256-Digest: c9LNNEElxdtXxaGZ/IF9IEv/Nqm5jWJuKYBg36Gq00M=
+
+Name: assets/port_mods_popup.png
+SHA-256-Digest: A14hfGP5DvR+CQHxWuvijqwMMylbIgVuKvdzAyKSw8g=
+
+Name: assets/port_mods_sheet_de.png
+SHA-256-Digest: 4jUDPOK2SpDd/oLJzkMsMMJ7U2RCKNG0YQnQ3MiVaOA=
+
+Name: assets/port_mods_sheet_en.png
+SHA-256-Digest: 0VqwEL8EW7OLeZBrTwwE8xkhOUnyeCXkuidUTuxFtYo=
+
+Name: assets/port_mods_sheet_es.png
+SHA-256-Digest: MPg3lIzOfg4hAKP6TIBtZLOm+5RjzX0P2yNeWTZhFQ8=
+
+Name: assets/port_mods_sheet_jp.png
+SHA-256-Digest: Y5zt964SuVwXrfTLupxOhs/ZDsMCCZIUnHQah19ddy0=
+
+Name: assets/port_mods_sheet_kr.png
+SHA-256-Digest: NiHmUXvzZmFaFX8aBS2q7i2/6ZRhCXNpxJgBMlpdRq8=
+
+Name: assets/port_mods_sheet_ru.png
+SHA-256-Digest: a0SxoyBuQo6T/Bola6EOqumwQrq7+SXGlvLoSu0qOh0=
+
+Name: assets/port_mods_sheet_zh.png
+SHA-256-Digest: MCvtXIep+vWAnj25PIIz/kOA22sLwl72Hubu1WOveUw=
+
+Name: assets/port_mods_words_de.png
+SHA-256-Digest: 3FjGgEFJCg4Zj60oMY1PeNOwo2/jtGLTlbTw/bDlKyc=
+
+Name: assets/port_mods_words_en.png
+SHA-256-Digest: 2fRb707WLrBCMKgIL0aYgzNiUcErOs2yO/nsjT8GJoo=
+
+Name: assets/port_mods_words_es.png
+SHA-256-Digest: Kjevo+uW8NiVbPzL1gzaRYSrdmBUTlOSHAkTOlRXYfY=
+
+Name: assets/port_mods_words_jp.png
+SHA-256-Digest: HHDekrK5NJuxmCkA9x0QYaTwKnBA2Yd437LiF7hV1MQ=
+
+Name: assets/port_mods_words_kr.png
+SHA-256-Digest: REebTjNO5WL5qIUtG/Y5p02/0DOmgujCNZwhAoHQxcE=
+
+Name: assets/port_mods_words_ru.png
+SHA-256-Digest: etfHWbdJV7u+2O94x3c5QN7Xcscv2+dQU3b9MFtDHss=
+
+Name: assets/port_mods_words_zh.png
+SHA-256-Digest: EoEK6juwCs1zqVEUrv0HbCvgYWq0iqbULagIvcYSdCE=
+
+Name: assets/port_modset_menu_0_de.anm2
+SHA-256-Digest: AbAGlnO817WL3QFtQCGXLA+0/8DaxL34KP/MQrFuHUE=
+
+Name: assets/port_modset_menu_0_en.anm2
+SHA-256-Digest: 91N5KCiWcuzxsKjBtTHUwMrsG9YkQD6e8SbYe8loRCU=
+
+Name: assets/port_modset_menu_0_es.anm2
+SHA-256-Digest: KF8e9Ogd8dPA/Gvqh5Yr2LiN5oLQTb041OuH/m3hr3o=
+
+Name: assets/port_modset_menu_0_jp.anm2
+SHA-256-Digest: yqOpZdNesKvHZ3WMh/6Nv5e7mGPla6gMTg19o29Rxtc=
+
+Name: assets/port_modset_menu_0_kr.anm2
+SHA-256-Digest: 4D9I9IOPrda2qMl8f/R2iOzwnndd/zLgu9NbKNnjhaQ=
+
+Name: assets/port_modset_menu_0_ru.anm2
+SHA-256-Digest: qP6vwdtDcU54jTYtZplYExmR4e3UaHNvkIGz6BIXyXc=
+
+Name: assets/port_modset_menu_0_zh.anm2
+SHA-256-Digest: ejODcLhuHrOmtpYuXDibvK4Q9YNtmJGJKUG96hI5KkE=
+
+Name: assets/port_modset_menu_1_de.anm2
+SHA-256-Digest: ejB8ej7bVBs0eJketostMNbxfTJ6iyWevO3Votn6dbw=
+
+Name: assets/port_modset_menu_1_en.anm2
+SHA-256-Digest: zlca7TpGRbe0ylaxp0+n6mmZxrEViZ22+oCgm1+KCNU=
+
+Name: assets/port_modset_menu_1_es.anm2
+SHA-256-Digest: B8LvuNyX8Ueeoaixu7OPclrg7EU58yeoHgS9lSzqcXc=
+
+Name: assets/port_modset_menu_1_jp.anm2
+SHA-256-Digest: 2YUmR5PgmegRkoJXaPO3DiKpMdL284OqVc6hRHgmXqM=
+
+Name: assets/port_modset_menu_1_kr.anm2
+SHA-256-Digest: CuPak95yiMA/FbypBq4OMiSNwYwfpRPb7ZTvQZpZPew=
+
+Name: assets/port_modset_menu_1_ru.anm2
+SHA-256-Digest: T3buGqCkkOf01S3dESAIiM3d78h1yj47mzk57zzo7/k=
+
+Name: assets/port_modset_menu_1_zh.anm2
+SHA-256-Digest: jlEKJPsE55OFZTBk4PSbAjTQIjZZJDgxdxh3i8Yu2EI=
+
+Name: assets/port_modset_menu_2_de.anm2
+SHA-256-Digest: DJED01p9Mz94WdKy6fPPUk6C+JOUf+tTXmPqTHcb74g=
+
+Name: assets/port_modset_menu_2_en.anm2
+SHA-256-Digest: guQcdm4PY1d0M2ll5B0teG5nHu+U/ZVlkOGanv9byj0=
+
+Name: assets/port_modset_menu_2_es.anm2
+SHA-256-Digest: lsAG7jnTiXF/RUXEd3Q/s+O2Uxb1dTVF0cqFGELWj5E=
+
+Name: assets/port_modset_menu_2_jp.anm2
+SHA-256-Digest: iLy6ZZl4DwMN1TXLr2YG6TK2ONPkYbLM2Jev/38pEqo=
+
+Name: assets/port_modset_menu_2_kr.anm2
+SHA-256-Digest: WctXq89lStY45xMYxSurCOXR4ClLbSczCuUxfB9XWkQ=
+
+Name: assets/port_modset_menu_2_ru.anm2
+SHA-256-Digest: dzd3hszorpB0Mq3lyCHRfsLmYadqtyLEODqw7ygoB2M=
+
+Name: assets/port_modset_menu_2_zh.anm2
+SHA-256-Digest: XCMTL//f8ZBAbekeljpEd25shQTtVCUqVQCjaNVtMoc=
+
+Name: assets/port_modset_menu_3_de.anm2
+SHA-256-Digest: mMdjXwaMUcIram/85B6UZtBibpX2l1QwGfKArchuwyU=
+
+Name: assets/port_modset_menu_3_en.anm2
+SHA-256-Digest: q+P7ZLov9BZ1RQpfeWy3kQcgE6780aLURJJqwlMKINA=
+
+Name: assets/port_modset_menu_3_es.anm2
+SHA-256-Digest: gSCIV11F8JtNwikSZgbZqTFjUY411+rO2PbleaXQTFM=
+
+Name: assets/port_modset_menu_3_jp.anm2
+SHA-256-Digest: 3rNvq0PA3J1WJ/LmxrEPzxpuCGKa6k106L1whjr95Q8=
+
+Name: assets/port_modset_menu_3_kr.anm2
+SHA-256-Digest: xq2Xbzgh27iYy7J2jJyPIXapXtQOaLfxFi3sft55IfI=
+
+Name: assets/port_modset_menu_3_ru.anm2
+SHA-256-Digest: m9Ad+lRMmhpSrPyQ3hmGcWX4YAu/59TVBsYAqHXKe9E=
+
+Name: assets/port_modset_menu_3_zh.anm2
+SHA-256-Digest: JODl4cB/N5ZusqVDek2G4fnFgpzli6IM5SOWdAi1iGM=
+
+Name: assets/port_modset_menu_4_de.anm2
+SHA-256-Digest: 5f8pWbmEAWj+6Ja5J0pOttMQ7WInz+ZQvwpL8co5LFg=
+
+Name: assets/port_modset_menu_4_en.anm2
+SHA-256-Digest: UYAvFeX77MTF3aWsiMdjh2LBerObVCS7m2z3aQL0Yls=
+
+Name: assets/port_modset_menu_4_es.anm2
+SHA-256-Digest: DeN8kKOlEp3qSRlG8bf0JFhgu9PwBMmlKNvDpYMJPKQ=
+
+Name: assets/port_modset_menu_4_jp.anm2
+SHA-256-Digest: Ww0tOWeKAvKGXoSYcUDlEh4lDNi43yJB1YNTrZ3vlMs=
+
+Name: assets/port_modset_menu_4_kr.anm2
+SHA-256-Digest: I5CzTfH5E07UboN27Tvr4djmIzAxeId03sJmB0qDcQ8=
+
+Name: assets/port_modset_menu_4_ru.anm2
+SHA-256-Digest: Wt+DtqpBF5ooYSZboFje7zBSh5NI1HkTBgcHz34Xemk=
+
+Name: assets/port_modset_menu_4_zh.anm2
+SHA-256-Digest: cvmtouyaWAYfh18LLm1p0yrkb0cqhI9fOSyVSe5UiMk=
+
+Name: assets/port_modset_menu_5_de.anm2
+SHA-256-Digest: +0+eFQIAqe7t2aryaDcbIW38UFgLFDzH7G4dZP35VRo=
+
+Name: assets/port_modset_menu_5_en.anm2
+SHA-256-Digest: E57RZnPAxA6+RPdIHrqo1/HJtVM9nKp0yDSFhDLWhoM=
+
+Name: assets/port_modset_menu_5_es.anm2
+SHA-256-Digest: JBKGIlvfqB8QSqyI46xZu/xArJrHwpnNLPL8VHY4Mow=
+
+Name: assets/port_modset_menu_5_jp.anm2
+SHA-256-Digest: ECYIEoqJ2KiOBYyEvZA52MR4R7TEwpwrINu3FLgce6Q=
+
+Name: assets/port_modset_menu_5_kr.anm2
+SHA-256-Digest: bHltGn7fyuAdLiywqdZnIQAA3HHtJEPRhU8SYOiYH70=
+
+Name: assets/port_modset_menu_5_ru.anm2
+SHA-256-Digest: LPWa3Q/uC8oKG/tknSjukqCdq8PQJBNJBlTUIEF6CE8=
+
+Name: assets/port_modset_menu_5_zh.anm2
+SHA-256-Digest: HiJ2lEx4lXJD140wMbmkn5JhDbn5b1yH+3yt0KHZia0=
+
+Name: assets/port_modset_page_0_de.png
+SHA-256-Digest: p/PUBgMlHWAaQxdnwLSs74CxTPdaEeFOvEuG8IEqaT8=
+
+Name: assets/port_modset_page_0_en.png
+SHA-256-Digest: LRQfZVGOx1TI3PH5JJ7gzJhJb6Zxqr0E+9E1Bo180WA=
+
+Name: assets/port_modset_page_0_es.png
+SHA-256-Digest: 6sDCJdPHSw5ZbJoR7P0CWt1c+cw9yqS0/KM4/Ln2wrg=
+
+Name: assets/port_modset_page_0_jp.png
+SHA-256-Digest: OZ+Gh2GnacH11ktacb4t3Nn2qu3LKippTnOVd8w3/4Y=
+
+Name: assets/port_modset_page_0_kr.png
+SHA-256-Digest: g8DB+HXH296tQ+guuXJpjF3xiu9gvW5ydCwFpgoggPo=
+
+Name: assets/port_modset_page_0_ru.png
+SHA-256-Digest: z3AMFduI1blTWzCQTY3B61zhloN6T+KLxhxHND/ItWw=
+
+Name: assets/port_modset_page_0_zh.png
+SHA-256-Digest: 3te8xqDYAwoWPuWBOmVNRhywKX0Vrfh6DLjXCfIE8Xc=
+
+Name: assets/port_modset_page_1_de.png
+SHA-256-Digest: Hb1HXd89wP8hrakPhHrGkxrZRP/0cVBtBvrZPJOgBnI=
+
+Name: assets/port_modset_page_1_en.png
+SHA-256-Digest: Vfcg/WocLPkJYlBd0YtJUJSUNNb674+vqm5DdVLRLfU=
+
+Name: assets/port_modset_page_1_es.png
+SHA-256-Digest: hKP2sTSM640G1i8XMbmNVdpPwOMeBa2j3H0KdRh9cbk=
+
+Name: assets/port_modset_page_1_jp.png
+SHA-256-Digest: H9Twg3PMa6npIfbJB9Vzxzd1V/tpH/AieTSw18NykG8=
+
+Name: assets/port_modset_page_1_kr.png
+SHA-256-Digest: tTzOprmrABNyxnTu1IAchovZbMDHYd4pAzGBDJ54Bp8=
+
+Name: assets/port_modset_page_1_ru.png
+SHA-256-Digest: TRpX7KUEzk81NqrG/HyO0wIlzPoI03c2ir9gNPguuEU=
+
+Name: assets/port_modset_page_1_zh.png
+SHA-256-Digest: zrTqYYFlfYsNQW9VFPjFj9VxJ9UT7yuFDnPtZrJueYQ=
+
+Name: assets/port_modset_page_2_de.png
+SHA-256-Digest: qBUlEbMLLpsZg18EKuOMYlbQVvHcQaIijGsJZxGoq6M=
+
+Name: assets/port_modset_page_2_en.png
+SHA-256-Digest: vUmJcxUkJvdJJFTYGGNBCQh39fPtv0x/ahwoGGmq1NM=
+
+Name: assets/port_modset_page_2_es.png
+SHA-256-Digest: dEGcbX4opBn+dXxSltMzMbQ0G/w6pPWvWYnAB8wNjvc=
+
+Name: assets/port_modset_page_2_jp.png
+SHA-256-Digest: hoKoLtTUiECLPVPB/y+W3bQOv5tR2RDgznmfr7aWNrM=
+
+Name: assets/port_modset_page_2_kr.png
+SHA-256-Digest: Xep1rcTSx4XlL4XF59QoQ0IvH8gSt5FEzD3V/MrXPaU=
+
+Name: assets/port_modset_page_2_ru.png
+SHA-256-Digest: Aub0nfNacoZt4iIw3I70hFZkg4UDDn1NgmarupSLhsA=
+
+Name: assets/port_modset_page_2_zh.png
+SHA-256-Digest: rN3bPP2HSLL9gCPd9vrTqf5TrTLnX2ssdkmDekPl0n0=
+
+Name: assets/port_modset_page_3_de.png
+SHA-256-Digest: fuw6uKS3tlLSD70TEfS8Co3zwx6mQc5A9pDIs4jp+sU=
+
+Name: assets/port_modset_page_3_en.png
+SHA-256-Digest: fuw6uKS3tlLSD70TEfS8Co3zwx6mQc5A9pDIs4jp+sU=
+
+Name: assets/port_modset_page_3_es.png
+SHA-256-Digest: NnnXa/6uOB5+83ijImytBzjTXs1SXifi9FyAdN2AHUU=
+
+Name: assets/port_modset_page_3_jp.png
+SHA-256-Digest: KA2i6YQ4El6SvkcL3pcMWaGdvl8Tl298hEgs9tAQSlk=
+
+Name: assets/port_modset_page_3_kr.png
+SHA-256-Digest: 3OxNnnQpvBD4qFGjvrvusN3ecX2/o3TGNghXxWGwzbk=
+
+Name: assets/port_modset_page_3_ru.png
+SHA-256-Digest: jRf9ZbZrkP/1PKZO4njxpcWR19tU/ma/GjtyNVQc8jc=
+
+Name: assets/port_modset_page_3_zh.png
+SHA-256-Digest: QX3Emi4PKQEtSMDAo+H8QeBWNxshvU/a4Vr5Gp2E2Yg=
+
+Name: assets/port_modset_page_4_de.png
+SHA-256-Digest: 8li9CYEM9RpsBTuHd0uWPuco1BE758U60XVI+5k9fJo=
+
+Name: assets/port_modset_page_4_en.png
+SHA-256-Digest: ZMs3ho04KRU+AninkPeOzq2p88hj6aJfx589XgBNGnM=
+
+Name: assets/port_modset_page_4_es.png
+SHA-256-Digest: NV6yXLFxk3KFrXv7KnF3hqeEQ8/T8dIXQi68pxE/Hlc=
+
+Name: assets/port_modset_page_4_jp.png
+SHA-256-Digest: sM4+HNP8WigdW8R75tjl0vVSwVlc2SPw6wiTFAkYZtY=
+
+Name: assets/port_modset_page_4_kr.png
+SHA-256-Digest: N/ydOJPNdFWWaC6MSqSmrj/osqL46X35IVx6B+gPm1Q=
+
+Name: assets/port_modset_page_4_ru.png
+SHA-256-Digest: RlkI6ahmbPxfLClgj1B47taOP2yt6z5uDKH/lG9b7rc=
+
+Name: assets/port_modset_page_4_zh.png
+SHA-256-Digest: 9rMQanc3GEstylwtEpB9fvOwRQgia+RnP4Q19OyvnaI=
+
+Name: assets/port_modset_page_5_de.png
+SHA-256-Digest: hnM5cKrpy7mFbOwGbR0eMYEJIXXiNzhml35IG12xDbU=
+
+Name: assets/port_modset_page_5_en.png
+SHA-256-Digest: rXb9on0M/d5M3haLb4HOzF3f73qD5/NmbQhskpKR9UI=
+
+Name: assets/port_modset_page_5_es.png
+SHA-256-Digest: cP4NAVGk3xmbM0W6HGiylMYnolSarV0oLjU3Yew+4es=
+
+Name: assets/port_modset_page_5_jp.png
+SHA-256-Digest: fzIjJ52JarXyTjrO8ZFF2cqJP6nKNE+dTJbrB7I3Tq8=
+
+Name: assets/port_modset_page_5_kr.png
+SHA-256-Digest: GMKhBLpfe+V/TFgsTQ5nZl8P8XzKHNIOBGlO9dRgEHs=
+
+Name: assets/port_modset_page_5_ru.png
+SHA-256-Digest: i34cYKe7dDb0S/1WJb+HIS52nFyerPuWTBMjxLfjtwU=
+
+Name: assets/port_modset_page_5_zh.png
+SHA-256-Digest: selIvruLbJljaqXgj1sW88qQafX/q5qnLlB1NJSXmy0=
+
+Name: assets/port_modset_words_de.png
+SHA-256-Digest: 5NpaRQDYVHFdrNaZBK8WGqWeUAmK4VFfr50W/03jRH4=
+
+Name: assets/port_modset_words_en.png
+SHA-256-Digest: 5NpaRQDYVHFdrNaZBK8WGqWeUAmK4VFfr50W/03jRH4=
+
+Name: assets/port_modset_words_es.png
+SHA-256-Digest: 5NpaRQDYVHFdrNaZBK8WGqWeUAmK4VFfr50W/03jRH4=
+
+Name: assets/port_modset_words_jp.png
+SHA-256-Digest: 5NpaRQDYVHFdrNaZBK8WGqWeUAmK4VFfr50W/03jRH4=
+
+Name: assets/port_modset_words_kr.png
+SHA-256-Digest: 5NpaRQDYVHFdrNaZBK8WGqWeUAmK4VFfr50W/03jRH4=
+
+Name: assets/port_modset_words_ru.png
+SHA-256-Digest: 5NpaRQDYVHFdrNaZBK8WGqWeUAmK4VFfr50W/03jRH4=
+
+Name: assets/port_modset_words_zh.png
+SHA-256-Digest: 5NpaRQDYVHFdrNaZBK8WGqWeUAmK4VFfr50W/03jRH4=
+
+Name: assets/port_patch/index.txt
+SHA-256-Digest: 6KLM6vY6oUMiMQFUCwKXXsXMxb566j6yUcJpBmqFA+Q=
+
+Name: assets/port_patch/index.txt.antes-samael
+SHA-256-Digest: Cm8w+GgnhyJfMnMeeVhe/eI4DU+88+1nodg+tJZTS3Q=
+
+Name: assets/port_patch/port-version-ref/repplus/achievements.xml
+SHA-256-Digest: Xw6RcUUFD41CO4O84SfldtX1kHGER5S4vpIDcaeq87w=
+
+Name: assets/port_patch/port-version-ref/repplus/ambush.xml
+SHA-256-Digest: bU3BfipXGe/NBPKy+aLapwv2TU7P4UZoEbpSpE8+8IQ=
+
+Name: assets/port_patch/port-version-ref/repplus/babies.xml
+SHA-256-Digest: aqMqq73QZysh0tV4YKTR3nVyR8t3D7PuVc82CTv0IqQ=
+
+Name: assets/port_patch/port-version-ref/repplus/backdrops.xml
+SHA-256-Digest: VD4M1ZXUM/XlfOKF88AeSJFNyQGUIsH7Yftwt0bDmN8=
+
+Name: assets/port_patch/port-version-ref/repplus/bombcostumes.xml
+SHA-256-Digest: nz8iime1yeS2mIcKuN7l5Hf/hlTOLnJBH7Uu+MPgXZQ=
+
+Name: assets/port_patch/port-version-ref/repplus/bosscolors.xml
+SHA-256-Digest: hOAIJF1F4Dj3UxI6wB3/54lvmQyCQq3Dg0yWgQtgesE=
+
+Name: assets/port_patch/port-version-ref/repplus/bossoverlays.xml
+SHA-256-Digest: Oj5nRkof3Z1jwZsPpIFNFSKRpreVX6wtnrHcUHg3ZC8=
+
+Name: assets/port_patch/port-version-ref/repplus/bosspools.xml
+SHA-256-Digest: jj95TYlRNEvZ+W9GPPuyZEtvoQ0naJ0xuoDifcztQBc=
+
+Name: assets/port_patch/port-version-ref/repplus/bossportraits.xml
+SHA-256-Digest: gmzIvudlmUCbNWMEe2XGd/sw+gnu25CHW9oXuVU2RRo=
+
+Name: assets/port_patch/port-version-ref/repplus/challenges.xml
+SHA-256-Digest: KBC3ap6k3ObRqRbtA4hI9cQQDzmXMkknGLE79fgjNfk=
+
+Name: assets/port_patch/port-version-ref/repplus/costumes2.xml
+SHA-256-Digest: 5vZHlT5BKkcGOsZH8J14q6j0HcHVYPrmgREeDEre0BA=
+
+Name: assets/port_patch/port-version-ref/repplus/curses.xml
+SHA-256-Digest: v+TKqOwSQ5rVHFwRRK3e1o97CPSbuljyEDF3NZP4AZg=
+
+Name: assets/port_patch/port-version-ref/repplus/cutscenes.xml
+SHA-256-Digest: NzEIhmnSC/NOhx7ZAZTng8LXQ+n5ByJS7FqIGWOgWGI=
+
+Name: assets/port_patch/port-version-ref/repplus/entities2.xml
+SHA-256-Digest: r1Z6yodDf+r+jS3NdmG5Lld/JXn9cfveSQyQQpMfKSs=
+
+Name: assets/port_patch/port-version-ref/repplus/fxlayers.xml
+SHA-256-Digest: fT29r2u6mAgAQ4HNzRUdniWZuoIKuUD3CBjDULzM5SY=
+
+Name: assets/port_patch/port-version-ref/repplus/giantbook.xml
+SHA-256-Digest: rDmYJRCr/4yq3tJty7qWHZbEYWCwpY6YIl/CM7QoT40=
+
+Name: assets/port_patch/port-version-ref/repplus/itempools.xml
+SHA-256-Digest: Il9OPbjM5IILGnjmqomYgJqwy0GWfh54C+ZLmMWU5uE=
+
+Name: assets/port_patch/port-version-ref/repplus/items.xml
+SHA-256-Digest: N6jRsjd/7veLVpC4Wav/I6uBuYsG8aQcg9Q5LbNfxVY=
+
+Name: assets/port_patch/port-version-ref/repplus/items_metadata.xml
+SHA-256-Digest: 3/UKqXnsZxN/LtE3SlC5OG/pizk1FCUCvCYwFhzxxsI=
+
+Name: assets/port_patch/port-version-ref/repplus/locusts.xml
+SHA-256-Digest: q5sEtYzSU2VazTIta91GgK9qOJV+S6jyKa17nrUs7Wk=
+
+Name: assets/port_patch/port-version-ref/repplus/minibosses.xml
+SHA-256-Digest: U5dR0O/Kkj3sp7WCzbRZZeB+ZiJ19F5WUlH0VnQLhWw=
+
+Name: assets/port_patch/port-version-ref/repplus/music.xml
+SHA-256-Digest: BQGSXy3bMMXOdZ+iMQ9By7cFytoOFBamRH+3jkN4/yo=
+
+Name: assets/port_patch/port-version-ref/repplus/nightmares.xml
+SHA-256-Digest: 5WMzyqjp0/pLjqn10ZpxoZGGj3FuntsZek3zop/I0Mo=
+
+Name: assets/port_patch/port-version-ref/repplus/playerforms.xml
+SHA-256-Digest: 6G4d2C0FITVqPHvI8+rvzc7HYKrz+WrKbg4tK8m7ClA=
+
+Name: assets/port_patch/port-version-ref/repplus/players.xml
+SHA-256-Digest: yuW0+9KZaM/sW6EocGMYuXFhl2uaH5k0bvoyoU4SmO8=
+
+Name: assets/port_patch/port-version-ref/repplus/pocketitems.xml
+SHA-256-Digest: vIhcZXT1symTs3uMM3qOy44wZloA9I2iBAcwnGk6Hsk=
+
+Name: assets/port_patch/port-version-ref/repplus/preload.xml
+SHA-256-Digest: PkAna0U5I2hE5l1wpxvPpoJws0myrrs3TvLzjbTHdFc=
+
+Name: assets/port_patch/port-version-ref/repplus/recipes.xml
+SHA-256-Digest: dOPjEJIWyV9esH7n2HKYmIbWKTGMdI5Yn/5tfR8F5NM=
+
+Name: assets/port_patch/port-version-ref/repplus/seedmenu.xml
+SHA-256-Digest: OQKlfl0BJHVaCBPqjHljS5aTCk1q5nE+9UozKme7Roo=
+
+Name: assets/port_patch/port-version-ref/repplus/sounds.xml
+SHA-256-Digest: moXoN5cDJny4baf9QpRCyujL1QFhrKKPijGwPmGfaI4=
+
+Name: assets/port_patch/port-version-ref/repplus/stages.xml
+SHA-256-Digest: b8lmryFWl3+Gy8T+LQzpAdbXpx4/EGOcB5uy7TGCltA=
+
+Name: assets/port_patch/port-version-ref/repplus/wisps.xml
+SHA-256-Digest: OkfLUeaoPu1Eun/YMGFLgtC+o0K9IdxwRCWz+8mWCRo=
+
+Name: assets/port_patch/rebirth-resources/data.jp/gfx/ui/touch/ios_but
+ tons.png
+SHA-256-Digest: udcCFwQZmfIyFoqWweZ0eNwTrP2bVsCCMY/ESnJsVUI=
+
+Name: assets/port_patch/rebirth-resources/data/gfx/ui/touch/ios_button
+ s.anm2.patch
+SHA-256-Digest: ai7c0vdFs7Gf+3kQgJVFIQOSgUGKVf7zqJ+2H2G531M=
+
+Name: assets/port_patch/rebirth-resources/data/gfx/ui/touch/ios_button
+ s.png
+SHA-256-Digest: AUXl9LuqP56GUcqCdasMMvsKpzZ3RcyDz7WhhaUTvVY=
+
+Name: assets/port_patch/repentance-resources/data/gfx/characters/costu
+ mes/Character_Samael.png
+SHA-256-Digest: hpuiXVvRFLr6qZBhMX5smhKEtn+8BTyhcszNsYn51UA=
+
+Name: assets/port_patch/repentance-resources/data/gfx/ui/boss/PlayerNa
+ me_Samael.png
+SHA-256-Digest: wDR0HI4onrRznKbMhqetNGUKmFGHzIHV2//4KYU1odY=
+
+Name: assets/port_patch/repentance-resources/data/gfx/ui/main_menu/gam
+ emenu.anm2.patch
+SHA-256-Digest: DBUzu0+Ugk90/XAU5tpmnqF8aTrcNSoWV7Xm8Ul77YY=
+
+Name: assets/port_patch/repentance-resources/data/gfx/ui/main_menu/gam
+ emenu.png
+SHA-256-Digest: sPWSkAStd1G9etpUlM3+kxU472/TxKObTGw18Iwn+wE=
+
+Name: assets/port_patch/repentance-resources/data/gfx/ui/main_menu/gam
+ emenu.png.pixels
+SHA-256-Digest: 7+GWoYBoUI6P+DxhQKp3WRY3rOB92+FoXQyH0ns3vB0=
+
+Name: assets/port_patch/repentance-resources/data/gfx/ui/main_menu/opt
+ ionsextra.png
+SHA-256-Digest: p440zOHjDMiJsGYBWt953o/hiOmIu9/sXfrxC1LdX8g=
+
+Name: assets/port_patch/repentance-resources/data/gfx/ui/main_menu/opt
+ ionsmenu.anm2.patch
+SHA-256-Digest: e3n0aPXNdCKAs7gn0r6/n5KIwfsi3H1c5Kqq9jx43GY=
+
+Name: assets/port_patch/repentance-resources/data/gfx/ui/main_menu/por
+ t_optionsextra.png
+SHA-256-Digest: p440zOHjDMiJsGYBWt953o/hiOmIu9/sXfrxC1LdX8g=
+
+Name: assets/port_patch/repentance-resources/data/gfx/ui/main_menu/por
+ t_strap_credits.png
+SHA-256-Digest: We0pz4utU8RmqKIhfgWIuD41OmdtIZwDvM0w5HSiRaI=
+
+Name: assets/port_patch/repentance-resources/data/gfx/ui/main_menu/por
+ t_strap_guide.png
+SHA-256-Digest: xq5GdFI1HqxXV9PlZFBjmhkNlMIC5e8eRQ3KUzigy54=
+
+Name: assets/port_patch/repentance-resources/data/gfx/ui/main_menu/por
+ t_strap_tweaks.png
+SHA-256-Digest: ZDWsVrI9AybVEuyWHVZnA5MtrH9YydjLiD4YpJWLCNc=
+
+Name: assets/port_patch/repentance-resources/data/gfx/ui/pausescreen.a
+ nm2.patch
+SHA-256-Digest: X76xm4tJSJoWocFt4lH9STbx21RpkgakQH/xEoJMFkQ=
+
+Name: assets/port_patch/repentance-resources/data/gfx/ui/port_strap_sp
+ awner.png
+SHA-256-Digest: YysQLQqiLy1vAfOaRpkOKkdbHKy/fOxFXkclDAd18hE=
+
+Name: assets/port_patch/repentance-resources/data/gfx/ui/stage/PlayerP
+ ortrait_Samael.png
+SHA-256-Digest: XzwQcMaaAvWlIqIjVDN82sglO2n43SVD1FpibVlRVCQ=
+
+Name: assets/port_patch/repentance-resources/data/players.xml
+SHA-256-Digest: VEdItkMZn9TEPa2P+VvYxp+5w58S5/mWpopUxwSMPnQ=
+
+Name: assets/port_patch/repentance-resources/data/shaders/colorcorrect
+ ion.fs
+SHA-256-Digest: JTGTA/EdW7OjheoxkNr7yooSGvdW38IM7xqV39hOqDo=
+
+Name: assets/port_patch/repentance-resources/dlc3.de/gfx/ui/main_menu/
+ gamemenu.anm2.patch
+SHA-256-Digest: nujkRRZKT4CM4DxMFWIfpQMcKQKii6UrpHBGJWBHa8c=
+
+Name: assets/port_patch/repentance-resources/dlc3.de/gfx/ui/main_menu/
+ gamemenu.png
+SHA-256-Digest: yOQ9Zt9NOC1IC1iIpmx5ia+b18jC58wcyGpdkzUcMbU=
+
+Name: assets/port_patch/repentance-resources/dlc3.de/gfx/ui/main_menu/
+ gamemenu.png.pixels
+SHA-256-Digest: WR1JBmJ5o2rejxWl8LOt6E9pXw795K4Lg/BbzuHnOek=
+
+Name: assets/port_patch/repentance-resources/dlc3.de/gfx/ui/main_menu/
+ optionsmenu.anm2.patch
+SHA-256-Digest: zqpMPjN6EfS9C8RGebPvLlHrQkUoPFA1bgLyeKKZ4ZE=
+
+Name: assets/port_patch/repentance-resources/dlc3.de/gfx/ui/main_menu/
+ port_optionsextra.png
+SHA-256-Digest: dUl5KgOP6JrXQwlnrhsN6LJEcaqr21t/PkAfHZsih98=
+
+Name: assets/port_patch/repentance-resources/dlc3.de/gfx/ui/main_menu/
+ port_strap_credits.png
+SHA-256-Digest: We0pz4utU8RmqKIhfgWIuD41OmdtIZwDvM0w5HSiRaI=
+
+Name: assets/port_patch/repentance-resources/dlc3.de/gfx/ui/main_menu/
+ port_strap_guide.png
+SHA-256-Digest: 6VDAntbWFxRtdU/viWN37j75mQTCqpN3reV0GK/UAyo=
+
+Name: assets/port_patch/repentance-resources/dlc3.de/gfx/ui/main_menu/
+ port_strap_tweaks.png
+SHA-256-Digest: ZDWsVrI9AybVEuyWHVZnA5MtrH9YydjLiD4YpJWLCNc=
+
+Name: assets/port_patch/repentance-resources/dlc3.de/gfx/ui/main_menu/
+ titlemenu_ios.png
+SHA-256-Digest: kbKmk/op+hGYYCdXU9Qcudn1W2uhqRTCyziD7FGHM/4=
+
+Name: assets/port_patch/repentance-resources/dlc3.de/gfx/ui/pausescree
+ n.anm2.patch
+SHA-256-Digest: X76xm4tJSJoWocFt4lH9STbx21RpkgakQH/xEoJMFkQ=
+
+Name: assets/port_patch/repentance-resources/dlc3.de/gfx/ui/port_strap
+ _spawner.png
+SHA-256-Digest: fQ19QNqQmMMHnOzXwjIaXEPZvtcdn7iD8mNfmf3nrbk=
+
+Name: assets/port_patch/repentance-resources/dlc3.es/gfx/ui/main_menu/
+ gamemenu.anm2.patch
+SHA-256-Digest: /eT4QtGG/4Q3Cis90G1RmR8HhoJ6Ivw2hlOOpkk+tVU=
+
+Name: assets/port_patch/repentance-resources/dlc3.es/gfx/ui/main_menu/
+ gamemenu.png
+SHA-256-Digest: P7wC1Mw9LdVayLtfFzBtbFRZ7z8m1/WBA5oSVYduHIA=
+
+Name: assets/port_patch/repentance-resources/dlc3.es/gfx/ui/main_menu/
+ gamemenu.png.pixels
+SHA-256-Digest: 7+GWoYBoUI6P+DxhQKp3WRY3rOB92+FoXQyH0ns3vB0=
+
+Name: assets/port_patch/repentance-resources/dlc3.es/gfx/ui/main_menu/
+ optionsmenu.anm2.patch
+SHA-256-Digest: xRqxgpJr3LymcSQ2ad++I12BS49QMylrr2pfRz2PUb0=
+
+Name: assets/port_patch/repentance-resources/dlc3.es/gfx/ui/main_menu/
+ port_optionsextra.png
+SHA-256-Digest: g/kXGTiHrV5EzYfwL8hMKatFHxrmoV8jveftfvInvHk=
+
+Name: assets/port_patch/repentance-resources/dlc3.es/gfx/ui/main_menu/
+ port_strap_credits.png
+SHA-256-Digest: ouNftlntMEwZx4T5kGW+0Cn5ykeplisC/WuOeyUhyEA=
+
+Name: assets/port_patch/repentance-resources/dlc3.es/gfx/ui/main_menu/
+ port_strap_guide.png
+SHA-256-Digest: r1Ify0hh5GBcHA1pZoNSAuVCXFWQ30Eu6bLNgQRMkyY=
+
+Name: assets/port_patch/repentance-resources/dlc3.es/gfx/ui/main_menu/
+ port_strap_tweaks.png
+SHA-256-Digest: mlkn25HtAMytX+hwTRk/Tyly622phSlORw/FY1q+1cU=
+
+Name: assets/port_patch/repentance-resources/dlc3.es/gfx/ui/main_menu/
+ titlemenu_ios.png
+SHA-256-Digest: PU0dFn9RmK6fOeULNsI49/2uqHUoDQI23//7YVFlbHY=
+
+Name: assets/port_patch/repentance-resources/dlc3.es/gfx/ui/port_strap
+ _spawner.png
+SHA-256-Digest: 9s2XIFwU+ba+2Ou031oKoh1A84xv6Ffs+36XRdeDq4k=
+
+Name: assets/port_patch/repentance-resources/dlc3.jp/gfx/ui/main_menu/
+ gamemenu.anm2.patch
+SHA-256-Digest: iP5UJ2vwpl1+c3TSJAagxFtTScQzZEVkb9jH1ptgFEU=
+
+Name: assets/port_patch/repentance-resources/dlc3.jp/gfx/ui/main_menu/
+ gamemenu.png
+SHA-256-Digest: 6tyGLFe1kGCb+aMaojn1HbHiVNaOEY1yXAmVtMJDuW8=
+
+Name: assets/port_patch/repentance-resources/dlc3.jp/gfx/ui/main_menu/
+ gamemenu.png.pixels
+SHA-256-Digest: Oft5hn2cPPDCk5YFNzXtWpBcbzC4CynUgA7yJ4KOvCA=
+
+Name: assets/port_patch/repentance-resources/dlc3.jp/gfx/ui/main_menu/
+ optionsmenu.anm2.patch
+SHA-256-Digest: TdVFnLZOQ9+NWf5CueZ+Sd8J1MiDw7iCc4rpL+mdvD0=
+
+Name: assets/port_patch/repentance-resources/dlc3.jp/gfx/ui/main_menu/
+ port_optionsextra.png
+SHA-256-Digest: oGx9nQS5h3UoNTaBJVMwlX8eplQQg6d/coTFlJJeiYc=
+
+Name: assets/port_patch/repentance-resources/dlc3.jp/gfx/ui/main_menu/
+ port_strap_credits.png
+SHA-256-Digest: Ywk9psasCTvevGQtJiL93/VdyMKZIugS2eL8HqhduWc=
+
+Name: assets/port_patch/repentance-resources/dlc3.jp/gfx/ui/main_menu/
+ port_strap_guide.png
+SHA-256-Digest: ZR5yAyWdVSb6IbENCWyXz7zFoid+AHybEWlBwuM4ZmE=
+
+Name: assets/port_patch/repentance-resources/dlc3.jp/gfx/ui/main_menu/
+ port_strap_tweaks.png
+SHA-256-Digest: T44H66tPzDU4yHpS422oeeukMAKU+q8WGWD9Qk/4+j4=
+
+Name: assets/port_patch/repentance-resources/dlc3.jp/gfx/ui/main_menu/
+ titlemenu_ios.png
+SHA-256-Digest: PCnNgbNIvC835pyz7xsBaF9HC/8aEY/a5307nP639nw=
+
+Name: assets/port_patch/repentance-resources/dlc3.jp/gfx/ui/port_strap
+ _spawner.png
+SHA-256-Digest: EIhNtaw4pUSVfE5NuUZHNOfAf/efgazJqoviaO8eNVY=
+
+Name: assets/port_patch/repentance-resources/dlc3.kr/gfx/ui/main_menu/
+ gamemenu.anm2.patch
+SHA-256-Digest: ADZb94H1fAiMt5u7DrhgmyAOYbPG0qDR64QerBPoo84=
+
+Name: assets/port_patch/repentance-resources/dlc3.kr/gfx/ui/main_menu/
+ gamemenu.png
+SHA-256-Digest: P6re/hQlIlY3RXLyi+QSBSYnNhmDyERRIFv0+rsgiqM=
+
+Name: assets/port_patch/repentance-resources/dlc3.kr/gfx/ui/main_menu/
+ gamemenu.png.pixels
+SHA-256-Digest: 7+GWoYBoUI6P+DxhQKp3WRY3rOB92+FoXQyH0ns3vB0=
+
+Name: assets/port_patch/repentance-resources/dlc3.kr/gfx/ui/main_menu/
+ optionsmenu.anm2.patch
+SHA-256-Digest: DHj1SDHAf+V0MU7VOwewg4VQvd2xhYRUjpyaHuQRWfE=
+
+Name: assets/port_patch/repentance-resources/dlc3.kr/gfx/ui/main_menu/
+ port_optionsextra.png
+SHA-256-Digest: zsFPJMrONjibrX4btPB4oX/PzS3kWf+MMc1m3Gg6iUc=
+
+Name: assets/port_patch/repentance-resources/dlc3.kr/gfx/ui/main_menu/
+ port_strap_credits.png
+SHA-256-Digest: vwaJL2AVFNHWZ4FOeLKI9t+j6ItwfdEvixY8gKCJo9A=
+
+Name: assets/port_patch/repentance-resources/dlc3.kr/gfx/ui/main_menu/
+ port_strap_guide.png
+SHA-256-Digest: OuGgw3xM6Q0wnlD/ezXGy4EXPCEKVbON1V7AnpNj97w=
+
+Name: assets/port_patch/repentance-resources/dlc3.kr/gfx/ui/main_menu/
+ port_strap_tweaks.png
+SHA-256-Digest: 6CtTbUHXgYSen6AgSIzblXqPkutabumEnXky0JI0PXI=
+
+Name: assets/port_patch/repentance-resources/dlc3.kr/gfx/ui/main_menu/
+ titlemenu_ios.png
+SHA-256-Digest: UWXzUus1M5LsNp2gRTt6sTsp2eAdbGnowG4gyAllt30=
+
+Name: assets/port_patch/repentance-resources/dlc3.kr/gfx/ui/port_strap
+ _spawner.png
+SHA-256-Digest: mwsDmbtVCGiZCRFBMB4J6VOFA3+zjDtKXnMrjWGwphk=
+
+Name: assets/port_patch/repentance-resources/dlc3.ru/gfx/ui/main_menu/
+ gamemenu.anm2.patch
+SHA-256-Digest: ADZb94H1fAiMt5u7DrhgmyAOYbPG0qDR64QerBPoo84=
+
+Name: assets/port_patch/repentance-resources/dlc3.ru/gfx/ui/main_menu/
+ gamemenu.png
+SHA-256-Digest: 2C04O4mMt+0bz7KxkhLqZxoApLSlcHmAQfObdnAxlL0=
+
+Name: assets/port_patch/repentance-resources/dlc3.ru/gfx/ui/main_menu/
+ gamemenu.png.pixels
+SHA-256-Digest: 7+GWoYBoUI6P+DxhQKp3WRY3rOB92+FoXQyH0ns3vB0=
+
+Name: assets/port_patch/repentance-resources/dlc3.ru/gfx/ui/main_menu/
+ optionsmenu.anm2.patch
+SHA-256-Digest: cbxrmyxsDFE1JxNoeu0cYiqJZMsim1SXFP7P+1OSwlA=
+
+Name: assets/port_patch/repentance-resources/dlc3.ru/gfx/ui/main_menu/
+ optionsmenu.png
+SHA-256-Digest: +XD/X/sEh5PrZjUEDtrclsPduVj2YcrcNqzyp86jT0c=
+
+Name: assets/port_patch/repentance-resources/dlc3.ru/gfx/ui/main_menu/
+ port_optionsextra.png
+SHA-256-Digest: KwAfJv79yz7dQ+9e7Ra1o3/q4CWsLfAHkbN7ENR4+mQ=
+
+Name: assets/port_patch/repentance-resources/dlc3.ru/gfx/ui/main_menu/
+ port_strap_credits.png
+SHA-256-Digest: Q/ETnB2jx2EiPaBJ4P4tc6dlo0+fpwrCOoX55zLDakI=
+
+Name: assets/port_patch/repentance-resources/dlc3.ru/gfx/ui/main_menu/
+ port_strap_guide.png
+SHA-256-Digest: 1zhq3/tXxBnuQVN1w+Dp8igkjq5AexNb16HECC3Bt8E=
+
+Name: assets/port_patch/repentance-resources/dlc3.ru/gfx/ui/main_menu/
+ port_strap_tweaks.png
+SHA-256-Digest: 887zAkSzf/neqpomk7gRdoWOhHZWyv9+0a+vKEKqJZA=
+
+Name: assets/port_patch/repentance-resources/dlc3.ru/gfx/ui/main_menu/
+ titlemenu_ios.png
+SHA-256-Digest: 8Kc+94gszneUF6ASpO4CcsO+iNIc97V0xHBOHHm9E7k=
+
+Name: assets/port_patch/repentance-resources/dlc3.ru/gfx/ui/pausescree
+ n.anm2.patch
+SHA-256-Digest: X76xm4tJSJoWocFt4lH9STbx21RpkgakQH/xEoJMFkQ=
+
+Name: assets/port_patch/repentance-resources/dlc3.ru/gfx/ui/port_strap
+ _spawner.png
+SHA-256-Digest: oe5yPSPh9/g5WnuSZXnm5d7aAcRY0N7bCszQDp319S8=
+
+Name: assets/port_patch/repentance-resources/dlc3.zh/gfx/ui/main_menu/
+ gamemenu.anm2.patch
+SHA-256-Digest: e4RUT7AuQ205A3PpYm8cVTB16wPk5Aqv3Q3pd43uefc=
+
+Name: assets/port_patch/repentance-resources/dlc3.zh/gfx/ui/main_menu/
+ gamemenu.png
+SHA-256-Digest: 2gmYl8GaK9GISUgx4MdlKh4RCkc/T0HltyS0JEmNQTg=
+
+Name: assets/port_patch/repentance-resources/dlc3.zh/gfx/ui/main_menu/
+ gamemenu.png.pixels
+SHA-256-Digest: KHwL1KmAtyhJHJfecK6xKr3GW1by8vEyEjeRQCZWS2I=
+
+Name: assets/port_patch/repentance-resources/dlc3.zh/gfx/ui/main_menu/
+ optionsmenu.anm2.patch
+SHA-256-Digest: eutK2MlL4UtW7bcMIcB2crc9QA/MH6QEiOPsVQ/WMhY=
+
+Name: assets/port_patch/repentance-resources/dlc3.zh/gfx/ui/main_menu/
+ port_optionsextra.png
+SHA-256-Digest: xgbxYm/ZLN+9Yg6V7wr+rav/+JIsW/EYn6vrWV4Nkfw=
+
+Name: assets/port_patch/repentance-resources/dlc3.zh/gfx/ui/main_menu/
+ port_strap_credits.png
+SHA-256-Digest: Eep8WZnQc0yULt7RotxouG4m5JX5sRNaXCF51BAwSA4=
+
+Name: assets/port_patch/repentance-resources/dlc3.zh/gfx/ui/main_menu/
+ port_strap_guide.png
+SHA-256-Digest: YUBr7VeclUuJuQcisS62W2zJWdByEEyLOBK/MWQrP9E=
+
+Name: assets/port_patch/repentance-resources/dlc3.zh/gfx/ui/main_menu/
+ port_strap_tweaks.png
+SHA-256-Digest: d/wwXnmOcniJPmjXRvOhQlnY/lC7OL2Jve0JmyBDPYc=
+
+Name: assets/port_patch/repentance-resources/dlc3.zh/gfx/ui/main_menu/
+ saveselectmenu.anm2.patch
+SHA-256-Digest: WoM1Pmel0zsSU6pL20epS7FqUQpLeIf6flqQgu6lpHM=
+
+Name: assets/port_patch/repentance-resources/dlc3.zh/gfx/ui/main_menu/
+ titlemenu_ios.png
+SHA-256-Digest: xOLw/stvpmKFiPxPfacPfejM+97Sd40LR7YzdP3ifCg=
+
+Name: assets/port_patch/repentance-resources/dlc3.zh/gfx/ui/pausescree
+ n.anm2.patch
+SHA-256-Digest: X76xm4tJSJoWocFt4lH9STbx21RpkgakQH/xEoJMFkQ=
+
+Name: assets/port_patch/repentance-resources/dlc3.zh/gfx/ui/port_strap
+ _spawner.png
+SHA-256-Digest: H7cKy2+765Ltd67zwfRPeMiHF7ARNlPyovbFXjznAqI=
+
+Name: assets/port_pickup_icons.anm2
+SHA-256-Digest: dy15MLAoukQdkljIu4C35KMUhiLzwuvQpCtG8RwZ0ek=
+
+Name: assets/port_pickup_icons.png
+SHA-256-Digest: Kao62WrhjDzHKhb9N7YNjJBkywDzT3kjK3X5QcdISUs=
+
+Name: assets/port_room_icons.anm2
+SHA-256-Digest: My7GpCQfNLD4APVkmkGMQepRmyy4SUU6beOrApZYbWI=
+
+Name: assets/port_room_icons.png
+SHA-256-Digest: z6pC0xcST4+m+ph9SkKDdmg8tU5R9VfBSeZdeq3X8Yw=
+
+Name: assets/port_spawner_tabs_de.anm2
+SHA-256-Digest: 7IAYCIS/xvkPQsOW8jwzyBa6VVFD6mibdeVh4L87ch0=
+
+Name: assets/port_spawner_tabs_de.png
+SHA-256-Digest: /LoThqdANX9rkg9cbWF6UCixAbLtmbfi6ajeYLqLbh8=
+
+Name: assets/port_spawner_tabs_en.anm2
+SHA-256-Digest: iJqtjEXiVVwXyIcFAJ/2YrVb0B85tS8CjQt9WRS7Mok=
+
+Name: assets/port_spawner_tabs_en.png
+SHA-256-Digest: I7EvUcxS0crHfbBnW0INYAlCMNgicpPXwfQ0cOkLc0g=
+
+Name: assets/port_spawner_tabs_es.anm2
+SHA-256-Digest: eH576t4+kVer7vulBoZNYJq4YbRj4pz/roCoDRH7DQA=
+
+Name: assets/port_spawner_tabs_es.png
+SHA-256-Digest: YAmQjCICpiyAXhVVAFruY8MP/Ka8J6GthyzZRXBJEsw=
+
+Name: assets/port_spawner_tabs_jp.anm2
+SHA-256-Digest: 67VW3QRHbSiUnI/xXjMB7g6/iB/yA4Iappq5EsV8x4A=
+
+Name: assets/port_spawner_tabs_jp.png
+SHA-256-Digest: kLy4jQ3MnJw2dERWFmpHIwFeNboSagZpxZHRuK2J7dc=
+
+Name: assets/port_spawner_tabs_kr.anm2
+SHA-256-Digest: jf4ls6McvQZIYXh2gmXK4m38lxSZRugzPPzqjmneIQ4=
+
+Name: assets/port_spawner_tabs_kr.png
+SHA-256-Digest: GxAw3YjWijw6omvHRmq54lj+IRa7i0AzBb34LEAmDps=
+
+Name: assets/port_spawner_tabs_ru.anm2
+SHA-256-Digest: IVx8lF46vVNJ1VYQ6YGwISWRUiaEnmR1Ac4abjJiZyM=
+
+Name: assets/port_spawner_tabs_ru.png
+SHA-256-Digest: GYHrZpYW4/prRg2P7v4RnmP7dApMN0GkC0iBWIXTT9A=
+
+Name: assets/port_spawner_tabs_zh.anm2
+SHA-256-Digest: unqJKJjXx2NCJSBsObRURKivpZ0ZhVwdaI8VPcMNgIY=
+
+Name: assets/port_spawner_tabs_zh.png
+SHA-256-Digest: J12PO7IW/fxsjdHpBQdOz5kiQ7QKl8gCRbm1efD56KI=
+
+Name: assets/port_specialist/arcadespecalist.ogg
+SHA-256-Digest: 7yXH7opqq5aSWelCo9PGhnwIhmN8RaO3c/liQLdRPQQ=
+
+Name: assets/port_specialist/arcadespecalist_b.ogg
+SHA-256-Digest: zZ2NnL6AJDGweVcz42Ji40SM6DFW6MoXO1Z7SeAIr20=
+
+Name: assets/port_specialist/arcadespecalist_eden.ogg
+SHA-256-Digest: auFeQfKA05aIVkilZ6XjlvWpRaPibha9v6QBkSUnSPA=
+
+Name: assets/port_specialist/costumes.xml
+SHA-256-Digest: D9ewdWr4nBvPBztGEtKuAv9YnV+w3DjGAlFr/qOs8PA=
+
+Name: assets/port_specialist/crackhousespecialist.ogg
+SHA-256-Digest: lqtdIj7cOQb8MS81lRfXAhGJNhfGfMtLOBSvqOycmGY=
+
+Name: assets/port_specialist/items/binky.anm2
+SHA-256-Digest: 5+fZKRfqnTwl1SXNrFEg4I2gw7GdZPnOf89aV32wtBQ=
+
+Name: assets/port_specialist/items/sprites/binky.png
+SHA-256-Digest: KMZiU/4DJw8h/UzRDov3mVEtX19qiyZzd8fZk3N7wo4=
+
+Name: assets/port_specialist/music.xml
+SHA-256-Digest: v9qS+FgnLNpt3Yn6mLfsOVgJacNkSC/r1akQpTEwRhU=
+
+Name: assets/port_specialist/sheets/apollyon.png
+SHA-256-Digest: 4iiukTLDgsYyiPME6uu9ThhJ18GwfBn2NgoVmz7RbXk=
+
+Name: assets/port_specialist/sheets/azazel.png
+SHA-256-Digest: 02TKH/oVCHVjZgTGvmU63O3QynHb1oBRHY8G4NnRK8k=
+
+Name: assets/port_specialist/sheets/bethany.png
+SHA-256-Digest: PYsgxM+PhENCSWYC+XsOTOkzlBQrrLIX+gPAmjv5gh8=
+
+Name: assets/port_specialist/sheets/cain.png
+SHA-256-Digest: X9JiJdEzv26UNPJ5Ls9Lpxmi/CTVp+cA9Rw2UJ4phnI=
+
+Name: assets/port_specialist/sheets/dark_judas.png
+SHA-256-Digest: ipm2bbd+QtQStuLV8XzgjPabtkSwfNgApH/XXk0LXkE=
+
+Name: assets/port_specialist/sheets/eden/0.png
+SHA-256-Digest: oHxapJrPhc/+EGoGc6xm2qIVPvEGrdoKjN1bSAOArb4=
+
+Name: assets/port_specialist/sheets/esau.png
+SHA-256-Digest: IQNTZpDmnFYa8voqKAFJFLZwfXdm6umqp0/2BHPmuh4=
+
+Name: assets/port_specialist/sheets/eve.png
+SHA-256-Digest: gQsVZ6Dc7ZOmfOpR8Yd4rkDT70fqM2a6OxP4/uKkUOM=
+
+Name: assets/port_specialist/sheets/forgor_bone.png
+SHA-256-Digest: 1hZFFEvFwjqzd1pCIwLh7eJRprKE42ijnwm2GTYoUgs=
+
+Name: assets/port_specialist/sheets/forgor_soul.png
+SHA-256-Digest: 8/qmlPDLiVyf/Nuy9r/SJi65J6revgOm0h/QdxV5m8E=
+
+Name: assets/port_specialist/sheets/isaac.png
+SHA-256-Digest: aHk30rrlxYSxQYHo1znc12flpX7gii567wpIU7C8o+A=
+
+Name: assets/port_specialist/sheets/jacob.png
+SHA-256-Digest: KCFQkaGKRxXOJfipU8dKeTxE3gr2xvtnMgafzegiON4=
+
+Name: assets/port_specialist/sheets/judas.png
+SHA-256-Digest: x29tplDlbvNspr4zfyxOCa0lpmoKO7vg5z014KDzWKk=
+
+Name: assets/port_specialist/sheets/keeper.png
+SHA-256-Digest: gc+3icDKtDvwoXxehtUqH26opAXdXjSjjD5bGAlE9CE=
+
+Name: assets/port_specialist/sheets/lazarus.png
+SHA-256-Digest: XzsoyNI+357dMd0ZqUnG9GmSyDEU5Pix4XxzodBDsVs=
+
+Name: assets/port_specialist/sheets/lazarus2.png
+SHA-256-Digest: wNWqEJ+dQ8m0ESnnpoh1DEBwS0A3rvcQXP5JBrMjm6k=
+
+Name: assets/port_specialist/sheets/lilith.png
+SHA-256-Digest: iSIcRwSJifkv8K+tIdU0AP9nz2Y84THMP/XzzlfV2C8=
+
+Name: assets/port_specialist/sheets/lost.png
+SHA-256-Digest: 3K2DWgwQHn40dC/KDguAa9wcpYY9VVELxiyWaRP+eNs=
+
+Name: assets/port_specialist/sheets/mag10.png
+SHA-256-Digest: UbsmMq1GPm5uF+A56mpTeRw+9aNPzFjOqhReV2PlyiM=
+
+Name: assets/port_specialist/sheets/samsung.png
+SHA-256-Digest: e3cPpeWY4lZvvg8/j7/e3hBnEU5vEugIwqCGVf+tu7g=
+
+Name: assets/port_specialist/sheets/xxx.png
+SHA-256-Digest: 3eU5gySfSvduU4CTw2t6nw1rVyco05i3kn7HayjVDBU=
+
+Name: assets/port_specialist/sheets_tainted/apollyon.png
+SHA-256-Digest: RjZwTvFJj3FOjpGBdJHcxr/sVhj2xFjaIVtokJsuEjI=
+
+Name: assets/port_specialist/sheets_tainted/azazel.png
+SHA-256-Digest: 2osLingMepjZvnuUK4FpcDvWzaVa/cbgOTJJse7zdkc=
+
+Name: assets/port_specialist/sheets_tainted/bethany.png
+SHA-256-Digest: TmU0YLvkjXyiSX7dZNgFjDrx9IVYEVGu7qAk8MjPOn0=
+
+Name: assets/port_specialist/sheets_tainted/bluebaby.png
+SHA-256-Digest: 1Nw28gp1+0GiPGejaVa9LfzVe40uY0XrMtokJWfs7h8=
+
+Name: assets/port_specialist/sheets_tainted/cain.png
+SHA-256-Digest: k00JDChbFO/STxfxhjDJwKwFHoZ4X3Hnz5EmA97edBA=
+
+Name: assets/port_specialist/sheets_tainted/eden.png
+SHA-256-Digest: FLhvDT0XtmssIShvSIWPBFj4aBAv1kaUr9fPPy0CCts=
+
+Name: assets/port_specialist/sheets_tainted/eve.png
+SHA-256-Digest: 2UM/vzguBGkjo9wi0D8VSc1sKEb0dJ9DSBk4tX+Va1Q=
+
+Name: assets/port_specialist/sheets_tainted/forgor_bone.png
+SHA-256-Digest: V3x50rUvIhe7REdEwSLe4apwRPUlMQ7OIor2ksduIg8=
+
+Name: assets/port_specialist/sheets_tainted/forgor_soul.png
+SHA-256-Digest: MKqDMB19r//gFhfDxNqmdkgtdbvy8RXc8oJLgExIlSE=
+
+Name: assets/port_specialist/sheets_tainted/isaac.png
+SHA-256-Digest: 4N9Y9XUlcC6P70dX3rVQrbXFHcRtbFvaE73nqDGnIMQ=
+
+Name: assets/port_specialist/sheets_tainted/jacob.png
+SHA-256-Digest: xy86FRn+j82i6S6Qj8Y5ROJ2UEl/SBV5TCUe2hcIbDA=
+
+Name: assets/port_specialist/sheets_tainted/jacob2.png
+SHA-256-Digest: /yl6PXX7ZPUa1ftSpdK7vv07xFRmQVWoGxHN1pzgQtc=
+
+Name: assets/port_specialist/sheets_tainted/judas.png
+SHA-256-Digest: LrF/QjPrGuO7LZomlafvq9Dr407xQ7UcgNmac8L3l2E=
+
+Name: assets/port_specialist/sheets_tainted/keeper.png
+SHA-256-Digest: 4e1X61yETnZ8SXQTvsF4Z4ycVChitYBoERC+duMiWCk=
+
+Name: assets/port_specialist/sheets_tainted/lazarus.png
+SHA-256-Digest: SwQoqEB64OlBGmBZLDxlMQ1909R2rThCxo+NUB4EMm8=
+
+Name: assets/port_specialist/sheets_tainted/lazarus2.png
+SHA-256-Digest: 2duOwvXFG7If8k7utumjjQfPPTa6wg7bGWpACMR4S8s=
+
+Name: assets/port_specialist/sheets_tainted/lilith.png
+SHA-256-Digest: rZTVDzpoylVDvht4pawa70P+NkpX1+zLiWd9JEdJavM=
+
+Name: assets/port_specialist/sheets_tainted/lost.png
+SHA-256-Digest: JJDpp1+fb4a/3YccavLzwckPYPgS3R2RkKNoT+Iv7vo=
+
+Name: assets/port_specialist/sheets_tainted/magdalene.png
+SHA-256-Digest: 63pO4PYzzSMfnHbrOhfELlxYi2pNvXQbi4KZtNFyTjs=
+
+Name: assets/port_specialist/sheets_tainted/samson.png
+SHA-256-Digest: HbDEgwEwy5nX/GIF4NzL/sRHItSWt16KmhdJSZqbQYM=
+
+Name: assets/port_specialist/specialist_apollyon.anm2
+SHA-256-Digest: N7pkQDGSX4fBGp9VwQYO6FgKrrsj3EYktY5acIMpdxY=
+
+Name: assets/port_specialist/specialist_azazel.anm2
+SHA-256-Digest: gm41kK0wxMUhCxisAEPOF8fAZWNUZoNnoysZUsu8UI8=
+
+Name: assets/port_specialist/specialist_bethany.anm2
+SHA-256-Digest: s2h50Hf6ZziBmKLv6h6mWpt/inbdlstKy9HvwXNwL6c=
+
+Name: assets/port_specialist/specialist_cain.anm2
+SHA-256-Digest: OX33pR6doEExulhuFqOvHm64UGChAtj6c88ikUVC/PQ=
+
+Name: assets/port_specialist/specialist_dark_judas.anm2
+SHA-256-Digest: 6k3QD7KNt9BbIK7ZRYH7loF4OnCb8LC77uiAmVYM1kU=
+
+Name: assets/port_specialist/specialist_eden.anm2
+SHA-256-Digest: rhWW25cN3VLs8Wwmpd0mojAQwrw84wU1nT6bLvrZhyY=
+
+Name: assets/port_specialist/specialist_esau.anm2
+SHA-256-Digest: 68ZgnU1JTHC2UxqvZ2dAFYdUaOOZS5meg1lqoVMzEJQ=
+
+Name: assets/port_specialist/specialist_eve.anm2
+SHA-256-Digest: Lo8uGGSyJr/OWomxWf2LAx9wUKd56WF146Wb+RoFMyE=
+
+Name: assets/port_specialist/specialist_forgor_bone.anm2
+SHA-256-Digest: 22phcDLSzFq5faP3nG4jWXLrQdWUFmLfy/emqm4vPs4=
+
+Name: assets/port_specialist/specialist_forgor_soul.anm2
+SHA-256-Digest: q7UIxQAQ8g+jZ51ok0g4JFAJlYkMM8AKritVAtvXL1I=
+
+Name: assets/port_specialist/specialist_isaac.anm2
+SHA-256-Digest: jpX6W1VoDq92dIlGokEc3WINe2fkSZgbGFiW6HbwBic=
+
+Name: assets/port_specialist/specialist_jacob.anm2
+SHA-256-Digest: G6ABkmYrmgpC+hnxghCsGUWGVelJQTpBNX+/Y/NNbHE=
+
+Name: assets/port_specialist/specialist_judas.anm2
+SHA-256-Digest: /EYJx59vhtkMupbDXqkxIU0X8INgRMFWGZ5GJKKFm68=
+
+Name: assets/port_specialist/specialist_keeper.anm2
+SHA-256-Digest: TZu5/Cs0thDBngxHqxJVLsH1JmDB7TTAez13vGuo+Yc=
+
+Name: assets/port_specialist/specialist_lazarus.anm2
+SHA-256-Digest: Hnv73KzBiOwPxqv30F0rZPl4boewcNHnefXPc+1jnDE=
+
+Name: assets/port_specialist/specialist_lazarus2.anm2
+SHA-256-Digest: Mr83PcJj86RcNnw9DmsQY/hz/VJM0072JM5UELRJeJg=
+
+Name: assets/port_specialist/specialist_lilith.anm2
+SHA-256-Digest: P7J2x7y90qSto4GnT1Lq+N3Pq+ZIcD8VqkG+gpQXjo0=
+
+Name: assets/port_specialist/specialist_lost.anm2
+SHA-256-Digest: DaKBcmopmA9KF7Y+vkHxE3FHNcSMCSeKKs8arNTi4uU=
+
+Name: assets/port_specialist/specialist_magdalene.anm2
+SHA-256-Digest: y+yzHOKXJKeF0VanJ/1w6yxrbQLJy2B0V4p3hqngML0=
+
+Name: assets/port_specialist/specialist_samson.anm2
+SHA-256-Digest: tarOucUifwiGbIOwyYrYAkl/8PUNcuEtdnVWm40j+DY=
+
+Name: assets/port_specialist/specialist_t_apollyon.anm2
+SHA-256-Digest: X7cIV8AvC8sELxesRr/0hgUpyhvUa+3KqMwcW52wjmg=
+
+Name: assets/port_specialist/specialist_t_azazel.anm2
+SHA-256-Digest: uGhs3NS2VH1fd1NaaLxUN/mTVaaHf2x/DK2YJct3sug=
+
+Name: assets/port_specialist/specialist_t_bethany.anm2
+SHA-256-Digest: Li3TrDCVZfnrTP1+uk9NW9b7vWa0ts/9W6oZKKjvXtg=
+
+Name: assets/port_specialist/specialist_t_bluebaby.anm2
+SHA-256-Digest: 3AIezs7IUFPE0LVWsr103+ShvzTzKaro+VcGLrXBqdo=
+
+Name: assets/port_specialist/specialist_t_cain.anm2
+SHA-256-Digest: jeRBOffOuIqPwnF9e77N+ijuXhU+22kiJg2XUFbDPD4=
+
+Name: assets/port_specialist/specialist_t_eden.anm2
+SHA-256-Digest: 6ZzYg/4/YR//IPeUEY9ynScJtPiQus9Ym5P7IffyOC4=
+
+Name: assets/port_specialist/specialist_t_eve.anm2
+SHA-256-Digest: 1nrrqHPwAVSMIWPK3Ej+uJ4ckgQpxnzwiWdaytEtxFk=
+
+Name: assets/port_specialist/specialist_t_forgor_bone.anm2
+SHA-256-Digest: q2qUgayiSF1Hs3fK/0wyKqD1+CRfdKl5Ok+LmIMPLJU=
+
+Name: assets/port_specialist/specialist_t_forgor_soul.anm2
+SHA-256-Digest: MYYgx/sLkeKLHl/7Fdw/0efRgT/QSmnxtkYjvU/J/2c=
+
+Name: assets/port_specialist/specialist_t_isaac.anm2
+SHA-256-Digest: He17Rnsl4opLgpTTGiwPeNXTFTV7C+5NaIL42IEtGSs=
+
+Name: assets/port_specialist/specialist_t_jacob.anm2
+SHA-256-Digest: 58ZvbZ3lmMj7x5a5sJkumJUcjHZr36z/LuNp61F9doE=
+
+Name: assets/port_specialist/specialist_t_jacob2.anm2
+SHA-256-Digest: +AcmrD+2pNMu7niAL8yPSRcamUAPY2k5sPZPiFjtlZs=
+
+Name: assets/port_specialist/specialist_t_judas.anm2
+SHA-256-Digest: HJM05HLTQ2S4O+cCBPo6Craw1vRxGtO+4j9OrXiVs/8=
+
+Name: assets/port_specialist/specialist_t_keeper.anm2
+SHA-256-Digest: WPlu3djId/pXbgjHqbVAbqoLq9DNecyLtLOsweOJgSA=
+
+Name: assets/port_specialist/specialist_t_lazarus.anm2
+SHA-256-Digest: fouo+Hk9LvwNjgjTsIg4Hmnkdiyt8uI4U6tkxxzsamE=
+
+Name: assets/port_specialist/specialist_t_lazarus2.anm2
+SHA-256-Digest: TsjR0pqus32Vt2/WY7/6Fnl7YOPYCyVq5LXvOqkWVzI=
+
+Name: assets/port_specialist/specialist_t_lilith.anm2
+SHA-256-Digest: +S6o+vscMULfo4jFLacCv3rGnWIrK7DixquyzSEp7lM=
+
+Name: assets/port_specialist/specialist_t_lost.anm2
+SHA-256-Digest: izkUFyR3oOYfIM4jkigKoSIWBJGuGpfPVFI4xHJuafw=
+
+Name: assets/port_specialist/specialist_t_magdalene.anm2
+SHA-256-Digest: 3aHB4vTkiXs0iQ7NxpDVKm/qPRQvNz8Z4ViWffTu+KY=
+
+Name: assets/port_specialist/specialist_t_samson.anm2
+SHA-256-Digest: hQ8vVN+zBD/GHDWckjrXxGXRO1mIoYPd3neIf+Tmw2o=
+
+Name: assets/port_specialist/specialist_xxx.anm2
+SHA-256-Digest: 5OCu6l1ia9VQIcDEltdImlCRiZ3MQj1luSkdX2KukzE=
+
+Name: assets/port_stat_icons.anm2
+SHA-256-Digest: SZYWAkzcWEfJdLheSlFp7jnW+KvRNuARz1W3FiCoB7g=
+
+Name: assets/port_stat_icons.png
+SHA-256-Digest: 8sKC49zASEyQlfBSXlFqk/bEVW0it9IUmcxmJpWhOyE=
+
+Name: assets/port_touch_editor.anm2
+SHA-256-Digest: kBOa1DwHQQSfO1awhK1d4D4zlwsxTS/w1mrA8U+rh2M=
+
+Name: assets/port_touch_tools.png
+SHA-256-Digest: aVnN6oD++Wfnb05SbcHFTIX1lk0EA96ofFwlXcliXNg=
+
+Name: assets/port_tweaks_menu_de.anm2
+SHA-256-Digest: C/iI1SqfzRYWzppDTK0l2ECGlbG+gjg8yzZ8nW5RHs4=
+
+Name: assets/port_tweaks_menu_en.anm2
+SHA-256-Digest: t6VWPTaOXkibfZJ2pMZltHwYbOP6nL0wiSQSKKodO8k=
+
+Name: assets/port_tweaks_menu_es.anm2
+SHA-256-Digest: vilF9qgvqOnetkZL1WMmbQ7h7DBpWxkQ41GG665/sAY=
+
+Name: assets/port_tweaks_menu_jp.anm2
+SHA-256-Digest: 7molg0YrisxJKvMraaC1rWUIFz1xKNCs7MYCUIo+3ys=
+
+Name: assets/port_tweaks_menu_kr.anm2
+SHA-256-Digest: 8VSlOZanRWqf6u+FiYLJ91zu44FjQs8s7oC6ZG9XRsw=
+
+Name: assets/port_tweaks_menu_ru.anm2
+SHA-256-Digest: asGbblIaiY2B/AIXcbizjmjtRrHnkjJG1+CMvwIcWeQ=
+
+Name: assets/port_tweaks_menu_zh.anm2
+SHA-256-Digest: Re3zF/nqCXb0WGk0BNUD13i6k0AuBpjD0EBsEyWs2Sg=
+
+Name: assets/port_tweaks_page_de.png
+SHA-256-Digest: LGqv7xX41X6+UA7Ck5uBpM6kiA4fUul8UrUTmN7kgKI=
+
+Name: assets/port_tweaks_page_en.png
+SHA-256-Digest: W4OsNRoJYYxY1trlT7MadXHXKRN58brvCst/bDGzNp8=
+
+Name: assets/port_tweaks_page_es.png
+SHA-256-Digest: Kr7//N4eDTIi3/gu1eXIG0GepcLxCwm1haqoAYBstEU=
+
+Name: assets/port_tweaks_page_jp.png
+SHA-256-Digest: m4TnjueI8fxAtZ0qq7eyUJ8o70PUzA/mYZzn7dDv1MM=
+
+Name: assets/port_tweaks_page_kr.png
+SHA-256-Digest: VoPkHy/47P/fFcWnYXEnYHWZIoE+SIWciZwTfw27usQ=
+
+Name: assets/port_tweaks_page_ru.png
+SHA-256-Digest: QlrBNOB4DakRkWHccJBGEZiY14zC6ghcAwLw6q2yPFE=
+
+Name: assets/port_tweaks_page_zh.png
+SHA-256-Digest: ewVhLMPSp8t557qPOyAAN6cKUUKdIwwoA4cX2PD/8cw=
+
+Name: assets/port_tweaks_words_de.png
+SHA-256-Digest: zZSmAD9omcoTWKiF+fNM8n3VYl45My2KKRjJgMGbntc=
+
+Name: assets/port_tweaks_words_en.png
+SHA-256-Digest: s0usR3NIUFw6Cdb8oyjXrj/fd6yQztTkYAmNuMhaFaM=
+
+Name: assets/port_tweaks_words_es.png
+SHA-256-Digest: wu4Z9umybwqkdBjGq/rhiQrlMHkYjOx7AJ6bg9sVWBE=
+
+Name: assets/port_tweaks_words_jp.png
+SHA-256-Digest: HUN7wE3MtM+qs+cVtjc1gbWE0/2JZOco8RIjItZp5GA=
+
+Name: assets/port_tweaks_words_kr.png
+SHA-256-Digest: 8KgSZ1sU5mcRIBWP1WcfzX8DpdaeqDLsGfiRaWg1SFY=
+
+Name: assets/port_tweaks_words_ru.png
+SHA-256-Digest: 3O4T+SU2RDTwmLGD4sFhsB1KXQUwrQJffijVbvqJ2dQ=
+
+Name: assets/port_tweaks_words_zh.png
+SHA-256-Digest: 5lTllagvkqBY/mR4/LNOwZYFbokIjFdDgvHsAbD7EBs=
+
+Name: assets/port_wavebar.anm2
+SHA-256-Digest: Cgja78sx8Sw3mLWaJTk+pHwWgdDUEuVCJViKQXII2QM=
+
+Name: assets/port_wavebar.png
+SHA-256-Digest: paFT9HuahAHQIS/S7Q0TW3gUs1JxhTLYLRQtJPxMOYw=
+
+Name: assets/port_white.png
+SHA-256-Digest: UI6SI4ZA4FA01PasfZBqMojoLb4Ee36PVf9NmTp1I+8=
+
+Name: assets/resources.pak
+SHA-256-Digest: 5M6ZMkNNbTOTTYzhASwEbXiUiMMwd3aOlJID48J06IU=
+
+Name: classes.dex
+SHA-256-Digest: ChDEyXD3iKmlGBoVUUst8xCbyXOolQYNzyzkDsQ8+cc=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA-256-Digest: ku6NpkG5aSVMyHI/ZKoRXTbI/6hxFeOLycuJ4+7+6Dk=
+
+Name: lib/arm64-v8a/libisaacport.so
+SHA-256-Digest: ApLuRtB5V0yInXDVXV530avyV1mXRboZCWVrdmSIqIY=
+
+Name: res/4j.xml
+SHA-256-Digest: 64co1UHmdVm/uoy56AAnOpl1xCPx3sVvSCrwAR5uf6I=
+
+Name: res/9w.png
+SHA-256-Digest: dInfvQlFoC/ux1l0oYtbUqqsvqi4lah48eDEk9XW7J4=
+
+Name: res/BW.xml
+SHA-256-Digest: J/3ahVj+f3EMieO95FCRxlnVtm76z4SVeD/fRHmodfw=
+
+Name: res/En.png
+SHA-256-Digest: Dyps2XR0ik6419T/NI1LZL1a3/5HluGZ4T7PcPZn50U=
+
+Name: res/FS.png
+SHA-256-Digest: ZzifJCMTe2xGXSoKk2GEqlb0CJxSKcsU3/zFkNBsB/s=
+
+Name: res/I8.png
+SHA-256-Digest: DGvmghiJ+8ZxgURGCjNa5Wdpqb7wcdmt5ZsUTCAwLHY=
+
+Name: res/RJ.png
+SHA-256-Digest: VaqC/t5Wn36fVAS0ic0z2CgaimGg3b7lVwOcHJJddbo=
+
+Name: res/_9.png
+SHA-256-Digest: Nui9K5DpZIv+8SVdJ2yOxfVQVTXZcIBij6hPuONiyfs=
+
+Name: res/jZ.png
+SHA-256-Digest: IdKmfF0zVdJoYsNwPaudgAQo8Xp2PzUuW39Nsiy6QeY=
+
+Name: res/kr.png
+SHA-256-Digest: tkGrB/tQowDMrwWXrktLtP0uI80F454Xi3T7GBbMbpc=
+
+Name: res/o-.png
+SHA-256-Digest: Wra/AkLfQlCmFIi5m/E6GHDw0GhV1ELEaE29qPZY//8=
+
+Name: res/yn.png
+SHA-256-Digest: eXLeIf/HkGzi+cHb+AKBiEubPiU7SEExwnyzxVmlq3w=
+
+Name: resources.arsc
+SHA-256-Digest: mKSpZh2OGlEai0vTODtB9lyTb0rLWf0xpJFJdaNgqwA=
+
