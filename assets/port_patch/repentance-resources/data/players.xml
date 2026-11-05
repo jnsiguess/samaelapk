@@ -227,5 +227,5 @@
 	<!-- SAMAEL (id 41): slot extra. Sin canShoot: la Spirit Sword de samael.c necesita disparar. -->
 	<player id="41" name="Samael" skin="Character_Samael.png" hp="2" black="2" armor="2"
           nameimage="PlayerName_Samael.png"
-          portrait="PlayerPortrait_Samael.png" skinColor="1" />
+          portrait="PlayerPortrait_Samael.png" skinColor="1" costume="130" />
 </players>

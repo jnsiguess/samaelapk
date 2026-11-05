@@ -86,3 +86,9 @@ over	repentance-resources/data/players.xml	port_patch/repentance-resources/data/
 file	repentance-resources/data/gfx/characters/costumes/Character_Samael.png	port_patch/repentance-resources/data/gfx/characters/costumes/Character_Samael.png
 file	repentance-resources/data/gfx/ui/stage/PlayerPortrait_Samael.png	port_patch/repentance-resources/data/gfx/ui/stage/PlayerPortrait_Samael.png
 file	repentance-resources/data/gfx/ui/boss/PlayerName_Samael.png	port_patch/repentance-resources/data/gfx/ui/boss/PlayerName_Samael.png
+over	repentance-resources/data/costumes2.xml	port_patch/repentance-resources/data/costumes2.xml
+file	repentance-resources/data/gfx/characters/samael/samael_costume.anm2	port_patch/repentance-resources/data/gfx/characters/samael/samael_costume.anm2
+file	repentance-resources/data/gfx/characters/samael/samael_hood.png	port_patch/repentance-resources/data/gfx/characters/samael/samael_hood.png
+file	repentance-resources/data/gfx/characters/samael/samael_blindfold.png	port_patch/repentance-resources/data/gfx/characters/samael/samael_blindfold.png
+file	repentance-resources/data/gfx/characters/samael/samael_horns.png	port_patch/repentance-resources/data/gfx/characters/samael/samael_horns.png
+file	repentance-resources/data/gfx/characters/samael/samaelcloak.png	port_patch/repentance-resources/data/gfx/characters/samael/samaelcloak.png
